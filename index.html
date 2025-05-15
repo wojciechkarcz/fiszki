@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sailing Flashcards</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            margin: 0;
+            background-color: #f0f8ff; /* Light blue, like the sea */
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+        #flashcard-container {
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+            width: 90%;
+            max-width: 600px;
+            text-align: center;
+        }
+
+        #question-category {
+            font-size: 0.9em;
+            color: #555;
+            margin-bottom: 10px;
+        }
+
+        #question-text {
+            font-size: 1.5em;
+            margin-bottom: 25px;
+            color: #333;
+            min-height: 50px; /* Ensure space even for short questions */
+        }
+
+        .answer-option {
+            display: flex;
+            align-items: center;
+            margin-bottom: 15px;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        .answer-option:hover {
+            background-color: #f9f9f9;
+        }
+
+        .answer-option input[type="radio"] {
+            margin-right: 10px;
+            transform: scale(1.2); /* Make radio button slightly larger */
+        }
+        .answer-option label {
+            flex-grow: 1;
+            text-align: left;
+        }
+
+        button {
+            background-color: #007bff; /* A nice sailing blue */
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 1em;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            margin-top: 10px;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        #feedback {
+            margin-top: 20px;
+            font-size: 1.2em;
+            font-weight: bold;
+            min-height: 25px; /* Ensure space for feedback text */
+        }
+
+        .correct-answer-label {
+            background-color: #d4edda !important; /* Light green */
+            color: #155724 !important;
+            border-color: #c3e6cb !important;
+        }
+
+        .incorrect-answer-label {
+            background-color: #f8d7da !important; /* Light red */
+            color: #721c24 !important;
+            border-color: #f5c6cb !important;
+        }
+
+        #next-question-btn {
+            background-color: #28a745; /* Green for next */
+            display: none; /* Hidden by default */
+        }
+        #next-question-btn:hover {
+            background-color: #1e7e34;
+        }
+
+        #stats {
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #444;
+        }
+
+    </style>
+</head>
+<body>
+
+    <div id="flashcard-container">
+        <div id="question-category">Category</div>
+        <div id="question-text">Question text will appear here.</div>
+        
+        <form id="answer-form">
+            <div class="answer-option">
+                <input type="radio" id="answerA" name="answer" value="A">
+                <label for="answerA" id="labelA">Answer A</label>
+            </div>
+            <div class="answer-option">
+                <input type="radio" id="answerB" name="answer" value="B">
+                <label for="answerB" id="labelB">Answer B</label>
+            </div>
+            <div class="answer-option">
+                <input type="radio" id="answerC" name="answer" value="C">
+                <label for="answerC" id="labelC">Answer C</label>
+            </div>
+        </form>
+
+        <button id="check-btn">Check Answer</button>
+        <button id="next-question-btn">Next Question</button>
+        
+        <div id="feedback"></div>
+        <div id="stats">
+            Correct: <span id="correct-count">0</span> | Incorrect: <span id="incorrect-count">0</span> | Remaining: <span id="remaining-count">0</span>
+        </div>
+    </div>
+
+    <script>
+        const questions = [
+            // Your JSON data will go here
+            {
+                "id": 1,
+                "category": "Basic Terminology",
+                "text": "What is the front of a boat called?",
+                "answerA": "Stern",
+                "answerB": "Bow",
+                "answerC": "Port",
+                "correctAnswer": "B"
+            },
+            {
+                "id": 2,
+                "category": "Basic Terminology",
+                "text": "What is the rear of a boat called?",
+                "answerA": "Bow",
+                "answerB": "Starboard",
+                "answerC": "Stern",
+                "correctAnswer": "C"
+            },
+            {
+                "id": 3,
+                "category": "Directions",
+                "text": "Which side is 'Port' when facing the bow?",
+                "answerA": "Left",
+                "answerB": "Right",
+                "answerC": "Center",
+                "correctAnswer": "A"
+            },
+            {
+                "id": 4,
+                "category": "Directions",
+                "text": "Which side is 'Starboard' when facing the bow?",
+                "answerA": "Left",
+                "answerB": "Right",
+                "answerC": "Aft",
+                "correctAnswer": "B"
+            },
+            {
+                "id": 5,
+                "category": "Sailing Maneuvers",
+                "text": "What is it called when you turn the bow of the boat through the wind?",
+                "answerA": "Jibing (Gybing)",
+                "answerB": "Tacking",
+                "answerC": "Reaching",
+                "correctAnswer": "B"
+            },
+            {
+                "id": 6,
+                "category": "Sailing Maneuvers",
+                "text": "What is it called when you turn the stern of the boat through the wind?",
+                "answerA": "Tacking",
+                "answerB": "Running",
+                "answerC": "Jibing (Gybing)",
+                "correctAnswer": "C"
+            },
+            {
+                "id": 7,
+                "category": "Wind Direction",
+                "text": "The direction from which the wind is blowing is called:",
+                "answerA": "Leeward",
+                "answerB": "Abeam",
+                "answerC": "Windward",
+                "correctAnswer": "C"
+            },
+            {
+                "id": 8,
+                "category": "Wind Direction",
+                "text": "The direction sheltered from the wind is called:",
+                "answerA": "Windward",
+                "answerB": "Leeward",
+                "answerC": "Close-hauled",
+                "correctAnswer": "B"
+            },
+            {
+                "id": 9,
+                "category": "Parts of a Sailboat",
+                "text": "What is the main vertical spar that supports the sails?",
+                "answerA": "Boom",
+                "answerB": "Mast",
+                "answerC": "Keel",
+                "correctAnswer": "B"
+            },
+            {
+                "id": 10,
+                "category": "Parts of a Sailboat",
+                "text": "What is the spar along the bottom edge of the mainsail?",
+                "answerA": "Mast",
+                "answerB": "Tiller",
+                "answerC": "Boom",
+                "correctAnswer": "C"
+            },
+            {
+                "id": 11,
+                "category": "Points of Sail",
+                "text": "Sailing as close to the wind as possible is called:",
+                "answerA": "Running",
+                "answerB": "Close-hauled",
+                "answerC": "Beam reach",
+                "correctAnswer": "B"
+            },
+            {
+                "id": 12,
+                "category": "Points of Sail",
+                "text": "Sailing with the wind directly behind the boat is called:",
+                "answerA": "Running",
+                "answerB": "Broad reach",
+                "answerC": "Tacking",
+                "correctAnswer": "A"
+            },
+            {
+                "id": 13,
+                "category": "Navigation Rules",
+                "text": "A sailboat on starboard tack has right of way over a sailboat on which tack?",
+                "answerA": "Starboard tack",
+                "answerB": "Port tack",
+                "answerC": "Neither, motorboats always give way",
+                "correctAnswer": "B"
+            },
+            {
+                "id": 14,
+                "category": "Safety Equipment",
+                "text": "What does PFD stand for?",
+                "answerA": "Portable Flotation Device",
+                "answerB": "Personal Flotation Device",
+                "answerC": "Primary Fire Douser",
+                "correctAnswer": "B"
+            },
+            {
+                "id": 15,
+                "category": "Knots",
+                "text": "Which knot is commonly used to tie a boat to a dock cleat?",
+                "answerA": "Bowline",
+                "answerB": "Square Knot",
+                "answerC": "Cleat Hitch",
+                "correctAnswer": "C"
+            }
+        ];
+
+        let currentQuestion = null;
+        let availableQuestions = [];
+        let correctAnswersCount = 0;
+        let incorrectAnswersCount = 0;
+
+        const questionCategoryEl = document.getElementById('question-category');
+        const questionTextEl = document.getElementById('question-text');
+        const answerFormEl = document.getElementById('answer-form');
+        const answerARadio = document.getElementById('answerA');
+        const answerBRadio = document.getElementById('answerB');
+        const answerCRadio = document.getElementById('answerC');
+        const labelAEl = document.getElementById('labelA');
+        const labelBEl = document.getElementById('labelB');
+        const labelCEl = document.getElementById('labelC');
+        const checkBtn = document.getElementById('check-btn');
+        const nextQuestionBtn = document.getElementById('next-question-btn');
+        const feedbackEl = document.getElementById('feedback');
+
+        const correctCountEl = document.getElementById('correct-count');
+        const incorrectCountEl = document.getElementById('incorrect-count');
+        const remainingCountEl = document.getElementById('remaining-count');
+
+
+        function shuffleArray(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]]; // Swap elements
+            }
+        }
+
+        function loadQuestions() {
+            availableQuestions = [...questions]; // Create a mutable copy
+            shuffleArray(availableQuestions); // Shuffle for randomness from the start
+            updateStats();
+        }
+
+        function displayQuestion() {
+            if (availableQuestions.length === 0) {
+                questionTextEl.textContent = "All questions answered! Reload to start again or review.";
+                questionCategoryEl.textContent = "Finished!";
+                answerFormEl.style.display = 'none';
+                checkBtn.style.display = 'none';
+                nextQuestionBtn.style.display = 'none';
+                feedbackEl.textContent = `Final Score: ${correctAnswersCount} correct, ${incorrectAnswersCount} incorrect.`;
+                return;
+            }
+
+            // Pick a random question from the *remaining* available questions
+            // No need to pick random if already shuffled, just pop
+            currentQuestion = availableQuestions.pop(); 
+            
+            questionCategoryEl.textContent = `Category: ${currentQuestion.category}`;
+            questionTextEl.textContent = currentQuestion.text;
+            
+            labelAEl.textContent = currentQuestion.answerA;
+            labelBEl.textContent = currentQuestion.answerB;
+            labelCEl.textContent = currentQuestion.answerC;
+
+            // Reset form state
+            answerFormEl.reset(); // Clears radio button selection
+            answerFormEl.style.display = 'block';
+
+            labelAEl.classList.remove('correct-answer-label', 'incorrect-answer-label');
+            labelBEl.classList.remove('correct-answer-label', 'incorrect-answer-label');
+            labelCEl.classList.remove('correct-answer-label', 'incorrect-answer-label');
+            
+            Array.from(answerFormEl.elements.answer).forEach(radio => radio.disabled = false);
+
+            feedbackEl.textContent = '';
+            checkBtn.style.display = 'inline-block';
+            nextQuestionBtn.style.display = 'none';
+            updateStats();
+        }
+
+        function checkAnswer() {
+            const selectedAnswer = answerFormEl.querySelector('input[name="answer"]:checked');
+
+            if (!selectedAnswer) {
+                feedbackEl.textContent = "Please select an answer!";
+                feedbackEl.style.color = 'orange';
+                return;
+            }
+
+            feedbackEl.style.color = ''; // Reset color
+            const userAnswer = selectedAnswer.value;
+            const correctAnswer = currentQuestion.correctAnswer;
+            
+            let isCorrect = userAnswer === correctAnswer;
+
+            // Disable radio buttons after checking
+            Array.from(answerFormEl.elements.answer).forEach(radio => radio.disabled = true);
+
+            // Highlight correct answer
+            if (correctAnswer === 'A') labelAEl.classList.add('correct-answer-label');
+            if (correctAnswer === 'B') labelBEl.classList.add('correct-answer-label');
+            if (correctAnswer === 'C') labelCEl.classList.add('correct-answer-label');
+
+            if (isCorrect) {
+                feedbackEl.textContent = "Correct!";
+                feedbackEl.style.color = 'green';
+                correctAnswersCount++;
+            } else {
+                feedbackEl.textContent = `Incorrect. The correct answer was ${correctAnswer}.`;
+                feedbackEl.style.color = 'red';
+                incorrectAnswersCount++;
+                // Highlight the user's incorrect choice if different from correct
+                if (userAnswer === 'A') labelAEl.classList.add('incorrect-answer-label');
+                else if (userAnswer === 'B') labelBEl.classList.add('incorrect-answer-label');
+                else if (userAnswer === 'C') labelCEl.classList.add('incorrect-answer-label');
+            }
+            
+            checkBtn.style.display = 'none';
+            nextQuestionBtn.style.display = 'inline-block';
+            updateStats();
+        }
+
+        function updateStats() {
+            correctCountEl.textContent = correctAnswersCount;
+            incorrectCountEl.textContent = incorrectAnswersCount;
+            remainingCountEl.textContent = availableQuestions.length + (currentQuestion ? 1:0) -1 ; // +1 for current, -1 because it's about to be shown or just was
+            if (currentQuestion === null && availableQuestions.length === 0) { // Initial load before first question
+                 remainingCountEl.textContent = questions.length;
+            }
+             if (availableQuestions.length === 0 && currentQuestion && checkBtn.style.display === 'none') { // Last question answered
+                remainingCountEl.textContent = 0;
+            }
+        }
+
+
+        checkBtn.addEventListener('click', checkAnswer);
+        nextQuestionBtn.addEventListener('click', displayQuestion);
+
+        // Add click listener to labels to select radio button
+        [labelAEl, labelBEl, labelCEl].forEach(label => {
+            label.addEventListener('click', () => {
+                if (!document.getElementById(label.htmlFor).disabled) {
+                    document.getElementById(label.htmlFor).checked = true;
+                }
+            });
+        });
+        
+        // Initial Load
+        loadQuestions();
+        displayQuestion();
+
+    </script>
+
+</body>
+</html>
