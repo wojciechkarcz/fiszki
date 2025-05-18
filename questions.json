@@ -1,92 +1,1730 @@
 [
   {
     "id": 1,
-    "question": "What is the term for the left side of a boat when facing forward?",
-    "category": "Basics",
-    "answer_1": "Starboard",
-    "answer_2": "Port",
-    "answer_3": "Bow",
+    "question": "Jakie znasz typy kotwic? Wybierz prawidłową odpowiedź. ",
+    "category": "budowa_jachtu",
+    "answer_1": "stalowa, mieszana, aluminiowa, denna ",
+    "answer_2": "admiralicji, patentowa Danfortha, patentowa Halla, patentowa pługowa ",
+    "answer_3": "dwułapowa, portowa, cumowa, wbijak ",
     "correct_answer": 2
   },
   {
     "id": 2,
-    "question": "Which knot is commonly used to attach a line to a cleat?",
-    "category": "Knots",
-    "answer_1": "Clove hitch",
-    "answer_2": "Bowline",
-    "answer_3": "Cleat hitch",
-    "correct_answer": 3
-  },
-  {
-    "id": 3,
-    "question": "What does a single white light at the top of a mast indicate at night?",
-    "category": "Lights",
-    "answer_1": "Vessel at anchor",
-    "answer_2": "Sailing vessel under way",
-    "answer_3": "Power-driven vessel under way",
+    "question": "Jakie znasz typy ożaglowania jachtu? Wybierz prawidłową odpowiedź. ",
+    "category": "budowa_jachtu",
+    "answer_1": "sluter, kuter bermudzki, kuter gaflowy, jol, kecz ",
+    "answer_2": "kat, slip, kecz gaflowy, szkuner sztakslowy ",
+    "answer_3": "dakronowe, bawełniane, pleksiglasowe, płócienne, poliestrowe ",
     "correct_answer": 1
   },
   {
+    "id": 3,
+    "question": "Jakie znasz rodzaje żagli? Wybierz prawidłową odpowiedź. ",
+    "category": "budowa_jachtu",
+    "answer_1": "trójkątne, prostokątne, wiszące, wciągane ",
+    "answer_2": "dakronowe, bawełniane, pleksiglasowe, płócienne, poliestrowe ",
+    "answer_3": "łacińskie, lugrowe, rozprzowe, gaflowe, Marconi-bermudzkie, rejowe ",
+    "correct_answer": 3
+  },
+  {
     "id": 4,
-    "question": "Which side should you leave an isolated danger mark to stay in safe water?",
-    "category": "Buoyage",
-    "answer_1": "North",
-    "answer_2": "Either side",
-    "answer_3": "South",
+    "question": "Jakie znasz rodzaje mieczy? Wybierz prawidłową odpowiedź. ",
+    "category": "budowa_jachtu",
+    "answer_1": "płaskie, obłe, krótkie ",
+    "answer_2": "obrotowe, szybrowe, holenderskie ",
+    "answer_3": "belgijskie, kołowrotowe, uchylne ",
     "correct_answer": 2
   },
   {
     "id": 5,
-    "question": "A sudden strong wind of short duration is called a…",
-    "category": "Weather",
-    "answer_1": "Breeze",
-    "answer_2": "Gale",
-    "answer_3": "Squall",
-    "correct_answer": 3
+    "question": "Która z poniższych odpowiedzi zawiera tylko elementy drobnego osprzętu pokładowego? ",
+    "category": "budowa_jachtu",
+    "answer_1": "kluza, półkluza, podwięź wantowa, sztagownik, ściągacz ",
+    "answer_2": "krawat, cuma, szpicgat, rzutka, fał ",
+    "answer_3": "pokładnik, wzdłużnik, kokpit, bakista, forpik ",
+    "correct_answer": 1
   },
   {
     "id": 6,
-    "question": "What is the purpose of a telltale on a sail?",
-    "category": "Trim",
-    "answer_1": "Show wind direction across the sail",
-    "answer_2": "Measure boat speed",
-    "answer_3": "Indicate sail cloth wear",
-    "correct_answer": 1
+    "question": "Która z poniższych odpowiedzi zawiera tylko elementy drobnego osprzętu żaglowego? ",
+    "category": "budowa_jachtu",
+    "answer_1": "krawat, cuma, szpicgat, rzutka, fał ",
+    "answer_2": "pokładnik, wzdłużnik, kokpit, bakista, forpik ",
+    "answer_3": "szekla, kausza, bloczek, krętlik, raksa ",
+    "correct_answer": 3
   },
   {
     "id": 7,
-    "question": "In COLREGs, which vessel is the stand-on vessel when two sailing boats meet on opposite tacks?",
-    "category": "Rules",
-    "answer_1": "Starboard-tack vessel",
-    "answer_2": "Port-tack vessel",
-    "answer_3": "Downwind vessel",
-    "correct_answer": 1
+    "question": "Liny olinowania stałego na jachcie typu slup to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "baksztagi, forsztagi, wantsztagi, bomy, krętliki ",
+    "answer_2": "jumpsztag, wanty kolumnowe, stenwanty, topwanty, krojcwanty ",
+    "answer_3": "achterwanty, wanty fokowe, wanty grotowe, topsztagi  ",
+    "correct_answer": 3
   },
   {
     "id": 8,
-    "question": "The forwardmost point of a boat is called the…",
-    "category": "Basics",
-    "answer_1": "Stern",
-    "answer_2": "Bow",
-    "answer_3": "Beam",
-    "correct_answer": 2
+    "question": "Jakie znasz rodzaje ruf? Wybierz prawidłową odpowiedź. ",
+    "category": "budowa_jachtu",
+    "answer_1": "szpicgat, kanugat, konchowa ",
+    "answer_2": "obła, zamknięta, flagsztokowa ",
+    "answer_3": "achterpikowa, baksztagowa, szturwałowa ",
+    "correct_answer": 1
   },
   {
     "id": 9,
-    "question": "Which knot is best for joining two lines of similar diameter?",
-    "category": "Knots",
-    "answer_1": "Sheet bend",
-    "answer_2": "Figure of eight",
-    "answer_3": "Round turn & two half hitches",
-    "correct_answer": 1
+    "question": "Jakie znasz rodzaje dziobów? Wybierz prawidłową odpowiedź. ",
+    "category": "budowa_jachtu",
+    "answer_1": "ostry, tępy, podniesiony ",
+    "answer_2": "skośny, łyżkowy, kliprowy ",
+    "answer_3": "kegowy, kliprowy, keczowy ",
+    "correct_answer": 2
   },
   {
     "id": 10,
-    "question": "What is the name of the rope used to raise a sail?",
-    "category": "Rigging",
-    "answer_1": "Halyard",
-    "answer_2": "Sheet",
-    "answer_3": "Painter",
+    "question": "Jakie znasz kształty przekrojów poprzecznych kadłuba? Wybierz prawidłową odpowiedź. ",
+    "category": "budowa_jachtu",
+    "answer_1": "obły, klepkowy, łamany ",
+    "answer_2": "skośnodenny, okrągłodenny, płaskodenny ",
+    "answer_3": "uniwersalny, półokrągły, morski ",
+    "correct_answer": 2
+  },
+  {
+    "id": 11,
+    "question": "Jakie są 3 sposoby mocowania żagli do drzewca? Wybierz prawidłową odpowiedź. ",
+    "category": "budowa_jachtu",
+    "answer_1": "sargasy, merlinka, wężyk ",
+    "answer_2": "żmijka, pełzacze (ślizgacze), liklina ",
+    "answer_3": "ciasny, na wcisk, dolny ",
+    "correct_answer": 2
+  },
+  {
+    "id": 12,
+    "question": "Wskaż elementy żagla gaflowego: ",
+    "category": "budowa_jachtu",
+    "answer_1": "bryg, sakwa, pik przedni, remiza, refbanda ",
+    "answer_2": "róg pikowy, lik wolny, lik górny, róg gaflowy ",
+    "answer_3": "ucho rufowe, sejzing, róg wiatrowy, lik poziomy, róg linowy ",
+    "correct_answer": 2
+  },
+  {
+    "id": 13,
+    "question": "Wskaż elementy budowy steru z podnoszoną płetwą: ",
+    "category": "budowa_jachtu",
+    "answer_1": "rogatnica, przedłużacz, rumpel, fał płetwy sterowej, jarzmo, płetwa sterowa ",
+    "answer_2": "koło sterowe, bloczki, fały sterowe, śruby ",
+    "answer_3": "stenga, kolumna, cęgi, ściągacz ",
     "correct_answer": 1
+  },
+  {
+    "id": 14,
+    "question": "Wskaż elementy budowy masztu: ",
+    "category": "budowa_jachtu",
+    "answer_1": "szczyt, wstęga, noga, sailor, monument ",
+    "answer_2": "chomąto masztu, palce, gruszka, studnia fałowa, szot ",
+    "answer_3": "top, stenga, jumpsaling, saling, kolumna  ",
+    "correct_answer": 3
+  },
+  {
+    "id": 15,
+    "question": "Jaką funkcję pełnią wanty? ",
+    "category": "budowa_jachtu",
+    "answer_1": "podtrzymują maszt w płaszczyźnie wzdłużnej jachtu ",
+    "answer_2": "podtrzymują maszt w płaszczyźnie poprzecznej jachtu ",
+    "answer_3": "podtrzymują maszt w płaszczyźnie pionowej jachtu ",
+    "correct_answer": 2
+  },
+  {
+    "id": 16,
+    "question": "Jak nazywają się liny służące do ustawiania żagli względem wiatru? ",
+    "category": "budowa_jachtu",
+    "answer_1": "szoty ",
+    "answer_2": "fały ",
+    "answer_3": "wanty ",
+    "correct_answer": 1
+  },
+  {
+    "id": 17,
+    "question": "Który zawór zakręcamy najpierw – przy kuchence czy przy butli gazowej? ",
+    "category": "budowa_jachtu",
+    "answer_1": "oba naraz ",
+    "answer_2": "przy kuchence gazowej ",
+    "answer_3": "przy butli gazowej ",
+    "correct_answer": 3
+  },
+  {
+    "id": 18,
+    "question": "Wimpel to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "chorągiewka na topie masztu wskazująca kierunek wiatru ",
+    "answer_2": "specjalna mocna nić używana do szycia i cerowania żagli ",
+    "answer_3": "nitka przyczepiona do want wskazująca wilgotność powietrza ",
+    "correct_answer": 1
+  },
+  {
+    "id": 19,
+    "question": "Kilwater to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "wieloosobowe pomieszczenie mieszkalne ",
+    "answer_2": "podłoga na jachcie umożliwiająca swobodne przepływanie wody w zęzach ",
+    "answer_3": "ślad pozostawiony na wodzie za jachtem ",
+    "correct_answer": 3
+  },
+  {
+    "id": 20,
+    "question": "Jak poprawnie wyłączyć silnik zaburtowy? ",
+    "category": "budowa_jachtu",
+    "answer_1": "zamknąć dopływ paliwa ",
+    "answer_2": "wcisnąć przycisk przerywacza zapłonu lub zerwać zrywkę ",
+    "answer_3": "wyjąć silnik z wody ",
+    "correct_answer": 2
+  },
+  {
+    "id": 21,
+    "question": "Jeżeli silnik przestał działać, należy po pierwsze: ",
+    "category": "budowa_jachtu",
+    "answer_1": "mocno szarpać za szarpankę silnika ",
+    "answer_2": "schłodzić silnik zimną wodą ",
+    "answer_3": "upewnić się, czy jest paliwo i czy dopływa do silnika  ",
+    "correct_answer": 3
+  },
+  {
+    "id": 22,
+    "question": "Forpik znajduje się: ",
+    "category": "budowa_jachtu",
+    "answer_1": "w przedniej części kadłuba ",
+    "answer_2": "w tylnej części kadłuba ",
+    "answer_3": "w centralnej części kadłuba ",
+    "correct_answer": 1
+  },
+  {
+    "id": 23,
+    "question": "Achterpik znajduje się: ",
+    "category": "budowa_jachtu",
+    "answer_1": "w przedniej części kadłuba ",
+    "answer_2": "w tylnej części kadłuba ",
+    "answer_3": "w centralnej części kadłuba ",
+    "correct_answer": 2
+  },
+  {
+    "id": 24,
+    "question": "Kambuz to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "przedział dziobowy ",
+    "answer_2": "przedział kuchenny ",
+    "answer_3": "magazynek żagli ",
+    "correct_answer": 2
+  },
+  {
+    "id": 25,
+    "question": "Kingston to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "sejf na jachcie ",
+    "answer_2": "ubikacja jachtowa ",
+    "answer_3": "magazynek żagli ",
+    "correct_answer": 2
+  },
+  {
+    "id": 26,
+    "question": "Kokpit to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "rodzaj żagla przedniego ",
+    "answer_2": "zagłębienie w pokładzie, w którym przebywa załoga podczas żeglugi ",
+    "answer_3": "najniżej położona część jachtu ",
+    "correct_answer": 2
+  },
+  {
+    "id": 27,
+    "question": "Zęza to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "rodzaj żagla przedniego ",
+    "answer_2": "zagłębienie w pokładzie, w którym przebywa załoga podczas żeglugi ",
+    "answer_3": "najniżej położona część wnętrza jachtu ",
+    "correct_answer": 3
+  },
+  {
+    "id": 28,
+    "question": "Jak inaczej nazywany jest właz dziobowy? ",
+    "category": "budowa_jachtu",
+    "answer_1": "achterluk ",
+    "answer_2": "forluk ",
+    "answer_3": "forpik  ",
+    "correct_answer": 2
+  },
+  {
+    "id": 29,
+    "question": "Knaga to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "drobny element do łączenia lin ze sobą ",
+    "answer_2": "otwór, przez który prowadzone są cumy ",
+    "answer_3": "element służący do mocowania (obkładania) lin ",
+    "correct_answer": 3
+  },
+  {
+    "id": 30,
+    "question": "Do czego służy obciągacz bomu? ",
+    "category": "budowa_jachtu",
+    "answer_1": "zapobiega nadmiernemu unoszeniu się bomu pod wpływem parcia wiatru na żagiel ",
+    "answer_2": "zabezpiecza przed wypadnięciem bomu z refpatentu ",
+    "answer_3": "łączy maszt z nokiem bomu ",
+    "correct_answer": 1
+  },
+  {
+    "id": 31,
+    "question": "Likszpara to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "szpara w maszcie, w którą wkłada się lik żagla ",
+    "answer_2": "podłużny otwór, którym odpływa woda ",
+    "answer_3": "okno na jachcie ",
+    "correct_answer": 1
+  },
+  {
+    "id": 32,
+    "question": "Jak nazywa się okucie na pokładzie, do którego mocujemy wanty? ",
+    "category": "budowa_jachtu",
+    "answer_1": "podwięź ",
+    "answer_2": "sztagownik ",
+    "answer_3": "kipa ",
+    "correct_answer": 1
+  },
+  {
+    "id": 33,
+    "question": "Który z niżej wymienionych elementów wchodzi w skład urządzenia sterowego? ",
+    "category": "budowa_jachtu",
+    "answer_1": "podwięź ",
+    "answer_2": "rumpel ",
+    "answer_3": "pokładnik ",
+    "correct_answer": 2
+  },
+  {
+    "id": 34,
+    "question": "Lina olinowania stałego, która biegnie od topu masztu do dziobu, to? ",
+    "category": "budowa_jachtu",
+    "answer_1": "wanta ",
+    "answer_2": "achtersztag ",
+    "answer_3": "sztag ",
+    "correct_answer": 3
+  },
+  {
+    "id": 35,
+    "question": "Lina olinowania stałego, która biegnie od topu masztu do rufy, to? ",
+    "category": "budowa_jachtu",
+    "answer_1": "wanta ",
+    "answer_2": "achtersztag ",
+    "answer_3": "sztag  ",
+    "correct_answer": 2
+  },
+  {
+    "id": 36,
+    "question": "Wanta, która biegnie od topu do burty, to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "wanta kolumnowa ",
+    "answer_2": "topwanta ",
+    "answer_3": "stenwanta ",
+    "correct_answer": 2
+  },
+  {
+    "id": 37,
+    "question": "Wanta, która zamocowana jest pod salingiem i biegnie do burty, to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "wanta kolumnowa ",
+    "answer_2": "topwanta ",
+    "answer_3": "stenwanta ",
+    "correct_answer": 3
+  },
+  {
+    "id": 38,
+    "question": "Linę pracującą w kierunku przeciwnym niż fał nazywamy: ",
+    "category": "budowa_jachtu",
+    "answer_1": "fałem ",
+    "answer_2": "kontrafałem ",
+    "answer_3": "kontraszotem ",
+    "correct_answer": 2
+  },
+  {
+    "id": 39,
+    "question": "Linę pracującą w kierunku przeciwnym niż szot nazywamy: ",
+    "category": "budowa_jachtu",
+    "answer_1": "fałem ",
+    "answer_2": "kontrafałem ",
+    "answer_3": "kontraszotem ",
+    "correct_answer": 3
+  },
+  {
+    "id": 40,
+    "question": "Brzeg (krawędź) żagla to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "lik ",
+    "answer_2": "banta ",
+    "answer_3": "bryt ",
+    "correct_answer": 1
+  },
+  {
+    "id": 41,
+    "question": "Część materiału, z którego szyty jest żagiel, to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "lik ",
+    "answer_2": "banta ",
+    "answer_3": "bryt ",
+    "correct_answer": 3
+  },
+  {
+    "id": 42,
+    "question": "Jak nazywa się lina wszyta w lik żagla, która zapobiega rozciąganiu się tkaniny i służy jako pomoc  przy mocowaniu żagla? ",
+    "category": "budowa_jachtu",
+    "answer_1": "reflina ",
+    "answer_2": "halslina ",
+    "answer_3": "liklina  ",
+    "correct_answer": 3
+  },
+  {
+    "id": 43,
+    "question": "Jak nazywa się wzmocniony pas żagla, położony równolegle do bomu, w którym umieszczone są  remizki z przewleczonymi przez nie refsejzingami? ",
+    "category": "budowa_jachtu",
+    "answer_1": "lik ",
+    "answer_2": "refbanta ",
+    "answer_3": "lik wolny ",
+    "correct_answer": 2
+  },
+  {
+    "id": 44,
+    "question": "Jak nazywa się żagiel stawiany zamiast foka podczas słabych wiatrów, przy kursach ostrych? ",
+    "category": "budowa_jachtu",
+    "answer_1": "sztormfok ",
+    "answer_2": "genua ",
+    "answer_3": "bryfok ",
+    "correct_answer": 2
+  },
+  {
+    "id": 45,
+    "question": "Jak nazywa się główny żagiel na jachcie jednomasztowym? ",
+    "category": "budowa_jachtu",
+    "answer_1": "grot ",
+    "answer_2": "fok ",
+    "answer_3": "bezan ",
+    "correct_answer": 1
+  },
+  {
+    "id": 46,
+    "question": "Jak nazywa się okucie na pokładzie, do którego mocujemy sztag? ",
+    "category": "budowa_jachtu",
+    "answer_1": "podwięź ",
+    "answer_2": "sztagownik ",
+    "answer_3": "knaga ",
+    "correct_answer": 2
+  },
+  {
+    "id": 47,
+    "question": "Kluza to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "otwór w burcie (okucie) służący do prowadzenia cumy i liny kotwicznej ",
+    "answer_2": "specjalnego kształtu okucie, służące do mocowania – obkładania lin ",
+    "answer_3": "ucho przymocowane do pokładu, ułatwiające napinanie szotów przednich żagli ",
+    "correct_answer": 1
+  },
+  {
+    "id": 48,
+    "question": "Lik przedni to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "nazwa krawędzi żagla ",
+    "answer_2": "rodzaj dziobu jachtu ",
+    "answer_3": "nazwa krawędzi pokładu ",
+    "correct_answer": 1
+  },
+  {
+    "id": 49,
+    "question": "Element służący do napinania olinowania stałego to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "talia ",
+    "answer_2": "napinacz ",
+    "answer_3": "ściągacz   ",
+    "correct_answer": 3
+  },
+  {
+    "id": 50,
+    "question": "Co jest podstawą konstrukcji szkieletu jachtu? ",
+    "category": "budowa_jachtu",
+    "answer_1": "stępka ",
+    "answer_2": "wręgi ",
+    "answer_3": "pawęż ",
+    "correct_answer": 1
+  },
+  {
+    "id": 51,
+    "question": "Kształt kadłubowi nadaje: ",
+    "category": "budowa_jachtu",
+    "answer_1": "poszycie ",
+    "answer_2": "szkielet ",
+    "answer_3": "zabudowa wnętrza ",
+    "correct_answer": 2
+  },
+  {
+    "id": 52,
+    "question": "Zadaniem balastu na jachcie jest: ",
+    "category": "budowa_jachtu",
+    "answer_1": "zmniejszenie stateczności jachtu ",
+    "answer_2": "zwiększenie stateczności jachtu ",
+    "answer_3": "przesunięcie środka ożaglowania jachtu ",
+    "correct_answer": 2
+  },
+  {
+    "id": 53,
+    "question": "Skrzynka mieczowa na jachcie jest zamocowana: ",
+    "category": "budowa_jachtu",
+    "answer_1": "w osi symetrii jachtu nad stępką ",
+    "answer_2": "w osi symetrii jachtu nad obłem ",
+    "answer_3": "w poprzek osi symetrii jachtu ",
+    "correct_answer": 1
+  },
+  {
+    "id": 54,
+    "question": "Przy naprawach instalacji elektrycznej na jachcie należy: ",
+    "category": "budowa_jachtu",
+    "answer_1": "zewrzeć bieguny akumulatora ",
+    "answer_2": "rozłączyć bieguny akumulatora ",
+    "answer_3": "odpalić silnik w celu niedopuszczenia do rozładowania akumulatora ",
+    "correct_answer": 2
+  },
+  {
+    "id": 55,
+    "question": "Aby uruchomić silnik przyczepny na jachcie, należy: ",
+    "category": "budowa_jachtu",
+    "answer_1": "wyjąć go z wody ",
+    "answer_2": "zakręcić kranik dopływu paliwa ",
+    "answer_3": "ustawić dźwignię zmiany biegów w pozycji luz (na biegu jałowym) ",
+    "correct_answer": 3
+  },
+  {
+    "id": 56,
+    "question": "Silnik wysokoprężny jest zasilany paliwem: ",
+    "category": "budowa_jachtu",
+    "answer_1": "PB95 ",
+    "answer_2": "mieszanką PB98 i oleju ",
+    "answer_3": "olejem napędowym  ",
+    "correct_answer": 3
+  },
+  {
+    "id": 57,
+    "question": "Przedni żagiel na jachcie typu slup to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "grot ",
+    "answer_2": "bezan ",
+    "answer_3": "fok ",
+    "correct_answer": 3
+  },
+  {
+    "id": 58,
+    "question": "Róg żagla, do którego przywiązujemy hals, to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "róg fałowy ",
+    "answer_2": "róg szotowy ",
+    "answer_3": "róg halsowy ",
+    "correct_answer": 3
+  },
+  {
+    "id": 59,
+    "question": "Pokrowiec na grota wraz z olinowaniem ruchomym to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "black Jack ",
+    "answer_2": "lazy Jack ",
+    "answer_3": "kingston ",
+    "correct_answer": 2
+  },
+  {
+    "id": 60,
+    "question": "Fał to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "lina służąca do wybierania żagli ",
+    "answer_2": "inaczej korba do kabestanu ",
+    "answer_3": "lina służąca do podnoszenia np. żagli ",
+    "correct_answer": 3
+  },
+  {
+    "id": 61,
+    "question": "Spinaker to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "żagiel stawiany przy silnych wiatrach i ostrych kursach ",
+    "answer_2": "najniższy punkt na jachcie ",
+    "answer_3": "żagiel przedni stawiany przy kursach pełnych ",
+    "correct_answer": 3
+  },
+  {
+    "id": 62,
+    "question": "Pełzacz to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "plastikowy element służący do mocowania grota do masztu ",
+    "answer_2": "szkodnik jachtowy występujący w wodach Bałtyku ",
+    "answer_3": "element służący do mocowania talii grota do pokładu ",
+    "correct_answer": 1
+  },
+  {
+    "id": 63,
+    "question": "Główne wejście do wnętrza jachtu to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "forpik ",
+    "answer_2": "greting ",
+    "answer_3": "zejściówka  ",
+    "correct_answer": 3
+  },
+  {
+    "id": 64,
+    "question": "Linki zamocowane w refbancie służące do refowania żagli tylnych to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "refpatenty ",
+    "answer_2": "refsejzingi ",
+    "answer_3": "refdulki ",
+    "correct_answer": 2
+  },
+  {
+    "id": 65,
+    "question": "Ściągacz służy do: ",
+    "category": "budowa_jachtu",
+    "answer_1": "regulacji napięcia olinowania stałego ",
+    "answer_2": "regulacji napięcia olinowania ruchomego ",
+    "answer_3": "ściągania oplotu z liny kewlarowej ",
+    "correct_answer": 1
+  },
+  {
+    "id": 66,
+    "question": "Stenwanta jest to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "lina stalowa służąca do podtrzymania masztu od strony dziobu ",
+    "answer_2": "lina służąca do podtrzymania masztu z od strony rufy ",
+    "answer_3": "lina służąca do podtrzymania masztu, biegnąca od burty do stengi masztu ",
+    "correct_answer": 3
+  },
+  {
+    "id": 67,
+    "question": "Kabestan pomaga przy: ",
+    "category": "budowa_jachtu",
+    "answer_1": "wybieraniu szotów, fałów, łańcuchów kotwicznych itp. ",
+    "answer_2": "uruchamianiu silnika stacjonarnego ",
+    "answer_3": "sterowaniu jachtem z kołem sterowym ",
+    "correct_answer": 1
+  },
+  {
+    "id": 68,
+    "question": "Jacht dwukadłubowy to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "monoran ",
+    "answer_2": "katamaran ",
+    "answer_3": "trimaran ",
+    "correct_answer": 2
+  },
+  {
+    "id": 69,
+    "question": "Pokład dziobowy to inaczej: ",
+    "category": "budowa_jachtu",
+    "answer_1": "fordek ",
+    "answer_2": "bakdek ",
+    "answer_3": "achterdek ",
+    "correct_answer": 2
+  },
+  {
+    "id": 70,
+    "question": "Kuchnia na jachcie to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "mesa ",
+    "answer_2": "kokpit ",
+    "answer_3": "kambuz  ",
+    "correct_answer": 3
+  },
+  {
+    "id": 71,
+    "question": "Barierka ze stalowej liny biegnąca nad pokładem od kosza dziobowego do kosza rufowego, to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "sztormreling ",
+    "answer_2": "bakreling ",
+    "answer_3": "stoper ",
+    "correct_answer": 1
+  },
+  {
+    "id": 72,
+    "question": "Pomieszczenie na jachcie z toaletą i WC to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "forluk ",
+    "answer_2": "kingston ",
+    "answer_3": "kokpit ",
+    "correct_answer": 2
+  },
+  {
+    "id": 73,
+    "question": "Zejściówka na jachcie jest zamykana za pomocą: ",
+    "category": "budowa_jachtu",
+    "answer_1": "sztorcklapy ",
+    "answer_2": "forklapy ",
+    "answer_3": "forluka ",
+    "correct_answer": 1
+  },
+  {
+    "id": 74,
+    "question": "Czy na jachtach balastowych występuje skrzynka mieczowa? ",
+    "category": "budowa_jachtu",
+    "answer_1": "tak ",
+    "answer_2": "nie ",
+    "answer_3": "tak, ale tylko na jachtach typu slup ",
+    "correct_answer": 2
+  },
+  {
+    "id": 75,
+    "question": "Główny maszt na jachcie to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "fokmaszt ",
+    "answer_2": "grotmaszt ",
+    "answer_3": "bezanmaszt ",
+    "correct_answer": 2
+  },
+  {
+    "id": 76,
+    "question": "Drążek, na którym zawieszana jest bandera na jachcie, to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "pik ",
+    "answer_2": "flagsztok ",
+    "answer_3": "nok ",
+    "correct_answer": 2
+  },
+  {
+    "id": 77,
+    "question": "Lina służąca do regulacji naciągu rogu szotowego żagla zamocowanego na bomie to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "topenanta ",
+    "answer_2": "hals ",
+    "answer_3": "szkentla  ",
+    "correct_answer": 3
+  },
+  {
+    "id": 78,
+    "question": "Szpring dziobowy na jachcie jest poprowadzony od: ",
+    "category": "budowa_jachtu",
+    "answer_1": "dziobu jachtu do polera przed jachtem ",
+    "answer_2": "dziobu jachtu do polera przy rufie jachtu ",
+    "answer_3": "rufy jachtu do polera przy dziobie jachtu ",
+    "correct_answer": 2
+  },
+  {
+    "id": 79,
+    "question": "Stopery na jachcie zastępują: ",
+    "category": "budowa_jachtu",
+    "answer_1": "szoty ",
+    "answer_2": "bloki ",
+    "answer_3": "knagi ",
+    "correct_answer": 3
+  },
+  {
+    "id": 80,
+    "question": "W silniku przyczepnym lub stacjonarnym biegi zmieniamy: ",
+    "category": "budowa_jachtu",
+    "answer_1": "na najniższych obrotach silnika ",
+    "answer_2": "na średnich obrotach silnika ",
+    "answer_3": "szybko ",
+    "correct_answer": 1
+  },
+  {
+    "id": 81,
+    "question": "Pawęż to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "rodzaj zakończenia rufy ",
+    "answer_2": "sposób mocowania pięty masztu ",
+    "answer_3": "stolik w kabinie jachtu ",
+    "correct_answer": 1
+  },
+  {
+    "id": 82,
+    "question": "Końce bomu nazywają się: ",
+    "category": "budowa_jachtu",
+    "answer_1": "pik i nok ",
+    "answer_2": "nok i pięta ",
+    "answer_3": "pięta i top ",
+    "correct_answer": 2
+  },
+  {
+    "id": 83,
+    "question": "Bukszpryt to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "poziome drzewce na rufie jachtu ",
+    "answer_2": "poziome drzewce na dziobie jachtu ",
+    "answer_3": "pionowe drzewce na rufie jachtu ",
+    "correct_answer": 2
+  },
+  {
+    "id": 84,
+    "question": "Topenanta to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "listwa na topie masztu odciągająca achtersztag ",
+    "answer_2": "lina podtrzymująca maszt, biegnąca od topu do burty ",
+    "answer_3": "lina biegnąca od topu masztu do noku bomu  ",
+    "correct_answer": 3
+  },
+  {
+    "id": 85,
+    "question": "W silniku dwusuwowym stosujemy: ",
+    "category": "budowa_jachtu",
+    "answer_1": "benzynę bez oleju ",
+    "answer_2": "benzynę zmieszaną z olejem ",
+    "answer_3": "olej napędowy (ropę) ",
+    "correct_answer": 2
+  },
+  {
+    "id": 86,
+    "question": "Wręgi to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "deski podtrzymujące gretingi ",
+    "answer_2": "„żebra” usztywniające kadłub jachtu ",
+    "answer_3": "klepki w pokładzie ",
+    "correct_answer": 2
+  },
+  {
+    "id": 87,
+    "question": "Bakista to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "rodzaj stałego zbiornika na paliwo ",
+    "answer_2": "schowek do przechowywania różnych rzeczy ",
+    "answer_3": "najniżej położone miejsce na jachcie ",
+    "correct_answer": 2
+  },
+  {
+    "id": 88,
+    "question": "Końce masztu nazywają się: ",
+    "category": "budowa_jachtu",
+    "answer_1": "pik i nok ",
+    "answer_2": "nok i pięta ",
+    "answer_3": "pięta i top ",
+    "correct_answer": 3
+  },
+  {
+    "id": 89,
+    "question": "Szkentla to lina występująca przy rogu: ",
+    "category": "budowa_jachtu",
+    "answer_1": "szotowym ",
+    "answer_2": "halsowym ",
+    "answer_3": "fałowym ",
+    "correct_answer": 1
+  },
+  {
+    "id": 90,
+    "question": "Fok może być przymocowany do sztagu za pomocą: ",
+    "category": "budowa_jachtu",
+    "answer_1": "karabińczyków lub raks ",
+    "answer_2": "segarsów lub szpigatów ",
+    "answer_3": "karabińczyków lub remizek ",
+    "correct_answer": 1
+  },
+  {
+    "id": 91,
+    "question": "Genua to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "rodzaj dużego przedniego foka na słabe wiatry ",
+    "answer_2": "rodzaj foka sztormowego ",
+    "answer_3": "rzadko dziś spotykany rodzaj ożaglowania podobny do ożaglowania łacińskiego  ",
+    "correct_answer": 1
+  },
+  {
+    "id": 92,
+    "question": "Marlinka to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "krótka linka do wiązania osprzętu ",
+    "answer_2": "linka do mocowania żagla do drzewc ",
+    "answer_3": "linka do przywiązywania rogu szotowego grota do noku bomu ",
+    "correct_answer": 2
+  },
+  {
+    "id": 93,
+    "question": "Rodzajem rufy jest: ",
+    "category": "budowa_jachtu",
+    "answer_1": "szpigat ",
+    "answer_2": "szpring ",
+    "answer_3": "szpicgat ",
+    "correct_answer": 3
+  },
+  {
+    "id": 94,
+    "question": "Półpokład to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "połowa pokładu na dziobie jachtu ",
+    "answer_2": "część pokładu na nadbudówce jachtu ",
+    "answer_3": "pokład biegnący wzdłuż nadbudówki lub kokpitu ",
+    "correct_answer": 3
+  },
+  {
+    "id": 95,
+    "question": "Prawa burta jachtu znajduje się: ",
+    "category": "budowa_jachtu",
+    "answer_1": "po lewej stronie jachtu, patrząc od rufy w kierunku dziobu ",
+    "answer_2": "po prawej stronie jachtu, patrząc od dziobu w kierunku rufy ",
+    "answer_3": "po lewej stronie jachtu, patrząc od dziobu w kierunku rufy ",
+    "correct_answer": 3
+  },
+  {
+    "id": 96,
+    "question": "Pióro steru to inaczej: ",
+    "category": "budowa_jachtu",
+    "answer_1": "płetwa sterowa ",
+    "answer_2": "rumpel ",
+    "answer_3": "jarzmo ",
+    "correct_answer": 1
+  },
+  {
+    "id": 97,
+    "question": "Czy kształt rufy jachtu ma wpływ na tzw. właściwości żeglugowe jachtu? ",
+    "category": "budowa_jachtu",
+    "answer_1": "nie ",
+    "answer_2": "tak ",
+    "answer_3": "tak, ale tylko w jachtach drewnianych ",
+    "correct_answer": 2
+  },
+  {
+    "id": 98,
+    "question": "W skrzyni mieczowej zamkniętej mocuje się miecz: ",
+    "category": "budowa_jachtu",
+    "answer_1": "obrotowy ",
+    "answer_2": "szybrowy ",
+    "answer_3": "obrotowy lub szybrowy  ",
+    "correct_answer": 3
+  },
+  {
+    "id": 99,
+    "question": "Maszt tworzą: ",
+    "category": "budowa_jachtu",
+    "answer_1": "stenga, relingi ",
+    "answer_2": "salingi, nok ",
+    "answer_3": "kolumna, stenga ",
+    "correct_answer": 3
+  },
+  {
+    "id": 100,
+    "question": "Liny usztywniające i podtrzymujące maszt stosowane parami to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "wanty ",
+    "answer_2": "sztagi ",
+    "answer_3": "fały ",
+    "correct_answer": 1
+  },
+  {
+    "id": 101,
+    "question": "Grot nie pracuje odpowiednio (lik tylny żagla jest luźny). Oznacza to, że: ",
+    "category": "budowa_jachtu",
+    "answer_1": "fał grota jest za bardzo wybrany ",
+    "answer_2": "topenanta jest za bardzo wybrana ",
+    "answer_3": "szot grota jest za bardzo wybrany ",
+    "correct_answer": 2
+  },
+  {
+    "id": 102,
+    "question": "Liny służące do manewrowania żaglami w płaszczyźnie poziomej to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "szoty ",
+    "answer_2": "fały ",
+    "answer_3": "sztagi ",
+    "correct_answer": 1
+  },
+  {
+    "id": 103,
+    "question": "Gardafał i pikfał występują przy ożaglowaniu ",
+    "category": "budowa_jachtu",
+    "answer_1": "rozprzowym ",
+    "answer_2": "bermudzkim ",
+    "answer_3": "gaflowym ",
+    "correct_answer": 3
+  },
+  {
+    "id": 104,
+    "question": "Żagiel bermudzki ma: ",
+    "category": "budowa_jachtu",
+    "answer_1": "trzy liki, trzy rogi ",
+    "answer_2": "cztery liki, cztery rogi ",
+    "answer_3": "trzy liki, cztery rogi ",
+    "correct_answer": 1
+  },
+  {
+    "id": 105,
+    "question": "Po trzy żagle podstawowe mają: ",
+    "category": "budowa_jachtu",
+    "answer_1": "jol, ket ",
+    "answer_2": "jol, kecz ",
+    "answer_3": "jol, slup  ",
+    "correct_answer": 2
+  },
+  {
+    "id": 106,
+    "question": "Dwa maszty posiadają: ",
+    "category": "budowa_jachtu",
+    "answer_1": "ket, slup ",
+    "answer_2": "slup, sluter ",
+    "answer_3": "jol, kecz ",
+    "correct_answer": 3
+  },
+  {
+    "id": 107,
+    "question": "Do żagli dodatkowych zaliczane są m.in.: ",
+    "category": "budowa_jachtu",
+    "answer_1": "spinaker, genua ",
+    "answer_2": "bezan, fok ",
+    "answer_3": "spinaker, bezan ",
+    "correct_answer": 1
+  },
+  {
+    "id": 108,
+    "question": "Lik przedni foka mocujemy do: ",
+    "category": "budowa_jachtu",
+    "answer_1": "sztagu ",
+    "answer_2": "masztu ",
+    "answer_3": "bomu ",
+    "correct_answer": 1
+  },
+  {
+    "id": 109,
+    "question": "Trzon, ramię, pazur to części: ",
+    "category": "budowa_jachtu",
+    "answer_1": "pagaja ",
+    "answer_2": "kotwicy ",
+    "answer_3": "masztu ",
+    "correct_answer": 2
+  },
+  {
+    "id": 110,
+    "question": "Może być szczękowa, zaciskowa lub zwykła: ",
+    "category": "budowa_jachtu",
+    "answer_1": "kluza ",
+    "answer_2": "szekla ",
+    "answer_3": "knaga ",
+    "correct_answer": 3
+  },
+  {
+    "id": 111,
+    "question": "Sprawny kabestan: ",
+    "category": "budowa_jachtu",
+    "answer_1": "obraca się w dwie strony ",
+    "answer_2": "obraca się w jedną stronę ",
+    "answer_3": "nie obraca się ",
+    "correct_answer": 2
+  },
+  {
+    "id": 112,
+    "question": "Na zmianę kąta nachylenia szota w płaszczyźnie pionowej oraz zachowanie równomiernego  naciągu dolnego i wolnego liku żagla pozwalają: ",
+    "category": "budowa_jachtu",
+    "answer_1": "wózki szotowe ",
+    "answer_2": "kipy ",
+    "answer_3": "bloczki  ",
+    "correct_answer": 1
+  },
+  {
+    "id": 113,
+    "question": "Okucie służące do zamontowania sztagów i rogów halsowych żagli przednich to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "podwięź burtowa ",
+    "answer_2": "sztagownik ",
+    "answer_3": "ściągacz ",
+    "correct_answer": 2
+  },
+  {
+    "id": 114,
+    "question": "Bączek to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "czerpak wykonany z plastiku ",
+    "answer_2": "wielokrążek – zblocze ",
+    "answer_3": "niewielka łódź wiosłowa ",
+    "correct_answer": 3
+  },
+  {
+    "id": 115,
+    "question": "Podczas kładzenia masztu: ",
+    "category": "budowa_jachtu",
+    "answer_1": "wypinamy maszt z pięty ",
+    "answer_2": "wypinamy wanty ",
+    "answer_3": "wypinamy sztag ze sztagownika ",
+    "correct_answer": 3
+  },
+  {
+    "id": 116,
+    "question": "W przypadku nieszczelności instalacji gazowej gaz gromadzi się: ",
+    "category": "budowa_jachtu",
+    "answer_1": "w dolnej części jachtu ",
+    "answer_2": "w górnej części jachtu ",
+    "answer_3": "równomiernie w całym jachcie ",
+    "correct_answer": 1
+  },
+  {
+    "id": 117,
+    "question": "Pomieszczenie, w którym znajduje się kuchenka gazowa, należy: ",
+    "category": "budowa_jachtu",
+    "answer_1": "dobrze uszczelnić ",
+    "answer_2": "często wietrzyć ",
+    "answer_3": "rzadko wietrzyć ",
+    "correct_answer": 2
+  },
+  {
+    "id": 118,
+    "question": "Przed wyłączeniem silnika należy: ",
+    "category": "budowa_jachtu",
+    "answer_1": "ustawić rączkę gazu w pozycji „min”, wcisnąć przycisk przerywacza zapłonu ",
+    "answer_2": "ustawić dźwignię zmiany biegów w pozycji „luz”, ustawić rączkę gazu w pozycji „max”, wyrwać  „zrywkę” ",
+    "answer_3": "ustawić dźwignię zmiany biegów w pozycji „luz”, ustawić rączkę gazu w pozycji „min”, wcisnąć  przycisk przerywacza zapłonu ",
+    "correct_answer": 3
+  },
+  {
+    "id": 119,
+    "question": "Błędem przy obsłudze silnika jest: ",
+    "category": "budowa_jachtu",
+    "answer_1": "uruchomienie silnika przy niezanurzonej spodzinie ",
+    "answer_2": "uruchomienie silnika przy zanurzonej spodzinie ",
+    "answer_3": "uruchomienie silnika przy ustawieniu dźwigni biegów w pozycji „luz”  ",
+    "correct_answer": 1
+  },
+  {
+    "id": 120,
+    "question": "Akumulatory powinny być umieszczone: ",
+    "category": "budowa_jachtu",
+    "answer_1": "w wygodnym i łatwo dostępnym miejscu ",
+    "answer_2": "w wietrzonym pomieszczeniu ",
+    "answer_3": "razem z butlami gazowymi ",
+    "correct_answer": 2
+  },
+  {
+    "id": 121,
+    "question": "Górny lik żagla usztywnia: ",
+    "category": "budowa_jachtu",
+    "answer_1": "maszt ",
+    "answer_2": "bom ",
+    "answer_3": "gafel ",
+    "correct_answer": 3
+  },
+  {
+    "id": 122,
+    "question": "Urządzenie zapewniające rozruch ręczny silnika zaburtowego nosi nazwę: ",
+    "category": "budowa_jachtu",
+    "answer_1": "szarpanki ",
+    "answer_2": "manetki ",
+    "answer_3": "kolumny ",
+    "correct_answer": 1
+  },
+  {
+    "id": 123,
+    "question": "Świeca zapłonowa występuje w silnikach: ",
+    "category": "budowa_jachtu",
+    "answer_1": "benzynowych ",
+    "answer_2": "diesla ",
+    "answer_3": "elektrycznych ",
+    "correct_answer": 1
+  },
+  {
+    "id": 124,
+    "question": "Zwiększenie obrotów silnika powoduje: ",
+    "category": "budowa_jachtu",
+    "answer_1": "zwiększenie zużycia paliwa ",
+    "answer_2": "zmniejszenie zużycia paliwa ",
+    "answer_3": "pozostaje  bez wpływu na wielkość zużycia paliwa ",
+    "correct_answer": 1
+  },
+  {
+    "id": 125,
+    "question": "Układ chłodzenia silnika zaburtowego: ",
+    "category": "budowa_jachtu",
+    "answer_1": "posiada chłodnicę ",
+    "answer_2": "posiada zbiornik wyrównawczy układu chłodzenia ",
+    "answer_3": "wykorzystuje wodę z otoczenia, w którym pracuje ",
+    "correct_answer": 3
+  },
+  {
+    "id": 126,
+    "question": "Siła ciągu śruby pracującej na biegu wstecz w stosunku do śruby pracującej na biegu wprzód  jest: ",
+    "category": "budowa_jachtu",
+    "answer_1": "większa ",
+    "answer_2": "mniejsza ",
+    "answer_3": "taka sama  ",
+    "correct_answer": 2
+  },
+  {
+    "id": 127,
+    "question": "„Szarpanką” nazywamy ",
+    "category": "budowa_jachtu",
+    "answer_1": "cięgno rozruchu silnika ",
+    "answer_2": "cięgno sterowania obrotami silnika ",
+    "answer_3": "trudności związane z uruchomieniem silnika ",
+    "correct_answer": 1
+  },
+  {
+    "id": 128,
+    "question": "Remizka to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "lina wszyta w krawędź żagla ",
+    "answer_2": "kieszeń na listwę usztywniającą ",
+    "answer_3": "metalowy lub plastikowy otwór w żaglu ",
+    "correct_answer": 3
+  },
+  {
+    "id": 129,
+    "question": "",
+    "category": "budowa_jachtu",
+    "answer_1": "",
+    "answer_2": "",
+    "answer_3": "",
+    "correct_answer": null
+  },
+  {
+    "id": 130,
+    "question": "Liną olinowania ruchomego jest: ",
+    "category": "budowa_jachtu",
+    "answer_1": "reling ",
+    "answer_2": "fał ",
+    "answer_3": "stenwanta ",
+    "correct_answer": 2
+  },
+  {
+    "id": 131,
+    "question": "Końce gafla to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "pięta i top ",
+    "answer_2": "garda i pik ",
+    "answer_3": "ogon i pysk ",
+    "correct_answer": 2
+  },
+  {
+    "id": 132,
+    "question": "Bryt to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "przeszycie wzmacniające żagiel ",
+    "answer_2": "pas tkaniny, z której uszyty jest żagiel ",
+    "answer_3": "krawędź żagla ",
+    "correct_answer": 2
+  },
+  {
+    "id": 133,
+    "question": "Silnik montowany jest na: ",
+    "category": "budowa_jachtu",
+    "answer_1": "wantach ",
+    "answer_2": "koszu rufowym ",
+    "answer_3": "pantografie ",
+    "correct_answer": 3
+  },
+  {
+    "id": 134,
+    "question": "Której liny nie ma przy płetwie sterowej? ",
+    "category": "budowa_jachtu",
+    "answer_1": "szota ",
+    "answer_2": "fału ",
+    "answer_3": "kontrafału  ",
+    "correct_answer": 1
+  },
+  {
+    "id": 135,
+    "question": "Pierwszą czynnością po uruchomieniu silnika jest: ",
+    "category": "budowa_jachtu",
+    "answer_1": "wrzucenie biegu ",
+    "answer_2": "sprawdzenie, czy woda wypływa z wylotu chłodzenia ",
+    "answer_3": "odkręcenie odpowietrzenia ",
+    "correct_answer": 2
+  },
+  {
+    "id": 136,
+    "question": "Miejsce do spania na jachcie to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "Koja ",
+    "answer_2": "mesa ",
+    "answer_3": "bakista ",
+    "correct_answer": 1
+  },
+  {
+    "id": 137,
+    "question": "Kokpit to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "miejsce przeznaczone dla załogi w trakcie pływania ",
+    "answer_2": "stołówka na jachcie ",
+    "answer_3": "pomieszczenie wewnątrz jachtu przeznaczone do spotkań załogi ",
+    "correct_answer": 1
+  },
+  {
+    "id": 138,
+    "question": "Liną olinowania stałego jest: ",
+    "category": "budowa_jachtu",
+    "answer_1": "fał ",
+    "answer_2": "achtersztag ",
+    "answer_3": "obciągacz bomu ",
+    "correct_answer": 2
+  },
+  {
+    "id": 139,
+    "question": "Jacht posiadający jeden maszt i dwa żagle to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "jol ",
+    "answer_2": "ket ",
+    "answer_3": "slup ",
+    "correct_answer": 3
+  },
+  {
+    "id": 140,
+    "question": "Refsejzing służy do: ",
+    "category": "budowa_jachtu",
+    "answer_1": "podwiązania żagla do bomu ",
+    "answer_2": "cumowania jachtu ",
+    "answer_3": "stawiania żagla ",
+    "correct_answer": 1
+  },
+  {
+    "id": 141,
+    "question": "Jak bezpiecznie sprawdzić, czy instalacja gazowa na jachcie jest szczelna: ",
+    "category": "budowa_jachtu",
+    "answer_1": "za pomocą płomienia zapałki lub zapalniczki ",
+    "answer_2": "na słuch ",
+    "answer_3": "za pomocą mydlin lub wody z dodatkiem np. „Ludwika”  ",
+    "correct_answer": 3
+  },
+  {
+    "id": 142,
+    "question": "Nić żeglarska to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "juzing ",
+    "answer_2": "krawat ",
+    "answer_3": "bulaj ",
+    "correct_answer": 1
+  },
+  {
+    "id": 143,
+    "question": "Płetwa steru jest zamocowana: ",
+    "category": "budowa_jachtu",
+    "answer_1": "w jarzmie ",
+    "answer_2": "w cęgach ",
+    "answer_3": "w gnieździe ",
+    "correct_answer": 1
+  },
+  {
+    "id": 144,
+    "question": "Sprawność układu chłodzenia w silniku sprawdzamy w następujący sposób: ",
+    "category": "budowa_jachtu",
+    "answer_1": "przykładając dłoń do obudowy silnika ",
+    "answer_2": "patrząc, czy wypływa woda z wylotu chłodzenia ",
+    "answer_3": "nasłuchując odgłosu pracy silnika ",
+    "correct_answer": 2
+  },
+  {
+    "id": 145,
+    "question": "Przedłużenie masztu pod pokładem to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "pawęż ",
+    "answer_2": "pilers ",
+    "answer_3": "pantograf ",
+    "correct_answer": 2
+  },
+  {
+    "id": 146,
+    "question": "Koja chowana pod kokpit to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "hundkoja ",
+    "answer_2": "trumna ",
+    "answer_3": "bakista ",
+    "correct_answer": 1
+  },
+  {
+    "id": 147,
+    "question": "Jak nazywa się przednia część pokładu? ",
+    "category": "budowa_jachtu",
+    "answer_1": "pokład dziobowy (fordek) ",
+    "answer_2": "pokład rufowy (ahterdek) ",
+    "answer_3": "falszburta (topdek) ",
+    "correct_answer": 1
+  },
+  {
+    "id": 148,
+    "question": "Jak nazywa się element opuszczany pod dnem jachtu w celu zwiększenia oporu bocznego? ",
+    "category": "budowa_jachtu",
+    "answer_1": "sztylet ",
+    "answer_2": "topór ",
+    "answer_3": "miecz ",
+    "correct_answer": 3
+  },
+  {
+    "id": 149,
+    "question": "Jak nazywa się ciężar celowo zamocowany w dole kadłuba w celu poprawy stateczności jachtu? ",
+    "category": "budowa_jachtu",
+    "answer_1": "masa ",
+    "answer_2": "balast ",
+    "answer_3": "ciężar  ",
+    "correct_answer": 2
+  },
+  {
+    "id": 150,
+    "question": "Jak nazywa się główna belka konstrukcyjna jachtu znajdująca się w osi jachtu w jego dnie? ",
+    "category": "budowa_jachtu",
+    "answer_1": "kil ",
+    "answer_2": "lik ",
+    "answer_3": "stewa ",
+    "correct_answer": 1
+  },
+  {
+    "id": 151,
+    "question": "Jak nazywa się tył jachtu? ",
+    "category": "budowa_jachtu",
+    "answer_1": "rufa ",
+    "answer_2": "burta ",
+    "answer_3": "bulaj ",
+    "correct_answer": 1
+  },
+  {
+    "id": 152,
+    "question": "Jak nazywa się tylny maszt na keczu? ",
+    "category": "budowa_jachtu",
+    "answer_1": "fokmasz ",
+    "answer_2": "grotmaszt ",
+    "answer_3": "bezanmaszt ",
+    "correct_answer": 3
+  },
+  {
+    "id": 153,
+    "question": "Jak nazywa się lina podtrzymująca maszt od przodu? ",
+    "category": "budowa_jachtu",
+    "answer_1": "wanta ",
+    "answer_2": "stoper ",
+    "answer_3": "sztag ",
+    "correct_answer": 3
+  },
+  {
+    "id": 154,
+    "question": "W jaki sposób można usunąć awarię bezpiecznika w instalacji elektrycznej jachtu? ",
+    "category": "budowa_jachtu",
+    "answer_1": "wymienić na nowy ",
+    "answer_2": "wymienić rdzeń bezpiecznika na drut miedziany ",
+    "answer_3": "wymienić bezpiecznik na dowolny przedmiot przewodzący prąd ",
+    "correct_answer": 1
+  },
+  {
+    "id": 155,
+    "question": "W jakiej kolejności podłącza się przyłącze zasilania brzegowego do instalacji elektrycznej jachtu? ",
+    "category": "budowa_jachtu",
+    "answer_1": "najpierw do jachtu, potem do gniazda na lądzie ",
+    "answer_2": "najpierw do gniazda na lądzie, potem do jachtu ",
+    "answer_3": "najpierw do odgromnika, potem do gniazda na lądzie i następnie do jachtu ",
+    "correct_answer": 2
+  },
+  {
+    "id": 156,
+    "question": "Gdzie montujemy reduktor ciśnienia gazu? ",
+    "category": "budowa_jachtu",
+    "answer_1": "przy butli gazowej ",
+    "answer_2": "w gaźniku silnika zaburtowego ",
+    "answer_3": "przy kuchence gazowej  157W jaki sposób połączyć butlę gazowej z przewodem gazowym w przypadku braku uszczelki? ",
+    "correct_answer": 1
+  },
+  {
+    "id": 157,
+    "question": "",
+    "category": "budowa_jachtu",
+    "answer_1": "",
+    "answer_2": "",
+    "answer_3": "",
+    "correct_answer": 3
+  },
+  {
+    "id": 158,
+    "question": "W przypadku silników zaburtowych chłodzonych wodą należy zanurzyć spodzinę: ",
+    "category": "budowa_jachtu",
+    "answer_1": "przed rozpoczęciem uruchamiania silnika ",
+    "answer_2": "niezwłocznie po uruchomieniu silnika ",
+    "answer_3": "po włączeniu biegu i obciążeniu silnika ",
+    "correct_answer": 1
+  },
+  {
+    "id": 159,
+    "question": "Jakie paliwo stosuje się w zaburtowych silnikach dwusuwowych? ",
+    "category": "budowa_jachtu",
+    "answer_1": "czystą benzynę ",
+    "answer_2": "benzynę z olejem w proporcjach 1:50 ",
+    "answer_3": "benzynę z olejem w proporcjach zalecanych przez producenta silnika ",
+    "correct_answer": 3
+  },
+  {
+    "id": 160,
+    "question": "Jakie paliwo stosuje się w zaburtowych silnikach czterosuwowych? ",
+    "category": "budowa_jachtu",
+    "answer_1": "czystą benzynę ",
+    "answer_2": "benzynę z olejem w proporcjach 1:30 ",
+    "answer_3": "benzynę z olejem w proporcjach 1:100 ",
+    "correct_answer": 1
+  },
+  {
+    "id": 161,
+    "question": "Jak nazywa się część steru, którą trzyma sternik? ",
+    "category": "budowa_jachtu",
+    "answer_1": "płetwa sterowa ",
+    "answer_2": "rumpel ",
+    "answer_3": "stewa ",
+    "correct_answer": 2
+  },
+  {
+    "id": 162,
+    "question": "Jak fachowo nazywa się konstrukcja z rur (rodzaj bariery i poręczy) chroniąca załoganta na  dziobie, bądź rufie przed wypadnięciem za burtę? ",
+    "category": "budowa_jachtu",
+    "answer_1": "poręcz ",
+    "answer_2": "chwytacz ",
+    "answer_3": "kosz ",
+    "correct_answer": 3
+  },
+  {
+    "id": 163,
+    "question": "Jak nazywa się czubek masztu? ",
+    "category": "budowa_jachtu",
+    "answer_1": "pik ",
+    "answer_2": "top ",
+    "answer_3": "topkot ",
+    "correct_answer": 2
+  },
+  {
+    "id": 164,
+    "question": "Dwa najczęściej spotykane typy miecza na Mazurach to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "sztyletowy i szablowy ",
+    "answer_2": "wzdłużny i poprzeczny ",
+    "answer_3": "uchylny i szybrowy  ",
+    "correct_answer": 3
+  },
+  {
+    "id": 165,
+    "question": "Jak nazywają się przestrzenie w jachcie, których celem jest utrzymanie jachtu na powierzchni w  przypadku zalania go wodą? ",
+    "category": "budowa_jachtu",
+    "answer_1": "opony powietrzne ",
+    "answer_2": "komory wypornościowe ",
+    "answer_3": "komory balastowe ",
+    "correct_answer": 2
+  },
+  {
+    "id": 166,
+    "question": "Jak nazywa się belka umieszczona pod kilem? ",
+    "category": "budowa_jachtu",
+    "answer_1": "falszkil ",
+    "answer_2": "kilownik ",
+    "answer_3": "podkil ",
+    "correct_answer": 1
+  },
+  {
+    "id": 167,
+    "question": "Jak nazywa się bok jachtu? ",
+    "category": "budowa_jachtu",
+    "answer_1": "burta ",
+    "answer_2": "banta ",
+    "answer_3": "bulaj ",
+    "correct_answer": 1
+  },
+  {
+    "id": 168,
+    "question": "Jak nazywa się lina mocująca róg szotowy żagla do bomu? ",
+    "category": "budowa_jachtu",
+    "answer_1": "szotlina ",
+    "answer_2": "krętlik ",
+    "answer_3": "szkentla ",
+    "correct_answer": 3
+  },
+  {
+    "id": 169,
+    "question": "Jak nazywa się przedni maszt na keczu? ",
+    "category": "budowa_jachtu",
+    "answer_1": "fokmaszt ",
+    "answer_2": "lizel ",
+    "answer_3": "grotmaszt ",
+    "correct_answer": 1
+  },
+  {
+    "id": 170,
+    "question": "Jak nazywa się okucie w kształcie łezki, wzmacniające koniec liny i tworzące na nim „oko”? ",
+    "category": "budowa_jachtu",
+    "answer_1": "kausza ",
+    "answer_2": "kabestan ",
+    "answer_3": "remizka ",
+    "correct_answer": 1
+  },
+  {
+    "id": 171,
+    "question": "Jeżeli podłączenie zbyt wielu odbiorników prądu spowodowało przepalenie się bezpiecznika  topikowego, należy: ",
+    "category": "budowa_jachtu",
+    "answer_1": "wymienić bezpiecznik na nowy o tych samych parametrach i ograniczyć liczbę odbiorników ",
+    "answer_2": "wymienić rdzeń bezpiecznika na drut miedziany ",
+    "answer_3": "wymienić bezpiecznik na mocniejszy  ",
+    "correct_answer": 1
+  },
+  {
+    "id": 172,
+    "question": "W jakiej kolejności odłącza się instalację elektryczną jachtu od przyłącza brzegowego? ",
+    "category": "budowa_jachtu",
+    "answer_1": "najpierw od gniazda na lądzie, potem od jachtu ",
+    "answer_2": "najpierw od jachtu, potem od gniazda na lądzie ",
+    "answer_3": "najpierw od odgromnika, potem od gniazda na lądzie i następnie od jachtu ",
+    "correct_answer": 2
+  },
+  {
+    "id": 173,
+    "question": "W jaki sposób możemy naprawić nieszczelny przewód doprowadzający gaz z butli do kuchenki? ",
+    "category": "budowa_jachtu",
+    "answer_1": "wymienić przewód na nowy ",
+    "answer_2": "przy pomocy taśmy teflonowej ",
+    "answer_3": "przy pomocy łatek wulkanizujących ",
+    "correct_answer": 1
+  },
+  {
+    "id": 174,
+    "question": "W przypadku silników zaburtowych chłodzonych wodą możemy wynurzyć spodzinę: ",
+    "category": "budowa_jachtu",
+    "answer_1": "po zakończeniu pracy silnika ",
+    "answer_2": "nie krócej niż 5 minut po uruchomieniu silnika ",
+    "answer_3": "jeżeli temperatura wody jest wyższa niż temperatura powietrza ",
+    "correct_answer": 1
+  },
+  {
+    "id": 175,
+    "question": "Jakie paliwo stosuje się w jachtowych silnikach wysokoprężnych (diesla)? ",
+    "category": "budowa_jachtu",
+    "answer_1": "czystą benzynę ",
+    "answer_2": "benzynę z olejem w proporcjach 1:50 ",
+    "answer_3": "olej napędowy ",
+    "correct_answer": 3
+  },
+  {
+    "id": 176,
+    "question": "Katamaran to jacht, który zbudowany jest z: ",
+    "category": "budowa_jachtu",
+    "answer_1": "jednego kadłuba ",
+    "answer_2": "dwóch kadłubów ",
+    "answer_3": "trzech kadłubów ",
+    "correct_answer": 2
+  },
+  {
+    "id": 177,
+    "question": "Jak inaczej nazywany jest schowek na dziobie? ",
+    "category": "budowa_jachtu",
+    "answer_1": "achterpik ",
+    "answer_2": "forluk ",
+    "answer_3": "forpik ",
+    "correct_answer": 3
+  },
+  {
+    "id": 178,
+    "question": "Jak inaczej nazywany jest właz dziobowy? ",
+    "category": "budowa_jachtu",
+    "answer_1": "achterpik ",
+    "answer_2": "forluk ",
+    "answer_3": "forpik ",
+    "correct_answer": 2
+  },
+  {
+    "id": 179,
+    "question": "Co to jest greting? ",
+    "category": "budowa_jachtu",
+    "answer_1": "splot lin do mycia pokładu ",
+    "answer_2": "cienka linka do szycia żagli ",
+    "answer_3": "podłoga na jachcie  ",
+    "correct_answer": 3
+  },
+  {
+    "id": 180,
+    "question": "Jak nazywa się ta część bomu, którą mocujemy do masztu? ",
+    "category": "budowa_jachtu",
+    "answer_1": "nok bomu ",
+    "answer_2": "pięta ",
+    "answer_3": "sztag ",
+    "correct_answer": 2
+  },
+  {
+    "id": 181,
+    "question": "Wanta służy do ",
+    "category": "budowa_jachtu",
+    "answer_1": "usztywnienia masztu i utrzymywania go w pionie ",
+    "answer_2": "podtrzymywania bomu ",
+    "answer_3": "wybierania żagli ",
+    "correct_answer": 1
+  },
+  {
+    "id": 182,
+    "question": "Jak nazywają się liny służące do postawienia żagli? ",
+    "category": "budowa_jachtu",
+    "answer_1": "szoty ",
+    "answer_2": "sztagi ",
+    "answer_3": "fały ",
+    "correct_answer": 3
+  },
+  {
+    "id": 183,
+    "question": "Slup to typ ożaglowania: ",
+    "category": "budowa_jachtu",
+    "answer_1": "z jednym żaglem ",
+    "answer_2": "z dwoma żaglami ",
+    "answer_3": "z trzema żaglami ",
+    "correct_answer": 2
+  },
+  {
+    "id": 184,
+    "question": "Część masztu od salingu do topu nazywana jest: ",
+    "category": "budowa_jachtu",
+    "answer_1": "gaflem ",
+    "answer_2": "lugrem ",
+    "answer_3": "stengą ",
+    "correct_answer": 3
+  },
+  {
+    "id": 185,
+    "question": "Sztag to element olinowania stałego biegnący: ",
+    "category": "budowa_jachtu",
+    "answer_1": "od burty do masztu ",
+    "answer_2": "od dziobu do masztu ",
+    "answer_3": "od noku bomu do masztu ",
+    "correct_answer": 2
+  },
+  {
+    "id": 186,
+    "question": "Miejsce zszycia części materiału żagla nazywamy: ",
+    "category": "budowa_jachtu",
+    "answer_1": "likiem ",
+    "answer_2": "bantą ",
+    "answer_3": "brytem  ",
+    "correct_answer": 2
+  },
+  {
+    "id": 187,
+    "question": "Gafel to drzewce służące do: ",
+    "category": "budowa_jachtu",
+    "answer_1": "mocowania liku górnego żagla ",
+    "answer_2": "podnoszenia bandery ",
+    "answer_3": "rozpinania spinakera ",
+    "correct_answer": 1
+  },
+  {
+    "id": 188,
+    "question": "Raksa to element drobnego osprzętu: ",
+    "category": "budowa_jachtu",
+    "answer_1": "służący do mocowania want do podwięzi ",
+    "answer_2": "służący do mocowania talii do bomu ",
+    "answer_3": "służący do mocowania foka do sztagu ",
+    "correct_answer": 3
+  },
+  {
+    "id": 189,
+    "question": "Ket to typ ożaglowania: ",
+    "category": "budowa_jachtu",
+    "answer_1": "z jednym żaglem ",
+    "answer_2": "z dwoma żaglami ",
+    "answer_3": "z trzema żaglami ",
+    "correct_answer": 1
+  },
+  {
+    "id": 190,
+    "question": "Środkowy żagiel na jachcie typu kecz to: ",
+    "category": "budowa_jachtu",
+    "answer_1": "fok ",
+    "answer_2": "grot ",
+    "answer_3": "bezan ",
+    "correct_answer": 2
+  },
+  {
+    "id": 191,
+    "question": "Część masztu od salingu do pięty nazywana jest: ",
+    "category": "budowa_jachtu",
+    "answer_1": "kolumną ",
+    "answer_2": "reją ",
+    "answer_3": "stengą ",
+    "correct_answer": 1
+  },
+  {
+    "id": 192,
+    "question": "Który z niżej wymienionych elementów wchodzi w skład urządzenia sterowego? ",
+    "category": "budowa_jachtu",
+    "answer_1": "podwięź ",
+    "answer_2": "rumpel ",
+    "answer_3": "pokładnik  ",
+    "correct_answer": 2
   }
 ]
