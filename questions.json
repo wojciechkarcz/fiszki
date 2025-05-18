@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "What is the term for the left side of a boat when facing forward?",
+    "category": "Basics",
+    "answer_1": "Starboard",
+    "answer_2": "Port",
+    "answer_3": "Bow",
+    "correct_answer": 2
+  },
+  {
+    "id": 2,
+    "question": "Which knot is commonly used to attach a line to a cleat?",
+    "category": "Knots",
+    "answer_1": "Clove hitch",
+    "answer_2": "Bowline",
+    "answer_3": "Cleat hitch",
+    "correct_answer": 3
+  },
+  {
+    "id": 3,
+    "question": "What does a single white light at the top of a mast indicate at night?",
+    "category": "Lights",
+    "answer_1": "Vessel at anchor",
+    "answer_2": "Sailing vessel under way",
+    "answer_3": "Power-driven vessel under way",
+    "correct_answer": 1
+  },
+  {
+    "id": 4,
+    "question": "Which side should you leave an isolated danger mark to stay in safe water?",
+    "category": "Buoyage",
+    "answer_1": "North",
+    "answer_2": "Either side",
+    "answer_3": "South",
+    "correct_answer": 2
+  },
+  {
+    "id": 5,
+    "question": "A sudden strong wind of short duration is called a…",
+    "category": "Weather",
+    "answer_1": "Breeze",
+    "answer_2": "Gale",
+    "answer_3": "Squall",
+    "correct_answer": 3
+  },
+  {
+    "id": 6,
+    "question": "What is the purpose of a telltale on a sail?",
+    "category": "Trim",
+    "answer_1": "Show wind direction across the sail",
+    "answer_2": "Measure boat speed",
+    "answer_3": "Indicate sail cloth wear",
+    "correct_answer": 1
+  },
+  {
+    "id": 7,
+    "question": "In COLREGs, which vessel is the stand-on vessel when two sailing boats meet on opposite tacks?",
+    "category": "Rules",
+    "answer_1": "Starboard-tack vessel",
+    "answer_2": "Port-tack vessel",
+    "answer_3": "Downwind vessel",
+    "correct_answer": 1
+  },
+  {
+    "id": 8,
+    "question": "The forwardmost point of a boat is called the…",
+    "category": "Basics",
+    "answer_1": "Stern",
+    "answer_2": "Bow",
+    "answer_3": "Beam",
+    "correct_answer": 2
+  },
+  {
+    "id": 9,
+    "question": "Which knot is best for joining two lines of similar diameter?",
+    "category": "Knots",
+    "answer_1": "Sheet bend",
+    "answer_2": "Figure of eight",
+    "answer_3": "Round turn & two half hitches",
+    "correct_answer": 1
+  },
+  {
+    "id": 10,
+    "question": "What is the name of the rope used to raise a sail?",
+    "category": "Rigging",
+    "answer_1": "Halyard",
+    "answer_2": "Sheet",
+    "answer_3": "Painter",
+    "correct_answer": 1
+  }
+]
