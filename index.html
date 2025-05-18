@@ -86,6 +86,12 @@
         allQuestions = data;
         current = pickRandom();
         renderQuestion(current);
+
+        document.getElementById("answers").addEventListener("click", (e) => {
+        const li = e.target.closest("li");
+        if (!li) return;                       // clicked outside any option
+        li.querySelector('input[type="radio"]').checked = true;
+        });
       })
       .catch((err) => {
         document.getElementById("question").textContent =

@@ -38,6 +38,8 @@ h2 {
   transition:background .25s;
 }
 
+.answers li { cursor: pointer; } 
+
 .answers li:hover {
   background:#f3f9ff;
 }
@@ -60,7 +62,7 @@ h2 {
 .buttons {
   display:flex;
   gap:1rem;
-  justify-content:flex-end;
+  justify-content:center;
 }
 
 button {
