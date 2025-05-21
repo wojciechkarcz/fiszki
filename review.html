@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sailing Flash-cards – Spaced Review</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="card">
+    <h2 id="question">Loading question…</h2>
+    <p id="bucketInfo" class="bucket"></p>
+
+    <ul id="answers" class="answers"></ul>
+    <p id="result" class="result"></p>
+
+    <div class="buttons">
+      <button id="checkBtn">Check</button>
+      <button id="nextBtn">Next</button>
+    </div>
+  </main>
+
+  <script>
+    /* ---------- tiny helpers ---------- */
+    const MAX_BUCKET = 5;
+    const STORAGE_KEY = 'bucketMap';
+
+    function shuffle(arr) {          // Fisher-Yates
+      for (let i = arr.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [arr[i], arr[j]] = [arr[j], arr[i]];
+      }
+    }
+
+    /* ---------- Leitner storage (localStorage) ---------- */
+    function loadBuckets() {
+      return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
+    }
+    function bucketOf(id) {
+      return loadBuckets()[id] || 1;           // default bucket 1
+    }
+    function setBucket(id, bucket) {
+      const map = loadBuckets();
+      map[id] = bucket;
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(map));
+    }
+
+    /* ---------- app state ---------- */
+    let allQ = [];
+    let current = null;
+
+    function pickRandom() {                     // still plain random
+      return allQ[Math.floor(Math.random() * allQ.length)];
+    }
+
+    /* ---------- UI ---------- */
+    function renderQuestion(q) {
+      document.getElementById('question').textContent = q.question;
+      document.getElementById('result').textContent = '';
+      document.getElementById('bucketInfo').textContent = `Bucket ${bucketOf(q.id)}`;
+
+      const ul = document.getElementById('answers');
+      ul.innerHTML = '';
+
+      const keys = ['answer_1', 'answer_2', 'answer_3'];
+      shuffle(keys);                            // random order of answers
+
+      keys.forEach(k => {
+        const val = Number(k.slice(-1));        // 1, 2, 3
+        const li = document.createElement('li');
+        li.innerHTML = `
+          <label>
+            <input type="radio" name="answer" value="${val}">
+            <span>${q[k]}</span>
+          </label>`;
+        ul.appendChild(li);
+      });
+    }
+
+    /* ---------- event handlers ---------- */
+    document.getElementById('answers').addEventListener('click', e => {
+      const li = e.target.closest('li');
+      if (li) li.querySelector('input[type="radio"]').checked = true;
+    });
+
+    document.getElementById('checkBtn').addEventListener('click', () => {
+      const chosenInput = document.querySelector('input[name="answer"]:checked');
+      if (!chosenInput) return;                 // ignore if nothing ticked
+
+      const chosen = Number(chosenInput.value);
+      const correct = chosen === current.correct_answer;
+
+      /* Leitner move */
+      const now   = bucketOf(current.id);
+      const nextB = Math.max(1, Math.min(MAX_BUCKET, correct ? now + 1 : now - 1));
+      setBucket(current.id, nextB);
+      document.getElementById('bucketInfo').textContent = `Bucket ${nextB}`;
+
+      /* colouring */
+      document.querySelectorAll('input[name="answer"]').forEach(inp => {
+        const li = inp.parentElement.parentElement;
+        li.classList.remove('correct', 'incorrect');
+        const idx = Number(inp.value);
+        if (idx === current.correct_answer) li.classList.add('correct');
+        else if (idx === chosen)            li.classList.add('incorrect');
+      });
+
+      document.getElementById('result').textContent = correct ? 'CORRECT ✅' : 'WRONG ❌';
+    });
+
+    document.getElementById('nextBtn').addEventListener('click', () => {
+      current = pickRandom();
+      renderQuestion(current);
+    });
+
+    /* ---------- boot ---------- */
+    fetch('questions.json')
+      .then(r => r.json())
+      .then(data => {
+        allQ   = data;
+        current = pickRandom();
+        renderQuestion(current);
+      })
+      .catch(err => {
+        document.getElementById('question').textContent = 'Failed to load questions.json';
+        console.error(err);
+      });
+  </script>
+</body>
+</html>
