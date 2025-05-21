@@ -76,3 +76,5 @@ button {
 }
 
 button:hover { opacity:.9; }
+
+.bucket { font-size: 0.9rem; color: #555; margin: 0 0 .5rem 0; }
