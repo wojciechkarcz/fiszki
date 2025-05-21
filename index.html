@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Sailing Flash-cards</title>
+  <title>Żeglarskie Fiszki</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
@@ -25,6 +25,13 @@
     let allQuestions = [];
     let current = null;
 
+    function shuffle(arr) {
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    }
+
     // ---------- helpers ----------
     function pickRandom() {
       const i = Math.floor(Math.random() * allQuestions.length);
@@ -37,14 +44,18 @@
       const ul = document.getElementById("answers");
       ul.innerHTML = "";
 
-      ["answer_1", "answer_2", "answer_3"].forEach((key, idx) => {
-        const li = document.createElement("li");
-        li.innerHTML = `
-          <label>
-            <input type="radio" name="answer" value="${idx + 1}">
-            <span>${q[key]}</span>
-          </label>`;
-        ul.appendChild(li);
+      const keys = ["answer_1", "answer_2", "answer_3"];
+      shuffle(keys);                            // random order each render
+
+       keys.forEach((key) => {
+      const li = document.createElement("li");
+      const val = Number(key.slice(-1));      // 1, 2, or 3 → keeps correct-answer logic intact
+      li.innerHTML = `
+      <label>
+        <input type="radio" name="answer" value="${val}">
+        <span>${q[key]}</span>
+      </label>`;
+      ul.appendChild(li);
       });
     }
 
