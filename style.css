@@ -80,7 +80,7 @@ button:hover { opacity:.9; }
 .bucket { font-size: 0.9rem; color: #555; margin: 0 0 .5rem 0; }
 
 /* reset link – top-right corner */
-.reset-link {
+#resetLink {
   position: fixed;
   top: 1rem;
   right: 1rem;
