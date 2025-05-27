@@ -68,7 +68,7 @@
         const percent = Math.round((count / total) * 100) || 0;
         pieces.push(`Bucket ${b}: ${count} (${percent}%)`);
       }
-      qs('#stats').textContent = pieces.join(' | ');
+      qs('#stats').innerHTML = pieces.join('<br>');
     }
 
     /* ---------- UI ---------- */
