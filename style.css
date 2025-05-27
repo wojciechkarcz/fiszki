@@ -84,6 +84,8 @@ button:hover { opacity:.9; }
   position: fixed;
   top: 1rem;
   right: 1rem;
+  left: auto;
+  z-index: 999;
   font-size: .9rem;
   font-weight: 600;
   color: #2367ff;
