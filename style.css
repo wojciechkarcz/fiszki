@@ -79,21 +79,18 @@ button:hover { opacity:.9; }
 
 .bucket { font-size: 0.9rem; color: #555; margin: 0 0 .5rem 0; }
 
-/* reset button – top-right corner */
-.reset {
+/* reset link – top-right corner */
+.reset-link {
   position: fixed;
   top: 1rem;
   right: 1rem;
-  background: #fff;
-  border: 2px solid #2367ff;
-  border-radius: 50%;
-  width: 2.2rem;
-  height: 2.2rem;
-  font-size: 1.1rem;
-  cursor: pointer;
-  box-shadow: 0 2px 6px rgba(0,0,0,.15);
+  font-size: .9rem;
+  font-weight: 600;
+  color: #2367ff;
+  text-decoration: none;
 }
-.reset:hover { background: #eef2ff; }
+.reset-link:hover { text-decoration: underline; }
+
 
 /* stats line */
 .stats {

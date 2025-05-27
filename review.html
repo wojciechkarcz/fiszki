@@ -6,8 +6,9 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <!-- reset button -->
-  <button id="resetBtn" class="reset" title="Clear progress">⟲</button>
+
+<!-- reset link -->
+<a id="resetLink" class="reset-link" href="#">Reset</a>
 
   <main class="card">
     <h2 id="question">Loading question…</h2>
@@ -132,7 +133,8 @@
     });
 
     /* reset progress */
-    qs('#resetBtn').addEventListener('click', () => {
+    qs('#resetLink').addEventListener('click', (e) => {
+      e.preventDefault();
       if (confirm('Clear all progress and start over?')) {
         clearBuckets();
         updateStats();
