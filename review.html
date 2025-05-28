@@ -41,6 +41,48 @@
       }
     }
 
+     /* ---------- constants ---------- */
+  //const MAX_BUCKET = 5;
+  /* pick weights in % or any positive numbers — tweak to taste */
+  const BUCKET_WEIGHTS = [0, 50, 25, 15, 7, 3]; // index 0 unused
+
+  /* ---------- group cards by bucket ---------- */
+  function cardsByBucket() {
+    const map = loadBuckets();
+    const groups = Array.from({ length: MAX_BUCKET + 1 }, () => []);
+    allQ.forEach(q => {
+      const b = map[q.id] || 1;
+      groups[b].push(q);
+    });
+    return groups;
+  }
+
+  /* ---------- weighted random draw ---------- */
+  function pickWeightedRandom() {
+    const groups = cardsByBucket();
+
+    /* build an array of [bucketIndex, effectiveWeight] for non-empty buckets */
+    const pool = [];
+    for (let b = 1; b <= MAX_BUCKET; b++) {
+      const count = groups[b].length;
+      if (count) pool.push([b, BUCKET_WEIGHTS[b]]);
+    }
+
+    /* roulette-wheel based on weights */
+    const totalWeight = pool.reduce((sum, [, w]) => sum + w, 0);
+    let r = Math.random() * totalWeight;
+    let chosenBucket = pool[0][0];          // fallback
+
+    for (const [b, w] of pool) {
+      if (r < w) { chosenBucket = b; break; }
+      r -= w;
+    }
+
+    /* finally pick a random card inside that bucket */
+    const bucketCards = groups[chosenBucket];
+    return bucketCards[Math.floor(Math.random() * bucketCards.length)];
+  }
+
     /* ---------- Leitner storage (localStorage) ---------- */
     function loadBuckets()          { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); }
     function bucketOf(id)           { return loadBuckets()[id] || 1; }
@@ -128,7 +170,7 @@
     });
 
     qs('#nextBtn').addEventListener('click', () => {
-      current = pickRandom();
+      current = pickWeightedRandom();
       renderQuestion(current);
     });
 
@@ -147,7 +189,7 @@
       .then(r => r.json())
       .then(data => {
         allQ   = data;
-        current = pickRandom();
+        current = pickWeightedRandom();
         renderQuestion(current);
         updateStats();
       })
