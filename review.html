@@ -65,7 +65,7 @@
     const pool = [];
     for (let b = 1; b <= MAX_BUCKET; b++) {
       const count = groups[b].length;
-      if (count) pool.push([b, BUCKET_WEIGHTS[b]]);
+      if (count) pool.push([b, BUCKET_WEIGHTS[b] * count]);
     }
 
     /* roulette-wheel based on weights */
