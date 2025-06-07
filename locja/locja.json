@@ -1,0 +1,929 @@
+[
+  {
+    "id": "1",
+    "question": "Jak oznakowana jest lewa strona szlaku żeglownego?",
+    "category": "locja",
+    "answer_1": "stożkowatymi zielonymi znakami i pływakami",
+    "answer_2": "stożkowatymi czerwonymi znakami i pływakami",
+    "answer_3": "walcowatymi zielonymi znakami i pływakami",
+    "correct_answer": 1
+  },
+  {
+    "id": "2",
+    "question": "Jak oznakowana jest prawa strona szlaku żeglownego?",
+    "category": "locja",
+    "answer_1": "stożkowatymi zielonymi znakami i pływakami",
+    "answer_2": "walcowatymi czerwonymi znakami i pływakami",
+    "answer_3": "walcowatymi zielonymi znakami i pływakami",
+    "correct_answer": 2
+  },
+  {
+    "id": "3",
+    "question": "Jak oznakowane jest skrzyżowanie szlaków szlaku żeglownego?",
+    "category": "locja",
+    "answer_1": "stożkowatymi czarnymi znakami i pływakami",
+    "answer_2": "kulistymi zielono-czerwonymi znakami i pływakami",
+    "answer_3": "walcowatymi zielono-czerwonymi znakami i pływakami",
+    "correct_answer": 2
+  },
+  {
+    "id": "4",
+    "question": "Co to jest jaz?",
+    "category": "locja",
+    "answer_1": "jest to budowla hydrotechniczna służąca do ochrony przed falami",
+    "answer_2": "jest to budowla hydrotechniczna umożliwiająca jachtom uzupełnianie wody",
+    "answer_3": "jest to budowla hydrotechniczna, umożliwiająca długotrwałe spiętrzenie wody",
+    "correct_answer": 3
+  },
+  {
+    "id": "9",
+    "question": "Jak oznakowane jest przejście pod mostem (lub jednym z przęseł mostu) z ruchem odbywającym się w obydwu kierunkach?",
+    "category": "locja",
+    "answer_1": "jeden żółty romb",
+    "answer_2": "jeden biało-czerwony kwadrat",
+    "answer_3": "dwa żółte kwadraty",
+    "correct_answer": 1
+  },
+  {
+    "id": "10",
+    "question": "Jak oznakowane jest przejście pod mostem (lub jednym z przęseł mostu) z ruchem odbywającym się w jednym kierunku?",
+    "category": "locja",
+    "answer_1": "dwa biało-czerwone kwadraty",
+    "answer_2": "dwa żółte romby",
+    "answer_3": "dwa czarne kwadraty",
+    "correct_answer": 2
+  },
+  {
+    "id": "11",
+    "question": "Jak oznakowany jest zakaz przejścia?",
+    "category": "locja",
+    "answer_1": "prostokątna tablica w czarno-biało-czarne pasy",
+    "answer_2": "prostokątna tablica w czerwono-biało-czerwone pasy",
+    "answer_3": "prostokątna tablica w czarno-zielono-czarne pasy",
+    "correct_answer": 2
+  },
+  {
+    "id": "12",
+    "question": "Znak stały w formie czerwonego trójkąta skierowanego wierzchołkiem w dół, umieszczony na brzegu, oznacza:",
+    "category": "locja",
+    "answer_1": "miejsce niebezpieczne przy prawym brzegu",
+    "answer_2": "miejsce niebezpieczne przy lewym brzegu",
+    "answer_3": "zakaz przejścia",
+    "correct_answer": 1
+  },
+  {
+    "id": "13",
+    "question": "Znak oznaczający pozwolenie na wejście do śluzy to:",
+    "category": "locja",
+    "answer_1": "dwa światła zielone",
+    "answer_2": "dwa światła białe",
+    "answer_3": "jedno światło białe",
+    "correct_answer": 1
+  },
+  {
+    "id": "15",
+    "question": "Sygnał oznaczający przygotowanie do otwarcia śluzy to:",
+    "category": "locja",
+    "answer_1": "jedno czerwone światło i jedno zielone umieszczone obok siebie",
+    "answer_2": "jedno żółte światło i jedno zielone umieszczone obok siebie",
+    "answer_3": "jedno żółte światło",
+    "correct_answer": 1
+  },
+  {
+    "id": "16",
+    "question": "Boja o dowolnym kształcie pomalowana na kolor żółty oznacza:",
+    "category": "locja",
+    "answer_1": "początek szlaku ruchu żeglugowego",
+    "answer_2": "rozwidlenie szlaku ruchu żeglugowego",
+    "answer_3": "krawędź akwenu zamkniętego dla ruchu żeglugowego",
+    "correct_answer": 3
+  },
+  {
+    "id": "18",
+    "question": "Budowla hydrotechniczna umożliwiająca pokonanie różnicy poziomu wody między dwoma zbiornikami wody to:",
+    "category": "locja",
+    "answer_1": "śluza",
+    "answer_2": "jaz",
+    "answer_3": "spad",
+    "correct_answer": 1
+  },
+  {
+    "id": "19",
+    "question": "Sygnał oznaczający zamknięcie śluzy lub mostu to:",
+    "category": "locja",
+    "answer_1": "dwa czerwone światła",
+    "answer_2": "jedno białe światło",
+    "answer_3": "czarny kwadrat",
+    "correct_answer": 1
+  },
+  {
+    "id": "20",
+    "question": "Sygnał oznaczający zamknięcie śluzy lub mostu to:",
+    "category": "locja",
+    "answer_1": "dwa białe światła",
+    "answer_2": "jedno czerwone światło",
+    "answer_3": "czarny kwadrat",
+    "correct_answer": 2
+  },
+  {
+    "id": "21",
+    "question": "Prawą stronę szlaku żeglownego może oznaczać:",
+    "category": "locja",
+    "answer_1": "czerwono-biała tyczka ze znakiem szczytowym w kształcie walca",
+    "answer_2": "zielono-biała tyczka",
+    "answer_3": "czarno-biała tyczka",
+    "correct_answer": 1
+  },
+  {
+    "id": "22",
+    "question": "Jeden żółty romb na przęśle mostu stałego oznacza: a) zakaz przejścia pod przęsłem",
+    "category": "locja",
+    "answer_1": "zakaz przejścia pod przęsłem",
+    "answer_2": "ruch w obu kierunkach pod przęsłem",
+    "answer_3": "ruch w jednym kierunku pod przęsłem",
+    "correct_answer": 2
+  },
+  {
+    "id": "36",
+    "question": "Budowla hydrotechniczna umożliwiająca pokonanie różnicy poziomu wody między dwoma zbiornikami wody to:",
+    "category": "locja",
+    "answer_1": "jaz",
+    "answer_2": "śluza",
+    "answer_3": "przepławka",
+    "correct_answer": 2
+  },
+  {
+    "id": "37",
+    "question": "Po wpłynięciu do śluzy należy:",
+    "category": "locja",
+    "answer_1": "wysłać całą załogę na brzeg",
+    "answer_2": "rzucić kotwicę",
+    "answer_3": "zacumować jacht na biegowo",
+    "correct_answer": 3
+  },
+  {
+    "id": "38",
+    "question": "Podczas śluzowania nie wolno:",
+    "category": "locja",
+    "answer_1": "odpychać się od ściany śluzy za pomocą rąk lub nóg",
+    "answer_2": "cumować na biegowo",
+    "answer_3": "cumować do innego jachtu",
+    "correct_answer": 1
+  },
+  {
+    "id": "39",
+    "question": "Jaz jest to:",
+    "category": "locja",
+    "answer_1": "przegroda poprzeczna spiętrzająca wodę",
+    "answer_2": "basen z dwoma wrotami",
+    "answer_3": "kanał spławny",
+    "correct_answer": 1
+  },
+  {
+    "id": "40",
+    "question": "Jaki znak szczytowy ma wschodni znak kardynalny?",
+    "category": "locja",
+    "answer_1": "dwa czarne stożki, jeden nad drugim, z wierzchołkami skierowanymi w górę",
+    "answer_2": "dwa czarne stożki, jeden nad drugim, skierowane podstawami do siebie",
+    "answer_3": "dwa czarne stożki, jeden nad drugim, z wierzchołkami skierowanymi w dół",
+    "correct_answer": 2
+  },
+  {
+    "id": "41",
+    "question": "Zielone lub dwa zielone światła na śluzie oznaczają:",
+    "category": "locja",
+    "answer_1": "śluza otwarta",
+    "answer_2": "śluza zamknięta",
+    "answer_3": "przygotowanie do otwarcia śluzy",
+    "correct_answer": 1
+  },
+  {
+    "id": "42",
+    "question": "Rzeka, której szerokość została sztucznie zawężona budowlami wodnymi jest rzeką",
+    "category": "locja",
+    "answer_1": "dziką",
+    "answer_2": "uregulowaną",
+    "answer_3": "skanalizowaną",
+    "correct_answer": 2
+  },
+  {
+    "id": "43",
+    "question": "Przepływając jachtem pod mostem na rzece, pomiędzy filarami wyrastającymi z wody, napotkamy:",
+    "category": "locja",
+    "answer_1": "zmniejszenie szybkości prądu rzeki",
+    "answer_2": "stojącą wodę",
+    "answer_3": "przyspieszenie prądu i wiry",
+    "correct_answer": 3
+  },
+  {
+    "id": "44",
+    "question": "Pojedyncze żółte rytmiczne światło o częstotliwości 40 błysków na minutę, widoczne na boi lub słupie przy brzegu jeziora na szlaku Wielkich Jezior Mazurskich oznacza:",
+    "category": "locja",
+    "answer_1": "mieliznę",
+    "answer_2": "wskazanie miejsca postoju dla promów",
+    "answer_3": "możliwość nadejścia burzy i silnego wiatru",
+    "correct_answer": 3
+  },
+  {
+    "id": "45",
+    "question": "System IALA to:",
+    "category": "locja",
+    "answer_1": "wewnętrzny system oznakowania wód śródlądowych ustalany dla poszczególnych państw",
+    "answer_2": "procedury postępowania w przypadku nieprzestrzegania ograniczeń wynikających z oznakowania wód śródlądowych",
+    "answer_3": "międzynarodowy morski system oznakowania nawigacyjnego",
+    "correct_answer": 3
+  },
+  {
+    "id": "46",
+    "question": "Farwater to:",
+    "category": "locja",
+    "answer_1": "ślad zostawiany przez jacht na wodzie",
+    "answer_2": "brudna woda w komorze silnika",
+    "answer_3": "droga wodna, na której może odbywać się bezpieczny ruch żeglugowy statków",
+    "correct_answer": 3
+  },
+  {
+    "id": "47",
+    "question": "W śluzie jacht cumujemy:",
+    "category": "locja",
+    "answer_1": "podbiegowo",
+    "answer_2": "na biegowo",
+    "answer_3": "zabiegowo",
+    "correct_answer": 2
+  },
+  {
+    "id": "48",
+    "question": "Przy wejściu do śluzy pierwszeństwo mają:",
+    "category": "locja",
+    "answer_1": "zorganizowane grupy",
+    "answer_2": "studenci",
+    "answer_3": "statki pasażerskie",
+    "correct_answer": 3
+  },
+  {
+    "id": "49",
+    "question": "Żeglugowe znaki nakazu mają formę:",
+    "category": "locja",
+    "answer_1": "trójkątnej tablicy w kolorze żółtym z czarną obwódką",
+    "answer_2": "prostokątnej tablicy w kolorze czerwonym",
+    "answer_3": "czworokątnej białej tablicy z czerwoną obwódką i czarnym symbolem nakazu lub ograniczenia",
+    "correct_answer": 3
+  },
+  {
+    "id": "50",
+    "question": "Znak nakazu zachowania szczególnej ostrożności ma formę białego kwadratu z czerwoną obwódką i symbolem:",
+    "category": "locja",
+    "answer_1": "dużej czarnej kropki",
+    "answer_2": "grubej poziomej kreski",
+    "answer_3": "grubej pionowej kreski",
+    "correct_answer": 3
+  },
+  {
+    "id": "51",
+    "question": "Znaki określające prawą stronę szlaku żeglownego na śródlądziu mają formę:",
+    "category": "locja",
+    "answer_1": "białej kuli",
+    "answer_2": "czerwonego walca",
+    "answer_3": "czerwonego trójkąta",
+    "correct_answer": 2
+  },
+  {
+    "id": "52",
+    "question": "Wschodni znak kardynalny ma znak szczytowy w formie dwóch stożków, jeden nad drugim:",
+    "category": "locja",
+    "answer_1": "wierzchołkami skierowanymi do góry",
+    "answer_2": "wierzchołkami skierowanymi do dołu",
+    "answer_3": "skierowanymi podstawami do siebie",
+    "correct_answer": 3
+  },
+  {
+    "id": "53",
+    "question": "Znak kardynalny północny opływamy:",
+    "category": "locja",
+    "answer_1": "od wschodniej strony znaku",
+    "answer_2": "od zachodniej strony znaku",
+    "answer_3": "od północnej strony znaku",
+    "correct_answer": 3
+  },
+  {
+    "id": "54",
+    "question": "Wschód znajduje się:",
+    "category": "locja",
+    "answer_1": "po lewej stronie mapy",
+    "answer_2": "na dole mapy",
+    "answer_3": "po prawej stronie mapy",
+    "correct_answer": 3
+  },
+  {
+    "id": "55",
+    "question": "Jeden żółty romb na przęśle mostu stałego oznacza:",
+    "category": "locja",
+    "answer_1": "zakaz przejścia pod przęsłem",
+    "answer_2": "ruch w obu kierunkach pod przęsłem",
+    "answer_3": "ruch w jednym kierunku pod przęsłem",
+    "correct_answer": 2
+  },
+  {
+    "id": "60",
+    "question": "Co to jest ploso?",
+    "category": "locja",
+    "answer_1": "jest to miejsce największej głębokości na rzece i tworzy się przy brzegu wklęsłym",
+    "answer_2": "jest to miejsce największej głębokości na rzece i tworzy się przy brzegu wypukłym",
+    "answer_3": "jest to płycizna na rzece tworząca się przez osadzanie i stabilizację materiału wleczonego między ławicami",
+    "correct_answer": 1
+  },  
+{
+    "id": "63",
+    "question": "Zbiór wiadomości, które mają znaczenie dla bezpieczeństwa żeglugi na danym akwenie to:",
+    "category": "locja",
+    "answer_1": "etykieta",
+    "answer_2": "locja",
+    "answer_3": "protokół",
+    "correct_answer": 2
+  },
+  {
+    "id": "64",
+    "question": "Rzeka naturalna:",
+    "category": "locja",
+    "answer_1": "płynie prosto",
+    "answer_2": "jest rzeką, po której żegluga jest zabroniona",
+    "answer_3": "meandruje",
+    "correct_answer": 3
+  },
+  {
+    "id": "65",
+    "question": "Progi, jazy, ostrogi, opaski czy śluzy charakterystyczne są dla:",
+    "category": "locja",
+    "answer_1": "rzeki uregulowanej",
+    "answer_2": "rzeki naturalnej",
+    "answer_3": "rzeki dzikiej",
+    "correct_answer": 1
+  },
+  {
+    "id": "66",
+    "question": "Przybrzeżna głębina w rzece naturalnej to:",
+    "category": "locja",
+    "answer_1": "przykosa",
+    "answer_2": "buchta",
+    "answer_3": "ploso",
+    "correct_answer": 2
+  },
+  {
+    "id": "67",
+    "question": "Wypukły i niski brzeg rzeki z osadzonym rumowiskiem nazywany jest:",
+    "category": "locja",
+    "answer_1": "rogiem",
+    "answer_2": "buchtą",
+    "answer_3": "przemiałem",
+    "correct_answer": 1
+  },
+  {
+    "id": "68",
+    "question": "Zwara, blizna, bystrze, warkocz to:",
+    "category": "locja",
+    "answer_1": "nazwy przeszkód podwodnych w rzece",
+    "answer_2": "nazwy związane z „czytaniem wody”",
+    "answer_3": "nazwy budowli w rzece uregulowanej",
+    "correct_answer": 2
+  },
+  {
+    "id": "69",
+    "question": "Gdy statek płynie z prądem rzeki, po jego lewej stronie jest:",
+    "category": "locja",
+    "answer_1": "prawa strona szlaku żeglownego",
+    "answer_2": "lewa strona szlaku żeglownego",
+    "answer_3": "nie można określić strony szlaku żeglownego",
+    "correct_answer": 2
+  },
+  {
+    "id": "70",
+    "question": "Światło zielone i czerwone przy wejściu do śluzy oznacza:",
+    "category": "locja",
+    "answer_1": "zakaz wejścia",
+    "answer_2": "wejście dozwolone",
+    "answer_3": "przygotować się do wejścia",
+    "correct_answer": 3
+  },
+  {
+    "id": "71",
+    "question": "Szerokość przejścia ograniczają:",
+    "category": "locja",
+    "answer_1": "biało-czerwone tablice w kształcie rombu",
+    "answer_2": "biało-czerwone prostokątne tablice",
+    "answer_3": "czerwone znaki w kształcie trójkąta",
+    "correct_answer": 1
+  },
+  {
+    "id": "72",
+    "question": "Zakaz ruchu statków żaglowych obowiązuje m.in.:",
+    "category": "locja",
+    "answer_1": "na rzekach dzikich",
+    "answer_2": "w kanałach",
+    "answer_3": "na małych jeziorach",
+    "correct_answer": 2
+  },
+  {
+    "id": "73",
+    "question": "Znaki informacyjne mają:",
+    "category": "locja",
+    "answer_1": "czerwone tło i biały symbol",
+    "answer_2": "białe tło i czarny symbol",
+    "answer_3": "niebieskie tło i biały symbol",
+    "correct_answer": 3
+  },
+  {
+    "id": "74",
+    "question": "Znaki zakazu mają kształt kwadratowej tablicy z:",
+    "category": "locja",
+    "answer_1": "czerwoną obwódką, białym tłem, na którym jest czarny symbol przekreślony ukośnym czerwonym pasem",
+    "answer_2": "czerwoną obwódką, białym tłem, na którym jest czarny symbol",
+    "answer_3": "czerwoną obwódką, białym tłem, na którym jest czerwony symbol",
+    "correct_answer": 1
+  },
+  {
+    "id": "75",
+    "question": "Na przejście lub wejście zezwala:",
+    "category": "locja",
+    "answer_1": "czerwone i zielone światło",
+    "answer_2": "zielone światło lub zielono-biała tablica",
+    "answer_3": "zielone światło lub żółto-czarna tablica",
+    "correct_answer": 2
+  },
+  {
+    "id": "77",
+    "question": "Widząc jeden żółty romb między przęsłami mostu:",
+    "category": "locja",
+    "answer_1": "musimy trzymać się prawej stronie przejścia, bo obok może przepływać w przeciwnym kierunku inny statek",
+    "answer_2": "możemy płynąć środkiem przejścia, gdyż z przeciwnego kierunku przejście jest zabronione",
+    "answer_3": "nie możemy przepływać między tymi przęsłami",
+    "correct_answer": 1
+  },
+  {
+    "id": "78",
+    "question": "Prawa granica szlaku żeglownego na śródlądziu oznaczona jest:",
+    "category": "locja",
+    "answer_1": "walcem o czerwonym kolorze",
+    "answer_2": "walcem o zielonym kolorze",
+    "answer_3": "stożkiem o czerwonym kolorze",
+    "correct_answer": 1
+  },
+  {
+    "id": "79",
+    "question": "Lewa granica szlaku żeglownego na śródlądziu oznaczona jest:",
+    "category": "locja",
+    "answer_1": "walcem o czerwonym kolorze",
+    "answer_2": "walcem o zielonym kolorze",
+    "answer_3": "stożkiem o zielonym kolorze",
+    "correct_answer": 3
+  },
+  {
+    "id": "80",
+    "question": "Miejsce niebezpieczne na lewym brzegu szlaku żeglownego oznaczone jest:",
+    "category": "locja",
+    "answer_1": "zielonym stożkiem skierowanym wierzchołkiem w dół, umieszczonym na tyce",
+    "answer_2": "zielonym stożkiem skierowanym wierzchołkiem w górę, umieszczonym na tyce",
+    "answer_3": "czerwonym stożkiem skierowanym wierzchołkiem w dół, umieszczonym na tyce",
+    "correct_answer": 1
+  },
+  {
+    "id": "81",
+    "question": "Nabieżniki:",
+    "category": "locja",
+    "answer_1": "umożliwiają bezpieczną żeglugę w wąskich i krętych torach wodnych",
+    "answer_2": "wskazują miejsca niebezpieczne na akwenie",
+    "answer_3": "określają prawą i lewą stronę szlaku żeglownego",
+    "correct_answer": 1
+  },
+  {
+    "id": "82",
+    "question": "Co wskazuje nazwa znaku kardynalnego (np. północny, wschodni itp.)?",
+    "category": "locja",
+    "answer_1": "kierunek, w jakim od strony znaku znajduje się niebezpieczeństwo",
+    "answer_2": "kierunek, w jakim od strony znaku znajduje się bezpieczna woda",
+    "answer_3": "kierunek, w jakim od strony znaku nie należy żeglować",
+    "correct_answer": 2
+  },
+  {
+    "id": "83",
+    "question": "Na znakach kardynalnych występują kolory:",
+    "category": "locja",
+    "answer_1": "żółty i czarny",
+    "answer_2": "czarny i czerwony",
+    "answer_3": "czerwony i zielony",
+    "correct_answer": 1
+  },
+  {
+    "id": "84",
+    "question": "Na wodach morskich kierunek toru wodnego oznaczony jest:",
+    "category": "locja",
+    "answer_1": "od strony portu do morza",
+    "answer_2": "od strony morza do portu",
+    "answer_3": "tak jak na wodach śródlądowych",
+    "correct_answer": 2
+  },
+  {
+    "id": "85",
+    "question": "Na polskich wodach morskich znaki lewej strony toru wodnego mają kolor:",
+    "category": "locja",
+    "answer_1": "czerwony",
+    "answer_2": "zielony",
+    "answer_3": "żółty",
+    "correct_answer": 1
+  },
+  {
+    "id": "86",
+    "question": "Podstawowym źródłem informacji niezbędnych do prowadzenia bezpiecznej nawigacji są:",
+    "category": "locja",
+    "answer_1": "gwiazdy",
+    "answer_2": "przewodniki po miastach portowych",
+    "answer_3": "mapy",
+    "correct_answer": 3
+  },
+  {
+    "id": "87",
+    "question": "Jacht osiągnie prędkość jednego węzła gdy:",
+    "category": "locja",
+    "answer_1": "odległość 1 Mm pokona w czasie 1 minuty",
+    "answer_2": "odległość 1 km pokona w czasie 1 godziny",
+    "answer_3": "odległość 1 Mm pokona w czasie 1 godziny",
+    "correct_answer": 3
+  },
+  {
+    "id": "88",
+    "question": "W żegludze morskiej niezbędna jest znajomość:",
+    "category": "locja",
+    "answer_1": "wszystkich portów, które zamierzasz odwiedzić",
+    "answer_2": "zasad określania i zapisywania współrzędnych geograficznych",
+    "answer_3": "danych osobowych załogantów, z którymi żeglujesz",
+    "correct_answer": 2
+  },
+  {
+    "id": "89",
+    "question": "Na jachcie morskim, w pobliżu stanowiska sternika, musi być umieszczony:",
+    "category": "locja",
+    "answer_1": "kompas sterowy",
+    "answer_2": "wiatromierz",
+    "answer_3": "zegar",
+    "correct_answer": 1
+  },
+  {
+    "id": "90",
+    "question": "Przyrządem służącym do pomiaru głębokości na jachcie jest:",
+    "category": "locja",
+    "answer_1": "kompas",
+    "answer_2": "sonda",
+    "answer_3": "log",
+    "correct_answer": 2
+  },
+  {
+    "id": "91",
+    "question": "Przyrządem służącym do pomiaru prędkości jachtu czy przebytej drogi jest:",
+    "category": "locja",
+    "answer_1": "kompas",
+    "answer_2": "sonda",
+    "answer_3": "log",
+    "correct_answer": 3
+  },
+  {
+    "id": "92",
+    "question": "Do obserwacji obecności innych jednostek pływających, a co za tym idzie, unikania z nimi kolizji, służy:",
+    "category": "locja",
+    "answer_1": "log",
+    "answer_2": "radio",
+    "answer_3": "radar",
+    "correct_answer": 3
+  },
+  {
+    "id": "93",
+    "question": "Kiedy na jachcie wykorzystujemy stoper?",
+    "category": "locja",
+    "answer_1": "pilnując czasu wachty",
+    "answer_2": "przy określaniu charakterystyki świateł",
+    "answer_3": "podczas wykonywania pomiaru siły wiatru",
+    "correct_answer": 2
+  },
+  {
+    "id": "94",
+    "question": "Do śluzy wpływamy:",
+    "category": "locja",
+    "answer_1": "z postawionym masztem",
+    "answer_2": "tyłem",
+    "answer_3": "po zapaleniu się zielonego światła",
+    "correct_answer": 3
+  },
+  {
+    "id": "95",
+    "question": "Wpływając jachtem do kanału, należy:",
+    "category": "locja",
+    "answer_1": "założyć kamizelki ratunkowe",
+    "answer_2": "zapalić światła masztowe i burtowe",
+    "answer_3": "położyć maszt (z uwagi na mosty i linie energetyczne przerzucone przez kanały)",
+    "correct_answer": 3
+  },
+  {
+    "id": "99",
+    "question": "Jak jest oznakowane wejście do portu?",
+    "category": "locja",
+    "answer_1": "lewa główka, patrząc od strony wody, jest oznakowana kolorem czerwonym, a prawa zielonym",
+    "answer_2": "lewa główka, patrząc od strony wody, jest oznakowana kolorem zielonym, a prawa czerwonym",
+    "answer_3": "główki portu są oznaczone kolorem kontrastującym z otoczeniem",
+    "correct_answer": 1
+  },
+  {
+    "id": "100",
+    "question": "Zachodni znak kardynalny rozpoznamy po:",
+    "category": "locja",
+    "answer_1": "znaku szczytowym w postaci dwóch czarnych stożków jeden nad drugim wierzchołkami do siebie",
+    "answer_2": "kolorach żółtym u góry i czarnym na dole",
+    "answer_3": "znaku szczytowym w postaci dwóch czarnych kul jedna nad drugą",
+    "correct_answer": 1
+  },
+  {
+    "id": "101",
+    "question": "Budowla służąca do spiętrzenia wody to:",
+    "category": "locja",
+    "answer_1": "ostroga",
+    "answer_2": "jaz",
+    "answer_3": "opaska",
+    "correct_answer": 2
+  },
+  {
+    "id": "102",
+    "question": "Boje oznaczające akwen zamknięty mają kolor:",
+    "category": "locja",
+    "answer_1": "zielony",
+    "answer_2": "czerwony",
+    "answer_3": "żółty",
+    "correct_answer": 3
+  },
+  {
+    "id": "107",
+    "question": "Wschodni znak kardynalny rozpoznamy po:",
+    "category": "locja",
+    "answer_1": "znaku szczytowym w postaci dwóch czarnych stożków jeden nad drugim skierowanych podstawami do siebie",
+    "answer_2": "kolorach żółtym u góry i czarnym na dole",
+    "answer_3": "znaku szczytowym w postaci dwóch czarnych kul jedna nad drugą",
+    "correct_answer": 1
+  },
+  {
+    "id": "108",
+    "question": "Boja pomalowana w zielone i czerwone poziome pasy to:",
+    "category": "locja",
+    "answer_1": "znak odosobnionego niebezpieczeństwa",
+    "answer_2": "zakaz przejścia",
+    "answer_3": "znak rozwidlenia szlaku żeglownego",
+    "correct_answer": 3
+  },
+  {
+    "id": "109",
+    "question": "Prostokątna tablica pomalowana w poziome pasy o kolorach czerwony – biały – czerwony oznacza:",
+    "category": "locja",
+    "answer_1": "rozgałęzienie szlaku żeglownego",
+    "answer_2": "zakaz przejścia",
+    "answer_3": "nakaz rozdzielenia pociągu holowniczego",
+    "correct_answer": 2
+  },
+  {
+    "id": "110",
+    "question": "Dwa żółte romby jeden nad drugim na przęśle mostu oznaczają:",
+    "category": "locja",
+    "answer_1": "zakaz przejścia",
+    "answer_2": "przejście dozwolone w jednym kierunku",
+    "answer_3": "przejście dozwolone w obydwu kierunkach",
+    "correct_answer": 2
+  },
+  {
+    "id": "111",
+    "question": "Głębina to inaczej:",
+    "category": "locja",
+    "answer_1": "ploso",
+    "answer_2": "przemiał",
+    "answer_3": "przykosa",
+    "correct_answer": 1
+  },
+  {
+    "id": "112",
+    "question": "Który z poniższych znaków oznacza miejsce, w którym możemy przejść pod mostem?",
+    "category": "locja",
+    "answer_1": "czerwony rąb",
+    "answer_2": "żółte koło",
+    "answer_3": "dwa żółte romby",
+    "correct_answer": 3
+  },
+  {
+    "id": "113",
+    "question": "Który ze znaków kardynalnych ma na szczycie dwa stożki skierowane szczytami ku górze?",
+    "category": "locja",
+    "answer_1": "północny",
+    "answer_2": "południowy",
+    "answer_3": "zachodni",
+    "correct_answer": 1
+  },
+  {
+    "id": "114",
+    "question": "Jak nazywa się sztucznie stworzony, umocniony rów, umożliwiający żeglugę pomiędzy akwenami nieposiadającymi naturalnych połączeń?",
+    "category": "locja",
+    "answer_1": "kanał",
+    "answer_2": "pomost",
+    "answer_3": "tor",
+    "correct_answer": 1
+  },
+  {
+    "id": "115",
+    "question": "Przejście pod mostem oznaczono żółtym rombem. Co to oznacza w praktyce?",
+    "category": "locja",
+    "answer_1": "możemy swobodnie przepływać, nie martwiąc się o ruch z przeciwnej strony",
+    "answer_2": "nie możemy w tym miejscy przepływać",
+    "answer_3": "możemy w tym miejscu przepłynąć, ale musimy wziąć pod uwagę, że z przeciwka może płynąć inna jednostka",
+    "correct_answer": 3
+  },
+  {
+    "id": "116",
+    "question": "Który ze znaków kardynalnych ma na szczycie dwa stożki skierowane szczytami w dół?",
+    "category": "locja",
+    "answer_1": "południowy",
+    "answer_2": "zachodni",
+    "answer_3": "północny",
+    "correct_answer": 1
+  },
+  {
+    "id": "117",
+    "question": "Pławę ze znakiem szczytowym w postaci dwóch czarnych stożków umieszczonych jeden nad drugim, skierowanych wierzchołkami do dołu omijamy:",
+    "category": "locja",
+    "answer_1": "od strony północnej",
+    "answer_2": "od strony południowej",
+    "answer_3": "od strony wschodniej",
+    "correct_answer": 2
+  },
+  {
+    "id": "118",
+    "question": "Nabieżniki są to elementy nawigacyjne składające się z:",
+    "category": "locja",
+    "answer_1": "jednego znaku",
+    "answer_2": "dwóch znaków",
+    "answer_3": "trzech znaków",
+    "correct_answer": 2
+  },
+  {
+    "id": "119",
+    "question": "Prawa strona farwateru na morskich drogach wodnych jest oznaczona kolorem:",
+    "category": "locja",
+    "answer_1": "czerwonym",
+    "answer_2": "żółtym",
+    "answer_3": "zielonym",
+    "correct_answer": 3
+  },
+  {
+    "id": "120",
+    "question": "Pławy koloru żółtego wyznaczają akwen:",
+    "category": "locja",
+    "answer_1": "o zanieczyszczonej wodzie",
+    "answer_2": "tylko dla żaglówek",
+    "answer_3": "zamknięty dla żeglugi",
+    "correct_answer": 3
+  },
+  {
+    "id": "121",
+    "question": "Jak wyznaczane są strony szlaku żeglownego na rzekach?",
+    "category": "locja",
+    "answer_1": "od ujścia do źródła",
+    "answer_2": "nie ma to znaczenia",
+    "answer_3": "od źródła do ujścia",
+    "correct_answer": 3
+  },
+  {
+    "id": "122",
+    "question": "Znak brzegowy w kształcie czerwonego trójkąta skierowanego wierzchołkiem w dół oznacza:",
+    "category": "locja",
+    "answer_1": "miejsce niebezpieczne na prawym brzegu",
+    "answer_2": "miejsce niebezpieczne na lewym brzegu",
+    "answer_3": "miejsce niebezpieczne na rozgałęzieniu szlaku",
+    "correct_answer": 1
+  },
+  {
+    "id": "123",
+    "question": "Jak nazywa się morski system oznakowania nawigacyjnego?",
+    "category": "locja",
+    "answer_1": "System IALA",
+    "answer_2": "System ALAY",
+    "answer_3": "System SAR",
+    "correct_answer": 1
+  },
+  {
+    "id": "124",
+    "question": "Lewą stronę szlaku żeglownego na wodach śródlądowych oznacza:",
+    "category": "locja",
+    "answer_1": "czerwona pława w kształcie kuli",
+    "answer_2": "zielona pława w kształcie stożka",
+    "answer_3": "czerwona pława kształcie walca",
+    "correct_answer": 2
+  },
+  {
+    "id": "125",
+    "question": "Pława lub stawa ze znakiem szczytowym w postaci dwóch czarnych stożków umieszczonych jeden nad drugim to:",
+    "category": "locja",
+    "answer_1": "element oznakowania systemu bocznego",
+    "answer_2": "element oznakowania systemu kardynalnego",
+    "answer_3": "element oznakowania kilwateru",
+    "correct_answer": 2
+  },
+  {
+    "id": "126",
+    "question": "Lewa strona farwateru na morskich drogach wodnych jest oznaczona kolorem:",
+    "category": "locja",
+    "answer_1": "czerwonym",
+    "answer_2": "żółtym",
+    "answer_3": "zielonym",
+    "correct_answer": 1
+  },
+  {
+    "id": "127",
+    "question": "Odsypisko tworzy się przy:",
+    "category": "locja",
+    "answer_1": "wypukłym brzegu rzeki",
+    "answer_2": "wklęsłym brzegu rzeki",
+    "answer_3": "na środku rzeki",
+    "correct_answer": 1
+  },
+  {
+    "id": "128",
+    "question": "Gdy płyniesz rzeką z jej prądem, to:",
+    "category": "locja",
+    "answer_1": "płyniesz przeciwnie do wyznaczonego szlaku żeglownego",
+    "answer_2": "płyniesz zgodnie z wyznaczonym szlakiem żeglownym",
+    "answer_3": "nie musisz zwracać uwagi na oznaczenia",
+    "correct_answer": 2
+  },
+  {
+    "id": "129",
+    "question": "Znak brzegowy w kształcie zielonego trójkąta skierowanego wierzchołkiem w górę oznacza:",
+    "category": "locja",
+    "answer_1": "miejsce niebezpieczne na prawym brzegu",
+    "answer_2": "miejsce niebezpieczne na lewym brzegu",
+    "answer_3": "miejsce niebezpieczne na rozgałęzieniu szlaku",
+    "correct_answer": 2
+  },
+  {
+    "id": "130",
+    "question": "Do czego służy śluza komorowa?",
+    "category": "locja",
+    "answer_1": "umożliwia długotrwałe spiętrzenie wody w celu utrzymania stałego poziomu rzeki, np. dla celów żeglugowych",
+    "answer_2": "umożliwia ruch statków między akwenami o różnych poziomach wody",
+    "answer_3": "przegradza dolinę rzeki w celu stworzenia sztucznego zbiornika wody",
+    "correct_answer": 2
+  },
+  {
+    "id": "131",
+    "question": "Co to jest pława?",
+    "category": "locja",
+    "answer_1": "pal wbity w dno",
+    "answer_2": "słup blisko brzegu",
+    "answer_3": "pływający znak nawigacyjny",
+    "correct_answer": 3
+  },
+  {
+    "id": "132",
+    "question": "Prawa strona szlaku żeglownego na rzece to:",
+    "category": "locja",
+    "answer_1": "strona znajdująca się po prawej burcie statku płynącego w dół rzeki",
+    "answer_2": "strona znajdująca się po prawej burcie statku płynącego w górę rzeki",
+    "answer_3": "strona wschodnia brzegu rzeki",
+    "correct_answer": 1
+  },
+  {
+    "id": "133",
+    "question": "Dalba to:",
+    "category": "locja",
+    "answer_1": "pal wbity w dno",
+    "answer_2": "słup blisko brzegu",
+    "answer_3": "pływający znak nawigacyjny",
+    "correct_answer": 1
+  },
+  {
+    "id": "134",
+    "question": "Podstawa północnego znaku kardynalnego ma kolor:",
+    "category": "locja",
+    "answer_1": "żółty nad czarnym",
+    "answer_2": "czarny nad żółtym",
+    "answer_3": "czarny nad żółtym nad czarnym",
+    "correct_answer": 2
+  },
+  {
+    "id": "135",
+    "question": "Szlak żeglowny to:",
+    "category": "locja",
+    "answer_1": "pas wody o głębokości i szerokości dostatecznej dla żeglugi",
+    "answer_2": "każdy akwen przeznaczony do uprawiania sportów wodnych",
+    "answer_3": "każdy akwen",
+    "correct_answer": 1
+  },
+  {
+    "id": "136",
+    "question": "Kilwater to:",
+    "category": "locja",
+    "answer_1": "pas wody o głębokości i szerokości dostatecznej dla żeglugi",
+    "answer_2": "każdy akwen przeznaczony do uprawiania sportów wodnych",
+    "answer_3": "ślad na wodzie powstały za rufą płynącego statku",
+    "correct_answer": 3
+  }
+]
