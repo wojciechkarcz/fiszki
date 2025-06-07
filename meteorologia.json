@@ -1,0 +1,875 @@
+[
+  {
+    "id": "1",
+    "question": "Linia na mapie łącząca punkty o jednakowym ciśnieniu to:",
+    "category": "meteorologia",
+    "answer_1": "izobata",
+    "answer_2": "izobara",
+    "answer_3": "izoterma",
+    "correct_answer": 2
+  },
+  {
+    "id": "2",
+    "question": "Anemometr służy do pomiaru:",
+    "category": "meteorologia",
+    "answer_1": "ciśnienia",
+    "answer_2": "wilgotności",
+    "answer_3": "prędkości wiatru",
+    "correct_answer": 3
+  },
+  {
+    "id": "3",
+    "question": "Higrometr służy do pomiaru:",
+    "category": "meteorologia",
+    "answer_1": "temperatury",
+    "answer_2": "wilgotności",
+    "answer_3": "ciśnienia",
+    "correct_answer": 2
+  },
+  {
+    "id": "4",
+    "question": "Ciśnienie 1013 hPa panuje:",
+    "category": "meteorologia",
+    "answer_1": "w wyżu",
+    "answer_2": "w niżu",
+    "answer_3": "normalnie",
+    "correct_answer": 3
+  },
+  {
+    "id": "5",
+    "question": "Fronty ciepły i zimny występują w:",
+    "category": "meteorologia",
+    "answer_1": "niżu",
+    "answer_2": "wyżu",
+    "answer_3": "nie są związane z wyżem lub niżem",
+    "correct_answer": 1
+  },
+  {
+    "id": "6",
+    "question": "Co powoduje uderzenie wiatru o wysoki brzeg?",
+    "category": "meteorologia",
+    "answer_1": "zmianę kierunku wiatru na przeciwny do wiatru rzeczywistego – wiatr odpychający od brzegu",
+    "answer_2": "nic nie powoduje",
+    "answer_3": "zmianę kierunku wiatru na równoległy do brzegu",
+    "correct_answer": 3
+  },
+  {
+    "id": "7",
+    "question": "Jak zachowuje się wiatr wiejący znad wysokiego brzegu?",
+    "category": "meteorologia",
+    "answer_1": "zmienia kierunek na przeciwny do wiatru rzeczywistego – na dopychający do brzegu",
+    "answer_2": "zmienia kierunek na równoległy do brzegu",
+    "answer_3": "zwiększa tylko siłę",
+    "correct_answer": 3
+  },
+  {
+    "id": "8",
+    "question": "Czego żeglarz może się spodziewać w przewężeniu akwenu?",
+    "category": "meteorologia",
+    "answer_1": "zmniejszenia siły i zmiany kierunku wiatru",
+    "answer_2": "zwiększenia siły i zmiany kierunku wiatru",
+    "answer_3": "zmniejszenia siły wiatru",
+    "correct_answer": 2
+  },
+  {
+    "id": "9",
+    "question": "Wiatr o sile 1oB to:",
+    "category": "meteorologia",
+    "answer_1": "drobne zmarszczki na wodzie przy unoszącym się prawie pionowo dymie – prędkość wiatru 0,3–1,5 m/s",
+    "answer_2": "słaby wiatr odczuwany jako powiew, powodujący drobne fale – prędkość wiatru 1,6–3,3 m/s",
+    "answer_3": "łagodny wiatr, poruszający liście, wywołujący drobne fale – prędkość wiatru 3,4–5,4 m/s",
+    "correct_answer": 1
+  },
+  {
+    "id": "10",
+    "question": "Wiatr o sile 2o B to:",
+    "category": "meteorologia",
+    "answer_1": "drobne zmarszczki na wodzie, prędkość wiatru 0,3–1,5 m/s",
+    "answer_2": "słaby wiatr, powodujący drobne fale – prędkość wiatru 1,6–3,3 m/s",
+    "answer_3": "łagodny wiatr, poruszający liście, wywołujący drobne fale – prędkość wiatru 3,4–5,4 m/s",
+    "correct_answer": 2
+  },
+  {
+    "id": "11",
+    "question": "Wiatr o sile 3o B to:",
+    "category": "meteorologia",
+    "answer_1": "drobne zmarszczki na wodzie, prędkość wiatru 0,3–1,5 m/s",
+    "answer_2": "słaby wiatr, powodujący drobne fale – prędkość wiatru 1,6–3,3 m/s",
+    "answer_3": "łagodny wiatr, poruszający liście, wywołujący drobne fale – prędkość wiatru 3,4–5,4 m/s",
+    "correct_answer": 3
+  },
+  {
+    "id": "12",
+    "question": "Wiatr o sile 4oB to:",
+    "category": "meteorologia",
+    "answer_1": "umiarkowany wiatr, poruszający gałązkami, powodujący piankę, plusk fali – prędkość wiatru 5,5–7,9 m/s",
+    "answer_2": "dość silny (świeży) wiatr, poruszający większymi gałązkami, powodujący gęste grzebienie – prędkość wiatru 8,0–10,7 m/s",
+    "answer_3": "silny wiatr, poruszający grubymi gałęziami, powodujący grzywacze – prędkość wiatru 10,8–13,8 m/s",
+    "correct_answer": 1
+  },
+  {
+    "id": "13",
+    "question": "Wiatr o sile 5o B to:",
+    "category": "meteorologia",
+    "answer_1": "umiarkowany wiatr, poruszający gałązkami, powodujący piankę, plusk fali – prędkość wiatru 5,5–7,9 m/s",
+    "answer_2": "dość silny (świeży) wiatr, poruszający większymi gałązkami, powodujący gęste grzebienie – prędkość wiatru 8,0–10,7 m/s",
+    "answer_3": "silny wiatr, poruszający grubymi gałęziami, powodujący grzywacze – prędkość wiatru 10,8–13,8 m/s",
+    "correct_answer": 2
+  },
+  {
+    "id": "14",
+    "question": "Wiatr o sile 6oB to:",
+    "category": "meteorologia",
+    "answer_1": "bardzo silny wiatr, poruszający cieńszymi pniami drzew, powodujący pasma piany – prędkość wiatru 13,9–17,1 m/s",
+    "answer_2": "silny wiatr, poruszający grubymi gałęziami, powodujący grzywacze – prędkość wiatru 10,8–13,8 m/s",
+    "answer_3": "dość silny (świeży) wiatr, poruszający większymi gałązkami, powodujący gęste grzebienie – prędkość wiatru 8,0–10,7 m/s",
+    "correct_answer": 2
+  },
+  {
+    "id": "15",
+    "question": "Bardzo silny wiatr poruszający cieńszymi pniami drzew, powodujący pasma piany – prędkość wiatru 13,9–17,1 m/s – odpowiada sile wiatru:",
+    "category": "meteorologia",
+    "answer_1": "7oB",
+    "answer_2": "6oB",
+    "answer_3": "8oB",
+    "correct_answer": 1
+  },
+  {
+    "id": "16",
+    "question": "Gdzie należy szukać komunikatów meteo, pływając po polskich jeziorach?",
+    "category": "meteorologia",
+    "answer_1": "nasłuchując Radia Gdynia na UKF",
+    "answer_2": "w radiu – najczęściej po wiadomościach, w Internecie",
+    "answer_3": "na odbiorniku NAVTEX, w który powinien być wyposażony jacht",
+    "correct_answer": 2
+  },
+  {
+    "id": "17",
+    "question": "Cumulonimbusowi towarzyszą:",
+    "category": "meteorologia",
+    "answer_1": "spadek siły wiatru i rozpogodzenie",
+    "answer_2": "ustabilizowanie kierunku i siły wiatru",
+    "answer_3": "gwałtowny wzrost siły wiatru, opady, szkwały",
+    "correct_answer": 3
+  },
+  {
+    "id": "18",
+    "question": "Bezpieczniejsze kotwicowisko na jeziorze znajduje się:",
+    "category": "meteorologia",
+    "answer_1": "po stronie zawietrznej wyspy",
+    "answer_2": "po stronie nawietrznej wyspy",
+    "answer_3": "obie strony są niebezpieczne",
+    "correct_answer": 1
+  },
+  {
+    "id": "19",
+    "question": "Co zapowiadają cirrusy?",
+    "category": "meteorologia",
+    "answer_1": "słońce i wzrost temperatury",
+    "answer_2": "deszcz i silniejszy wiatr w najbliższych dniach",
+    "answer_3": "nie zapowiadają zmian pogody",
+    "correct_answer": 2
+  },
+  {
+    "id": "20",
+    "question": "Co zapowiada cumulonimbus?",
+    "category": "meteorologia",
+    "answer_1": "deszcz",
+    "answer_2": "burzę, silny wiatr, szkwały i opady",
+    "answer_3": "słońce i wzrost temperatury",
+    "correct_answer": 2
+  },
+  {
+    "id": "21",
+    "question": "Co to jest front atmosferyczny?",
+    "category": "meteorologia",
+    "answer_1": "frontem atmosferycznym nazywamy ruch wysokiego ciśnienia powietrza przy powierzchni Ziemi",
+    "answer_2": "frontem atmosferycznym nazywamy ruch niskiego ciśnienia powietrza przy powierzchni Ziemi",
+    "answer_3": "frontem atmosferycznym nazywamy powierzchnię rozgraniczającą dwie masy powietrza o odmiennych właściwościach",
+    "correct_answer": 3
+  },
+  {
+    "id": "22",
+    "question": "Co to jest wyż baryczny?",
+    "category": "meteorologia",
+    "answer_1": "jest to ośrodek wysokiego ciśnienia powietrza przy powierzchni Ziemi",
+    "answer_2": "jest to ośrodek niskiego ciśnienia powietrza przy powierzchni Ziemi",
+    "answer_3": "jest to zjawisko zagięcia wiatru na przeszkodach",
+    "correct_answer": 1
+  },
+  {
+    "id": "23",
+    "question": "Co to jest „halo”?",
+    "category": "meteorologia",
+    "answer_1": "jest to żeglarska prognoza pogody nadawana przez radio",
+    "answer_2": "jest to sygnał radiowy używany do komunikacji na wodzie",
+    "answer_3": "są to kręgi rozproszonego światła wokół Słońca lub Księżyca, zapowiadające chmury, deszcz i wiatr",
+    "correct_answer": 3
+  },
+  {
+    "id": "24",
+    "question": "Co oznacza obfita rosa rano?",
+    "category": "meteorologia",
+    "answer_1": "pochmurną pogodę i słaby wiatr",
+    "answer_2": "ładną pogodę i słaby wiatr",
+    "answer_3": "silny wiatr",
+    "correct_answer": 2
+  },
+  {
+    "id": "25",
+    "question": "Co oznacza krwistoczerwony wschód słońca?",
+    "category": "meteorologia",
+    "answer_1": "zwiększenie zachmurzenia, deszcz i wiatr",
+    "answer_2": "pogodny dzień i słaby wiatr",
+    "answer_3": "upał",
+    "correct_answer": 1
+  },
+  {
+    "id": "26",
+    "question": "Co oznacza słońce zachodzące za warstwę chmur?",
+    "category": "meteorologia",
+    "answer_1": "nadchodzącą burzę",
+    "answer_2": "utrzymanie pogody",
+    "answer_3": "zwiększenie zachmurzenia, deszcz i wiatr",
+    "correct_answer": 3
+  },
+  {
+    "id": "27",
+    "question": "Co oznacza wzmaganie się wiatru na wieczór?",
+    "category": "meteorologia",
+    "answer_1": "zwiększenie zachmurzenia, deszcz i wiatr",
+    "answer_2": "pogodny poranek",
+    "answer_3": "nadchodzące ocieplenie",
+    "correct_answer": 1
+  },
+  {
+    "id": "28",
+    "question": "Wskaż oznaki zbliżającego się pogorszenia pogody:",
+    "category": "meteorologia",
+    "answer_1": "nagła zmiana równego dotychczas kierunku wiatru",
+    "answer_2": "mgła opadająca rano",
+    "answer_3": "wiatr cichnący wieczorem i tężejący w południe",
+    "correct_answer": 1
+  },
+  {
+    "id": "29",
+    "question": "Wskaż oznaki polepszenia pogody:",
+    "category": "meteorologia",
+    "answer_1": "występowanie silnych, regularnych bryz",
+    "answer_2": "mgła widoczna na zachodzie przy ładnej pogodzie",
+    "answer_3": "nadciągające z kierunków zachodnich chmury warstwowe często poprzedzone cirrusami",
+    "correct_answer": 1
+  },
+  {
+    "id": "30",
+    "question": "Co to jest szkwał?",
+    "category": "meteorologia",
+    "answer_1": "jest to ośrodek niskiego ciśnienia powietrza przy powierzchni Ziemi",
+    "answer_2": "jest to nagłe uderzenie wiatru",
+    "answer_3": "jest to burza rozgraniczająca dwie masy powietrza o odmiennych właściwościach",
+    "correct_answer": 2
+  },
+  {
+    "id": "31",
+    "question": "Co to jest pogoda?",
+    "category": "meteorologia",
+    "answer_1": "pogodą nazywany jest stan fizyczny atmosfery ponad danym miejscem na kuli ziemskiej",
+    "answer_2": "pogodą nazywany jest stan fizyczny atmosfery charakteryzujący się ładnym słońcem",
+    "answer_3": "pogodą nazywany jest stan fizyczny atmosfery charakteryzujący się wysoką temperaturą",
+    "correct_answer": 1
+  },
+  {
+    "id": "32",
+    "question": "Jaką pogodę zapowiada stały, równomierny wzrost ciśnienia?",
+    "category": "meteorologia",
+    "answer_1": "zwiększenie zachmurzenia, deszcz i wiatr",
+    "answer_2": "ochłodzenie",
+    "answer_3": "ładną, słoneczną, ze słabymi wiatrami",
+    "correct_answer": 3
+  },
+  {
+    "id": "33",
+    "question": "Co może oznaczać nagły spadek ciśnienia?",
+    "category": "meteorologia",
+    "answer_1": "deszcz, silne wiatry",
+    "answer_2": "ocieplenie",
+    "answer_3": "nadejście wiosny",
+    "correct_answer": 1
+  },
+  {
+    "id": "34",
+    "question": "Cirrus to chmura:",
+    "category": "meteorologia",
+    "answer_1": "pierzasta",
+    "answer_2": "warstwowa",
+    "answer_3": "kłębiasta",
+    "correct_answer": 1
+  },
+  {
+    "id": "35",
+    "question": "Cumulonimbus zwiastuje:",
+    "category": "meteorologia",
+    "answer_1": "rozpogodzenie",
+    "answer_2": "ocieplenie",
+    "answer_3": "silne szkwały, nawet o sile sztormu, oraz deszcz",
+    "correct_answer": 3
+  },
+  {
+    "id": "36",
+    "question": "Jednostka ciśnienia to:",
+    "category": "meteorologia",
+    "answer_1": "hektopaskal",
+    "answer_2": "izobar",
+    "answer_3": "Beaufort",
+    "correct_answer": 1
+  },
+  {
+    "id": "37",
+    "question": "Wiatr powstaje w wyniku:",
+    "category": "meteorologia",
+    "answer_1": "różnicy ciśnień",
+    "answer_2": "różnicy temperatur",
+    "answer_3": "różnicy potencjałów",
+    "correct_answer": 1
+  },
+  {
+    "id": "38",
+    "question": "Bryza nocna to wiatr wiejący od:",
+    "category": "meteorologia",
+    "answer_1": "wody",
+    "answer_2": "lądu",
+    "answer_3": "zachodu",
+    "correct_answer": 2
+  },
+  {
+    "id": "39",
+    "question": "Wilgoć względną wyrażamy w:",
+    "category": "meteorologia",
+    "answer_1": "richterach",
+    "answer_2": "izobatach",
+    "answer_3": "procentach",
+    "correct_answer": 3
+  },
+  {
+    "id": "40",
+    "question": "Odbicia wiatru najczęściej występują na akwenach:",
+    "category": "meteorologia",
+    "answer_1": "otoczonych lasem lub wysokim brzegiem",
+    "answer_2": "w pobliżu portów",
+    "answer_3": "w wyniku wysokiej fali",
+    "correct_answer": 1
+  },
+  {
+    "id": "41",
+    "question": "Przyrząd nazywany termometrem służy do pomiaru:",
+    "category": "meteorologia",
+    "answer_1": "wilgotności",
+    "answer_2": "temperatury powietrza",
+    "answer_3": "ciśnienia atmosferycznego",
+    "correct_answer": 2
+  },
+  {
+    "id": "42",
+    "question": "Bryza dzienna to wiatr, który wieje:",
+    "category": "meteorologia",
+    "answer_1": "od wody do lądu",
+    "answer_2": "od lądu do wody",
+    "answer_3": "wzdłuż brzegu",
+    "correct_answer": 1
+  },
+  {
+    "id": "43",
+    "question": "Wiatr południowy wieje:",
+    "category": "meteorologia",
+    "answer_1": "od morza do lądu",
+    "answer_2": "z południa",
+    "answer_3": "z północy",
+    "correct_answer": 2
+  },
+  {
+    "id": "44",
+    "question": "Prędkość wiatru zależy od:",
+    "category": "meteorologia",
+    "answer_1": "różnicy ciśnień między dwoma punktami",
+    "answer_2": "wielkości jachtu",
+    "answer_3": "wielkości barometru",
+    "correct_answer": 1
+  },
+  {
+    "id": "45",
+    "question": "Szkwał jest to:",
+    "category": "meteorologia",
+    "answer_1": "część dziobowa jachtu balastowego",
+    "answer_2": "nagły silny podmuch",
+    "answer_3": "wiatr występujący w strefie międzyzwrotnikowej",
+    "correct_answer": 2
+  },
+  {
+    "id": "46",
+    "question": "Systematyczny spadek ciśnienia zapowiada:",
+    "category": "meteorologia",
+    "answer_1": "poprawę pogody",
+    "answer_2": "utrzymanie się sytuacji pogodowej w najbliższym okresie",
+    "answer_3": "pogorszenie pogody (deszcz, silny wiatr)",
+    "correct_answer": 3
+  },
+  {
+    "id": "47",
+    "question": "Czysty i jasny widnokrąg podczas wschodu słońca zwiastuje:",
+    "category": "meteorologia",
+    "answer_1": "pogodę deszczową następnego dnia",
+    "answer_2": "pogodę burzową następnego dnia",
+    "answer_3": "pogodę bezdeszczową, ładną, z umiarkowanymi wiatrami",
+    "correct_answer": 3
+  },
+  {
+    "id": "48",
+    "question": "Izobara to:",
+    "category": "meteorologia",
+    "answer_1": "linia na mapie łącząca punkty o jednakowej temperaturze",
+    "answer_2": "linia na mapie łącząca punkty o jednakowym ciśnieniu",
+    "answer_3": "linia na mapie łącząca punkty o jednakowej głębokości",
+    "correct_answer": 2
+  },
+  {
+    "id": "49",
+    "question": "Ciśnienie 980 hPa panuje:",
+    "category": "meteorologia",
+    "answer_1": "w niżu",
+    "answer_2": "w wyżu",
+    "answer_3": "w strefie zwrotnikowej",
+    "correct_answer": 1
+  },
+  {
+    "id": "50",
+    "question": "Skala Beauforta określa siłę wiatru w zakresie:",
+    "category": "meteorologia",
+    "answer_1": "od 0°B do 9 °B",
+    "answer_2": "od 0°B do 12°B",
+    "answer_3": "od 1°B do 12°B",
+    "correct_answer": 2
+  },
+  {
+    "id": "51",
+    "question": "Dysza to zjawisko związane z żeglugą oznaczające:",
+    "category": "meteorologia",
+    "answer_1": "dużą liczbę jachtów w śluzie",
+    "answer_2": "znaczny wzrost prędkości wiatru występujący w przerwie wysokiej linii brzegowej",
+    "answer_3": "zmniejszenie prędkości wiatru",
+    "correct_answer": 2
+  },
+  {
+    "id": "52",
+    "question": "Odbicia wiatru najczęściej występują na akwenach:",
+    "category": "meteorologia",
+    "answer_1": "całkowicie odsłoniętych",
+    "answer_2": "otoczonych lasem lub wysokim brzegiem",
+    "answer_3": "wszystkich",
+    "correct_answer": 2
+  },
+  {
+    "id": "53",
+    "question": "Ciśnienie 1013 hPa jest ciśnieniem panującym:",
+    "category": "meteorologia",
+    "answer_1": "w wyżu",
+    "answer_2": "w niżu",
+    "answer_3": "takie ciśnienie nie występuje na ziemi",
+    "correct_answer": 1
+  },
+  {
+    "id": "54",
+    "question": "Pogorszenie pogody jest zapowiadane przez takie zjawiska jak:",
+    "category": "meteorologia",
+    "answer_1": "mgła opadająca nad ranem",
+    "answer_2": "utrzymywanie lub podnoszenie się ciśnienia",
+    "answer_3": "systematyczny spadek ciśnienia",
+    "correct_answer": 3
+  },
+  {
+    "id": "55",
+    "question": "Pogorszenie pogody zapowiada:",
+    "category": "meteorologia",
+    "answer_1": "obfita rosa rano i wieczorem",
+    "answer_2": "wzrost siły wiatru ze zmianą jego kierunku pod wieczór i w nocy",
+    "answer_3": "czerwony zachód słońca",
+    "correct_answer": 2
+  },
+  {
+    "id": "56",
+    "question": "Badaniem i stałą obserwacją zjawisk fizycznych i pogodowych zachodzących w atmosferze ziemskiej zajmuje się:",
+    "category": "meteorologia",
+    "answer_1": "fizyka",
+    "answer_2": "meteorologia",
+    "answer_3": "locja",
+    "correct_answer": 2
+  },
+  {
+    "id": "57",
+    "question": "Co jest warunkiem powstania wiatru?",
+    "category": "meteorologia",
+    "answer_1": "różnica ciśnienia atmosferycznego na sąsiadujących obszarach",
+    "answer_2": "różnica temperatury na sąsiadujących obszarach",
+    "answer_3": "różnica wilgotności na sąsiadujących obszarach",
+    "correct_answer": 1
+  },
+  {
+    "id": "58",
+    "question": "Anemometr to inaczej:",
+    "category": "meteorologia",
+    "answer_1": "termometr",
+    "answer_2": "barometr",
+    "answer_3": "wiatromierz",
+    "correct_answer": 3
+  },
+  {
+    "id": "59",
+    "question": "Co ma znaczący wpływ na siłę wiatru?",
+    "category": "meteorologia",
+    "answer_1": "poziomy gradient temperatury (zmiana temperatury przypadająca na jednostkę odległości)",
+    "answer_2": "poziomy gradient ciśnienia atmosferycznego (zmiana ciśnienia przypadająca na jednostkę odległości)",
+    "answer_3": "pionowy gradient ciśnienia atmosferycznego (zmiana ciśnienia przypadająca na jednostkę odległości)",
+    "correct_answer": 2
+  },
+  {
+    "id": "60",
+    "question": "Prędkość wiatru mierzona jest w:",
+    "category": "meteorologia",
+    "answer_1": "mm/Hg",
+    "answer_2": "oF",
+    "answer_3": "km/h",
+    "correct_answer": 3
+  },
+  {
+    "id": "61",
+    "question": "Prąd powietrza, dążący do wyrównania różnicy ciśnień powstałych na skutek różnicy temperatury wody i lądu, nazywany jest:",
+    "category": "meteorologia",
+    "answer_1": "bryzą",
+    "answer_2": "szkwałem",
+    "answer_3": "zefirem",
+    "correct_answer": 1
+  },
+  {
+    "id": "62",
+    "question": "Woda w stosunku do lądu:",
+    "category": "meteorologia",
+    "answer_1": "szybciej stygnie",
+    "answer_2": "wolniej stygnie",
+    "answer_3": "tak samo szybko traci temperaturę",
+    "correct_answer": 2
+  },
+  {
+    "id": "63",
+    "question": "Bryza na jeziorze sięga dalej w głąb jeziora:",
+    "category": "meteorologia",
+    "answer_1": "przy brzegu z mokradłami",
+    "answer_2": "przy brzegu porośniętym lasem",
+    "answer_3": "przy brzegu piaszczystym lub ziemistym",
+    "correct_answer": 3
+  },
+  {
+    "id": "64",
+    "question": "Wysoki brzeg jeziora lub ściana lasu na brzegu:",
+    "category": "meteorologia",
+    "answer_1": "odbija częściowo wiatr, zmieniając jego siłę i kierunek",
+    "answer_2": "pochłania częściowo wiatr, zmniejszając jego prędkość",
+    "answer_3": "nie ma wpływu na siłę i kierunek wiatru",
+    "correct_answer": 1
+  },
+  {
+    "id": "65",
+    "question": "Chmura cumulonimbus porusza się:",
+    "category": "meteorologia",
+    "answer_1": "przeciwnie do kierunku wiejącego wiatru",
+    "answer_2": "zgodnie z kierunkiem wiejącego wiatru",
+    "answer_3": "w poprzek kierunku wiejącego wiatru",
+    "correct_answer": 2
+  },
+  {
+    "id": "66",
+    "question": "Skala Beauforta opisuje sztorm stopniami:",
+    "category": "meteorologia",
+    "answer_1": "9, 10, 11, 12",
+    "answer_2": "7, 8, 9, 10",
+    "answer_3": "8, 9, 10, 11",
+    "correct_answer": 1
+  },
+  {
+    "id": "67",
+    "question": "Powierzchnię rozgraniczającą dwie masy powietrza o odmiennych właściwościach nazywamy:",
+    "category": "meteorologia",
+    "answer_1": "układem barycznym",
+    "answer_2": "powierzchnią frontową",
+    "answer_3": "chmurami",
+    "correct_answer": 2
+  },
+  {
+    "id": "68",
+    "question": "W obszarze wyżu wiatry wieją:",
+    "category": "meteorologia",
+    "answer_1": "od środka układu na zewnątrz",
+    "answer_2": "do środka układu",
+    "answer_3": "od środka na półkuli północnej, a do środka na półkuli południowej",
+    "correct_answer": 1
+  },
+  {
+    "id": "69",
+    "question": "W obszarze niżu wiatry wieją:",
+    "category": "meteorologia",
+    "answer_1": "od środka układu na zewnątrn\na) do środka układu",
+    "answer_2": "do środka układu",
+    "answer_3": "od środka na półkuli północnej, a do środka na półkuli południowej",
+    "correct_answer": 2
+  },
+  {
+    "id": "70",
+    "question": "Opad z cumulusa:",
+    "category": "meteorologia",
+    "answer_1": "nigdy nie występuje",
+    "answer_2": "zawsze występuje, ale ma małe natężenie",
+    "answer_3": "występuje wtedy, gdy chmura jest silnie rozbudowana, jest przelotny",
+    "correct_answer": 3
+  },
+  {
+    "id": "71",
+    "question": "Która chmura nie daje opadu, ale jest zwiastunem pogorszenia się pogody:",
+    "category": "meteorologia",
+    "answer_1": "nimbostratus",
+    "answer_2": "cirrostratus",
+    "answer_3": "stratus",
+    "correct_answer": 2
+  },
+  {
+    "id": "72",
+    "question": "Chmura ta występuje często przy bezwietrznej pogodzie, najczęściej jest mglista, szara, tworzy jednostajną warstwę zasłaniającą wierzchołki wzgórz. Może dać opad mżawki, śniegu:",
+    "category": "meteorologia",
+    "answer_1": "nimbostratus",
+    "answer_2": "cirrostratus",
+    "answer_3": "stratus",
+    "correct_answer": 3
+  },
+  {
+    "id": "77",
+    "question": "Największą rozciągłość pionową ma:",
+    "category": "meteorologia",
+    "answer_1": "cumulonimbus",
+    "answer_2": "nimbostratus",
+    "answer_3": "cirrus",
+    "correct_answer": 1
+  },
+  {
+    "id": "78",
+    "question": "Tabela porównująca prędkość wiatru z oznakami na lądzie i na powierzchni wody to:",
+    "category": "meteorologia",
+    "answer_1": "skala Richtera",
+    "answer_2": "skala Paskala",
+    "answer_3": "skala Beauforta",
+    "correct_answer": 3
+  },
+  {
+    "id": "79",
+    "question": "Bryza morska to:",
+    "category": "meteorologia",
+    "answer_1": "wiatr lokalny występujący w strefie przybrzeżnej, wiejący od strony morza w dzień",
+    "answer_2": "wiatr lokalny występujący w strefie przybrzeżnej, wiejący od strony lądu w dzień",
+    "answer_3": "wiatr lokalny występujący w strefie przybrzeżnej, wiejący od strony morza w nocy",
+    "correct_answer": 1
+  },
+  {
+    "id": "80",
+    "question": "Co zwiastuje wiatr rosnący w ciągu dnia, a malejący rano i wieczorem?",
+    "category": "meteorologia",
+    "answer_1": "ciągłe opady deszczu w ciągu dnia",
+    "answer_2": "wzrost zachmurzenia w najbliższych godzinach",
+    "answer_3": "ładną pogodę i umiarkowane wiatry",
+    "correct_answer": 3
+  },
+  {
+    "id": "81",
+    "question": "Co może oznaczać wzrost siły wiatru pod wieczór i w nocy?",
+    "category": "meteorologia",
+    "answer_1": "deszcz, silne wiatry",
+    "answer_2": "słoneczną pogodę ze słabymi wiatrami",
+    "answer_3": "umiarkowane wiatry w ciągu najbliższych dni",
+    "correct_answer": 1
+  },
+  {
+    "id": "82",
+    "question": "Najbardziej wiarygodną prognozę pogody przed wypłynięciem z portu uzyskamy:",
+    "category": "meteorologia",
+    "answer_1": "w kapitanacie lub bosmanacie portu",
+    "answer_2": "słuchając ogólnych prognoz radiowych",
+    "answer_3": "czytając SMS-y od znajomych",
+    "correct_answer": 1
+  },
+  {
+    "id": "83",
+    "question": "Jednostką ciśnienia jest:",
+    "category": "meteorologia",
+    "answer_1": "kelwin",
+    "answer_2": "paskal",
+    "answer_3": "metr na sekundę",
+    "correct_answer": 2
+  },
+  {
+    "id": "84",
+    "question": "Co oznacza obfita rosa rano?",
+    "category": "meteorologia",
+    "answer_1": "ciągłe opady deszczu w ciągu dnia",
+    "answer_2": "wzrost zachmurzenia w najbliższych godzinach",
+    "answer_3": "ładną pogodę i słabe wiatry",
+    "correct_answer": 3
+  },
+  {
+    "id": "85",
+    "question": "Skala Beauforta na stopnie",
+    "category": "meteorologia",
+    "answer_1": "od 1 do 11",
+    "answer_2": "od 0 do 12",
+    "answer_3": "od 1 do 13",
+    "correct_answer": 2
+  },
+  {
+    "id": "86",
+    "question": "Jaki kształt ma chmura cumulonimbus?",
+    "category": "meteorologia",
+    "answer_1": "kowadła",
+    "answer_2": "podkowy",
+    "answer_3": "pierza",
+    "correct_answer": 1
+  },
+  {
+    "id": "87",
+    "question": "Jakie informacje zawarte w komunikacie meteorologicznym powinny wzbudzić ostrożność żeglarza?",
+    "category": "meteorologia",
+    "answer_1": "spadek ciśnienia",
+    "answer_2": "brak istotnych zmian ciśnienia",
+    "answer_3": "wzrost ciśnienia",
+    "correct_answer": 1
+  },
+  {
+    "id": "88",
+    "question": "Kiedy najczęściej może pojawić się na niebie chmura cumulonimbus?",
+    "category": "meteorologia",
+    "answer_1": "w słoneczny, upalny dzień",
+    "answer_2": "w ciągu dnia po wielu dniach opadów",
+    "answer_3": "w zimną noc",
+    "correct_answer": 1
+  },
+  {
+    "id": "89",
+    "question": "Jaka chmura może zwiastować burzę i gradobicie?",
+    "category": "meteorologia",
+    "answer_1": "ciemna chmura w kształcie wysokiego kowadła",
+    "answer_2": "szare chmury zasłaniające całe niebo",
+    "answer_3": "białe smugi wysoko na niebie",
+    "correct_answer": 1
+  },
+  {
+    "id": "90",
+    "question": "Jeżeli nie posiadamy prognozy pogody, to najłatwiej możemy ją pobrać z:",
+    "category": "meteorologia",
+    "answer_1": "posterunku policji",
+    "answer_2": "stacji pogotowia ratunkowego",
+    "answer_3": "kapitanatu/bosmanatu portu",
+    "correct_answer": 3
+  },
+  {
+    "id": "91",
+    "question": "Nagłe uderzenie wiatru spowodowane silnym prądem powietrznym, powstałym na granicy dwóch mas powietrza o dużej różnicy temperatur, to:",
+    "category": "meteorologia",
+    "answer_1": "pasat",
+    "answer_2": "szkwał",
+    "answer_3": "„halo”",
+    "correct_answer": 2
+  },
+  {
+    "id": "92",
+    "question": "Chmurą burzową jest:",
+    "category": "meteorologia",
+    "answer_1": "cirrus",
+    "answer_2": "cumulus",
+    "answer_3": "cumulonimbus",
+    "correct_answer": 3
+  },
+  {
+    "id": "93",
+    "question": "Chmura cumulonimbus to:",
+    "category": "meteorologia",
+    "answer_1": "cienka szara chmura na niskiej wysokości",
+    "answer_2": "gruba, szara u dołu i biała w wyższych partiach chmura kłębiasta o dużej wysokości",
+    "answer_3": "cienka biała chmura na dużej wysokości",
+    "correct_answer": 2
+  },
+  {
+    "id": "94",
+    "question": "Nadejście szkwału przewidzimy, widząc:",
+    "category": "meteorologia",
+    "answer_1": "ciemniejszą, gładką powierzchnię wody",
+    "answer_2": "ciemniejszą, bardziej pomarszczoną powierzchnię wody",
+    "answer_3": "siadające na wodzie przed jego nadejściem ptaki",
+    "correct_answer": 2
+  },
+  {
+    "id": "95",
+    "question": "Zawirowania wiatru powstają:",
+    "category": "meteorologia",
+    "answer_1": "na środku jeziora",
+    "answer_2": "za płaskim brzegiem, z którego wieje wiatr",
+    "answer_3": "za wysokim brzegiem, z którego wieje wiatr",
+    "correct_answer": 3
+  },
+  {
+    "id": "96",
+    "question": "Chmurze cumulonimbus często towarzyszą:",
+    "category": "meteorologia",
+    "answer_1": "długotrwałe opady deszczu i słaby wiatr",
+    "answer_2": "gwałtowne opady, połączone z wyładowaniami atmosferycznymi, gradem i porywistym wiatrem",
+    "answer_3": "silny wiatr, słońce i dobra widoczność",
+    "correct_answer": 2
+  },
+  {
+    "id": "97",
+    "question": "Wzrost ciśnienia atmosferycznego wiąże się z:",
+    "category": "meteorologia",
+    "answer_1": "nadejściem wyżu",
+    "answer_2": "ustabilizowaną pogodą",
+    "answer_3": "nadejściem niżu",
+    "correct_answer": 1
+  },
+  {
+    "id": "98",
+    "question": "Wiatr wschodni wieje:",
+    "category": "meteorologia",
+    "answer_1": "ze wschodu na zachód",
+    "answer_2": "o wschodzie słońca",
+    "answer_3": "z zachodu na wschód",
+    "correct_answer": 1
+  },
+  {
+    "id": "99",
+    "question": "Jakie są niebezpieczeństwa związane z żeglowaniem przy bardzo złej widoczności (silne opady, mgła)?",
+    "category": "meteorologia",
+    "answer_1": "brak wiatru",
+    "answer_2": "możliwość kolizji",
+    "answer_3": "duże zafalowanie",
+    "correct_answer": 2
+  },
+  {
+    "id": "100",
+    "question": "Wiatrem nazywamy:",
+    "category": "meteorologia",
+    "answer_1": "dolną warstwę atmosfery zwaną troposferą",
+    "answer_2": "ruch powietrza względem powierzchni Ziemi",
+    "answer_3": "górną warstwę atmosfery zwaną termosferą",
+    "correct_answer": 2
+  },
+  {
+    "id": "101",
+    "question": "Wiatr określa się według kierunku:",
+    "category": "meteorologia",
+    "answer_1": "z którego wieje",
+    "answer_2": "w którym wieje",
+    "answer_3": "przesuwania się chmur",
+    "correct_answer": 1
+  }
+]
