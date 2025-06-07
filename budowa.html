@@ -30,6 +30,7 @@
     /* ---------- constants & helpers ---------- */
     const MAX_BUCKET = 5;
     const STORAGE_KEY = 'bucketMap';
+    const QUESTIONS_FILE = "budowa.json";
 
     const qs   = (sel) => document.querySelector(sel);
     const qsa  = (sel) => document.querySelectorAll(sel);
@@ -185,7 +186,7 @@
     });
 
     /* ---------- boot ---------- */
-    fetch('questions.json')
+    fetch(QUESTIONS_FILE)
       .then(r => r.json())
       .then(data => {
         allQ   = data;
@@ -194,7 +195,7 @@
         updateStats();
       })
       .catch(err => {
-        qs('#question').textContent = 'Failed to load questions.json';
+        qs('#question').textContent = 'Failed to load json file with questions';
         console.error(err);
       });
   </script>
