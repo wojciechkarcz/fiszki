@@ -69,7 +69,7 @@ button {
   padding:.5rem 1.2rem;
   border:none;
   border-radius:6px;
-  font-weight:600;
+  font-weight:400;
   cursor:pointer;
   background:#2367ff;
   color:#fff;
@@ -87,7 +87,7 @@ button:hover { opacity:.9; }
   left: auto;
   z-index: 999;
   font-size: .9rem;
-  font-weight: 600;
+  font-weight: 300;
   color: #2367ff;
   text-decoration: none;
 }
@@ -100,3 +100,22 @@ button:hover { opacity:.9; }
   margin-top: 1rem;
   color: #444;
 }
+
+/* top-left horizontal menu */
+.top-menu {
+  position: fixed;     /* pins the whole bar */
+  top: 1rem;
+  left: 1rem;
+  display: flex;       /* one line */
+  gap: .8rem;          /* spacing between links */
+  z-index: 998;        /* keeps it above the card */
+}
+
+.top-menu a {
+  font-size: .9rem;
+  font-weight: 300;
+  color: #2367ff;
+  text-decoration: none;
+}
+
+.top-menu a:hover { text-decoration: underline; }
