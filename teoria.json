@@ -132,7 +132,7 @@
     "answer_1": "przenieść balast na burtę zawietrzną, wybrać maksymalnie żagle, odpaść od wiatru ",
     "answer_2": "przenieść balast na burtę nawietrzną, luzować żagle, ostrzyć, refować żagle ",
     "answer_3": "przenieść balast do tyłu, ustawić się bokiem do wiatru ",
-    "correct_answer": 1
+    "correct_answer": 2
   },
   {
     "id": 16,
@@ -141,7 +141,7 @@
     "answer_1": "zmiana kursu jachtu z pełniejszego na ostrzejszy ",
     "answer_2": "zmiana kursu jachtu z ostrzejszego na pełniejszy ",
     "answer_3": "przechylanie jachtu pod wpływem prądów podwodnych ",
-    "correct_answer": 3
+    "correct_answer": 1
   },
   {
     "id": 17,
@@ -150,7 +150,7 @@
     "answer_1": "tendencja jachtu do samoistnego ostrzenia ",
     "answer_2": "tendencja jachtu do samoistnego odpadania ",
     "answer_3": "tendencja jachtu do samoistnego pływania z wiatrem ",
-    "correct_answer": 2
+    "correct_answer": 1
   },
   {
     "id": 18,
@@ -321,7 +321,7 @@
     "answer_1": "zmniejszenie dryfu jachtu ",
     "answer_2": "zmniejszenie przechyłu jachtu ",
     "answer_3": "zmniejszenie prędkości jachtu ",
-    "correct_answer": 2
+    "correct_answer": 3
   },
   {
     "id": 37,
@@ -636,7 +636,7 @@
     "answer_1": "dwa zwroty przez sztag ",
     "answer_2": "zwrot przez rufę, zwrot przez sztag ",
     "answer_3": "zwrot przez sztag, zwrot przez rufę ",
-    "correct_answer": 2
+    "correct_answer": 3
   },
   {
     "id": 72,
