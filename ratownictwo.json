@@ -1,0 +1,1208 @@
+[
+  {
+    "id": "1",
+    "question": "Akcja ratownicza w zakresie ratowania życia  na wodach śródlądowych lub morskich jest:",
+    "category": "ratownictwo",
+    "answer_1": "odpłatna",
+    "answer_2": "nieodpłatna",
+    "answer_3": "odpłatna, jeżeli zdarzenie wymagające prowadzenia akcji spowodowane zostało przez sternika",
+    "correct_answer": 2
+  },
+  {
+    "id": "2",
+    "question": "Akcja ratownicza w zakresie ratowania mienia  na wodach śródlądowych lub morskich jest:",
+    "category": "ratownictwo",
+    "answer_1": "odpłatna",
+    "answer_2": "nieodpłatna",
+    "answer_3": "odpłatna, jeżeli zdarzenie wymagające prowadzenia akcji spowodowane zostało przez sternika",
+    "correct_answer": 1
+  },
+  {
+    "id": "3",
+    "question": "Czy nieudzielenie pomocy człowiekowi znajdującemu się w bezpośrednim",
+    "category": "ratownictwo",
+    "answer_1": "jedynie karze grzywny",
+    "answer_2": "nie",
+    "answer_3": "tak, jeżeli osoba, które może udzielić pomocy, nie narażałaby siebie na podobne",
+    "correct_answer": 3
+  },
+  {
+    "id": "4",
+    "question": "Co oznacza skrót RKO?",
+    "category": "ratownictwo",
+    "answer_1": "ratuj każdą osobę",
+    "answer_2": "resuscytacja krążeniowo-oddechowa",
+    "answer_3": "rana kości oczodołu",
+    "correct_answer": 2
+  },
+  {
+    "id": "5",
+    "question": "Złamanie kończyny należy podejrzewać, jeżeli:",
+    "category": "ratownictwo",
+    "answer_1": "wystąpi obrzęk i ból, nasilający się przy poruszeniach kończyną lub pojawi się nieprawidłowa",
+    "answer_2": "wystąpi silna opuchlizna kończyny",
+    "answer_3": "wystąpi zasinienie",
+    "correct_answer": 1
+  },
+  {
+    "id": "6",
+    "question": "Przy podejrzewanym urazie kręgosłupa należy:",
+    "category": "ratownictwo",
+    "answer_1": "przenieść poszkodowanego w ciepłe miejsce",
+    "answer_2": "pozostawić w pozycji zastanej",
+    "answer_3": "zapewnić wygodne miejsce siedzące",
+    "correct_answer": 2
+  },
+  {
+    "id": "7",
+    "question": "Osobom we wstrząsie:",
+    "category": "ratownictwo",
+    "answer_1": "należy podać ciepłe napoje",
+    "answer_2": "należy podać zimne napoje",
+    "answer_3": "nie wolno podawać niczego do picia i jedzenia",
+    "correct_answer": 3
+  },
+  {
+    "id": "8",
+    "question": "Osobie z udarem cieplnym należy:",
+    "category": "ratownictwo",
+    "answer_1": "przyłożyć zimne okłady na kark i głowę i podać chłodne napoje",
+    "answer_2": "okryć ją kocem i przenieść w chłodne miejsce",
+    "answer_3": "zapewnić odpoczynek",
+    "correct_answer": 1
+  },
+  {
+    "id": "9",
+    "question": "Przy poparzeniach kwasami, np. akumulatorowym, należy:",
+    "category": "ratownictwo",
+    "answer_1": "zmyć miejsce poparzenia dużą ilością wody i zaopatrzyć opatrunkiem jałowym",
+    "answer_2": "dostępnymi środkami zdezynfekować miejsce oparzenia",
+    "answer_3": "opatrzyć miejsce oparzenia opaską uciskową",
+    "correct_answer": 1
+  },
+  {
+    "id": "10",
+    "question": "Przy poparzeniach skóry należy:",
+    "category": "ratownictwo",
+    "answer_1": "zdezynfekować miejsce oparzenia dostępnymi środkami",
+    "answer_2": "schłodzić miejsce poparzenia dużą ilością wody, opatrzyć opatrunkiem jałowym i udać się do",
+    "answer_3": "opatrzyć miejsce oparzenia bandażem  elastycznym i udać się do lekarza",
+    "correct_answer": 2
+  },
+  {
+    "id": "11",
+    "question": "Obowiązek wyposażenia jachtu w apteczkę dotyczy:",
+    "category": "ratownictwo",
+    "answer_1": "jachtu o długości powyżej 3,5 m",
+    "answer_2": "jachtu o długości powyżej 7 m",
+    "answer_3": "każdego jachtu",
+    "correct_answer": 3
+  },
+  {
+    "id": "12",
+    "question": "Liczba kamizelek na jachcie powinna być równa:",
+    "category": "ratownictwo",
+    "answer_1": "podwójnej liczbie członków załogi",
+    "answer_2": "liczbie członków załogi",
+    "answer_3": "liczbie odpowiadającej wpisowi w dowodzie rejestracyjnym jachtu",
+    "correct_answer": 2
+  },
+  {
+    "id": "13",
+    "question": "Pozycję „CLINCH” stosuje się w przypadku:",
+    "category": "ratownictwo",
+    "answer_1": "pożaru na jachcie",
+    "answer_2": "grupy rozbitków w wodzie",
+    "answer_3": "dokładnego cumowania jachtu",
+    "correct_answer": 2
+  },
+  {
+    "id": "14",
+    "question": "Pozycja „HELP”:",
+    "category": "ratownictwo",
+    "answer_1": "ułatwia zauważenie rozbitka",
+    "answer_2": "podwyższa „pływalność” rozbitka",
+    "answer_3": "opóźnia utratę ciepła",
+    "correct_answer": 3
+  },
+  {
+    "id": "15",
+    "question": "Celowe, w pełni kontrolowane osadzenie statku na piaszczystym brzegu nazywamy:",
+    "category": "ratownictwo",
+    "answer_1": "sztormowaniem",
+    "answer_2": "piaskowaniem",
+    "answer_3": "sztrandowaniem",
+    "correct_answer": 3
+  },
+  {
+    "id": "16",
+    "question": "Ratownictwem na wodach morskich zajmuje się:",
+    "category": "ratownictwo",
+    "answer_1": "SAR",
+    "answer_2": "SG",
+    "answer_3": "RYA",
+    "correct_answer": 1
+  },
+  {
+    "id": "17",
+    "question": "Czy rzutka stanowi wyposażenie ratunkowe?",
+    "category": "ratownictwo",
+    "answer_1": "tak",
+    "answer_2": "nie",
+    "answer_3": "jedynie w określonych przypadkach",
+    "correct_answer": 1
+  },
+  {
+    "id": "18",
+    "question": "Mając do czynienia z osobą nieprzytomną, należy najpierw:",
+    "category": "ratownictwo",
+    "answer_1": "sprawdzić jej tętno i oddech",
+    "answer_2": "podać leki – jeżeli ma przy sobie",
+    "answer_3": "rozpocząć RKO",
+    "correct_answer": 1
+  },
+  {
+    "id": "19",
+    "question": "Po podjęciu wychłodzonego człowieka z wody należy:",
+    "category": "ratownictwo",
+    "answer_1": "podać mu gorącą herbatę z alkoholem",
+    "answer_2": "podać mu gorącą herbatę i suchą odzież; nie wolno podawać alkoholu",
+    "answer_3": "podać mu środki uspokajające",
+    "correct_answer": 2
+  },
+  {
+    "id": "20",
+    "question": "Podawanie alkoholu osobom znajdującym się od pewnego czasu w wodzie jest:",
+    "category": "ratownictwo",
+    "answer_1": "zalecane",
+    "answer_2": "zabronione",
+    "answer_3": "dozwolone",
+    "correct_answer": 2
+  },
+  {
+    "id": "21",
+    "question": "Gwałtowne poruszanie się w zimnej wodzie powoduje:",
+    "category": "ratownictwo",
+    "answer_1": "skrócenie czasu przeżycia",
+    "answer_2": "rozgrzanie organizmu",
+    "answer_3": "zmęczenie i senność",
+    "correct_answer": 1
+  },
+  {
+    "id": "22",
+    "question": "Człowiekowi, który wypadł za burtę, należy w pierwszej kolejności:",
+    "category": "ratownictwo",
+    "answer_1": "krzyknąć słowa pocieszenia",
+    "answer_2": "zwolnić, by mógł dogonić jacht",
+    "answer_3": "rzucić koło ratunkowe",
+    "correct_answer": 3
+  },
+  {
+    "id": "23",
+    "question": "Pas ratunkowy jest środkiem ratowniczym, który zapewnia:",
+    "category": "ratownictwo",
+    "answer_1": "przymocowanie człowieka do jachtu, aby zabezpieczyć go przed wypadnięciem",
+    "answer_2": "utrzymanie człowieka na powierzchni wody w pozycji umożliwiającej swobodne oddychanie",
+    "answer_3": "utrzymanie sztormiaka na miejscu przy silnych wiatrach",
+    "correct_answer": 2
+  },
+  {
+    "id": "24",
+    "question": "Człowiek, któremu rzucono koło ratunkowe, zakłada je:",
+    "category": "ratownictwo",
+    "answer_1": "pod sztormiak",
+    "answer_2": "przez głowę pod ramiona",
+    "answer_3": "nurkując",
+    "correct_answer": 2
+  },
+  {
+    "id": "25",
+    "question": "Za niesienie pomocy w akcji „człowiek za burtą” odpowiada:",
+    "category": "ratownictwo",
+    "answer_1": "wszyscy członkowie załogi",
+    "answer_2": "najstarszy członek załogi",
+    "answer_3": "prowadzący jacht",
+    "correct_answer": 3
+  },
+  {
+    "id": "26",
+    "question": "Po wywrotce jachtu należy w pierwszej kolejności sprawdzić:",
+    "category": "ratownictwo",
+    "answer_1": "czy mamy telefon komórkowy",
+    "answer_2": "czy mamy środki ratunkowe",
+    "answer_3": "czy wszyscy członkowie załogi są na powierzchni wody",
+    "correct_answer": 3
+  },
+  {
+    "id": "27",
+    "question": "Którą burtą należy podejść do człowieka za burtą małym jachtem mieczowym?",
+    "category": "ratownictwo",
+    "answer_1": "nawietrzną",
+    "answer_2": "zawietrzną",
+    "answer_3": "rufą",
+    "correct_answer": 1
+  },
+  {
+    "id": "28",
+    "question": "Co oznacza czerwona flara?",
+    "category": "ratownictwo",
+    "answer_1": "„Uwaga”",
+    "answer_2": "„Wzywam pomocy”",
+    "answer_3": "„Tu jestem”",
+    "correct_answer": 2
+  },
+  {
+    "id": "29",
+    "question": "Po przewróceniu jachtu nietonącego:",
+    "category": "ratownictwo",
+    "answer_1": "zostajemy przy łodzi",
+    "answer_2": "odpływamy",
+    "answer_3": "nurkujemy do kabiny",
+    "correct_answer": 1
+  },
+  {
+    "id": "30",
+    "question": "Jeśli na jachcie, na którym są dwie gaśnice, wybuchnie pożar, to:",
+    "category": "ratownictwo",
+    "answer_1": "gasimy pożar jedną",
+    "answer_2": "gasimy pożar jedną, trzymając drugą w pogotowiu",
+    "answer_3": "gasimy pożar, używając obu naraz",
+    "correct_answer": 2
+  },
+  {
+    "id": "31",
+    "question": "Jak należy trzymać bosak?",
+    "category": "ratownictwo",
+    "answer_1": "końcem poza obrysem ciała",
+    "answer_2": "końcem pod pachą",
+    "answer_3": "pod stopą",
+    "correct_answer": 1
+  },
+  {
+    "id": "32",
+    "question": "Indywidualne środki asekuracyjne to:",
+    "category": "ratownictwo",
+    "answer_1": "pas ratunkowy (kapok), koło ratunkowe",
+    "answer_2": "szelki asekuracyjne, linka asekuracyjna, life lina",
+    "answer_3": "wiosło, odbijacz, bosak",
+    "correct_answer": 2
+  },
+  {
+    "id": "33",
+    "question": "Którą burtą należy podejść do człowieka za burtą jachtem balastowym?",
+    "category": "ratownictwo",
+    "answer_1": "zawietrzną",
+    "answer_2": "nawietrzną",
+    "answer_3": "dziobem",
+    "correct_answer": 1
+  },
+  {
+    "id": "34",
+    "question": "Co powinno cechować linkę, na której podawane jest kolo ratunkowe?",
+    "category": "ratownictwo",
+    "answer_1": "niepalność",
+    "answer_2": "duża grubość (ponad 20 mm)",
+    "answer_3": "pływalność",
+    "correct_answer": 3
+  },
+  {
+    "id": "35",
+    "question": "Człowiekowi, który wypadł za burtę, koło ratunkowe należy rzucać:",
+    "category": "ratownictwo",
+    "answer_1": "od jego nawietrznej",
+    "answer_2": "od jego zawietrznej",
+    "answer_3": "starać się trafić mu na głowę",
+    "correct_answer": 1
+  },
+  {
+    "id": "36",
+    "question": "Podczas alarmu pas ratunkowy należy zakładać:",
+    "category": "ratownictwo",
+    "answer_1": "pod pokładem",
+    "answer_2": "na pokładzie",
+    "answer_3": "w wodzie",
+    "correct_answer": 2
+  },
+  {
+    "id": "37",
+    "question": "Osobie wyziębionej podajemy:",
+    "category": "ratownictwo",
+    "answer_1": "ciepłą, słodką herbatę",
+    "answer_2": "herbatę z niewielką ilością alkoholu",
+    "answer_3": "alkohol",
+    "correct_answer": 1
+  },
+  {
+    "id": "38",
+    "question": "Przed przystąpieniem do sztucznego oddychania należy:",
+    "category": "ratownictwo",
+    "answer_1": "ułożyć poszkodowanego z podniesionymi nogami powyżej głowy",
+    "answer_2": "ułożyć poszkodowanego w pozycji bocznej ustalonej",
+    "answer_3": "udrożnić drogi oddechowe",
+    "correct_answer": 3
+  },
+  {
+    "id": "39",
+    "question": "Ciepły płyn można podać osobie:",
+    "category": "ratownictwo",
+    "answer_1": "przytomnej",
+    "answer_2": "nieprzytomnej w ilości pół szklanki",
+    "answer_3": "nieprzytomnej bez ograniczeń",
+    "correct_answer": 1
+  },
+  {
+    "id": "40",
+    "question": "Na jaki kurs względem wiatru należy ustawić jacht w momencie wybuchu pożaru na",
+    "category": "ratownictwo",
+    "answer_1": "półwiatr",
+    "answer_2": "kurs pełny",
+    "answer_3": "kurs ostry",
+    "correct_answer": 3
+  },
+  {
+    "id": "41",
+    "question": "Czy ratowanie życia na wodzie jest bezpłatne?",
+    "category": "ratownictwo",
+    "answer_1": "tak",
+    "answer_2": "nie",
+    "answer_3": "zależy od warunków atmosferycznych",
+    "correct_answer": 1
+  },
+  {
+    "id": "42",
+    "question": "Koło ratunkowe musi znajdować się:",
+    "category": "ratownictwo",
+    "answer_1": "na każdym jachcie",
+    "answer_2": "na jachcie, o ile jest wpisane w dowód rejestracyjny",
+    "answer_3": "na jachcie, jeżeli liczba członków załogi przekracza 5 osób",
+    "correct_answer": 1
+  },
+  {
+    "id": "43",
+    "question": "Kamizelka asekuracyjna:",
+    "category": "ratownictwo",
+    "answer_1": "zabezpiecza przed utonięciem w każdych warunkach",
+    "answer_2": "utrzymuje człowieka na powierzchni i podtrzymuje nieprzytomnemu głowę na powierzchni",
+    "answer_3": "utrzymuje człowieka na powierzchni, nie zapewniając podtrzymania głowy na powierzchni",
+    "correct_answer": 3
+  },
+  {
+    "id": "44",
+    "question": "Po wywrotce jachtu najpierw:",
+    "category": "ratownictwo",
+    "answer_1": "zabezpieczamy jacht przed przewróceniem się do góry dnem przez podłożenie koła ratunkowego",
+    "answer_2": "umieszczamy załogę na wywróconym jachcie",
+    "answer_3": "wydajemy komendę założenia kamizelek i jednocześnie liczymy członków załogi",
+    "correct_answer": 3
+  },
+  {
+    "id": "45",
+    "question": "W przypadku wywrotki innego jachtu:",
+    "category": "ratownictwo",
+    "answer_1": "obowiązkowo ratujemy załogę i jacht",
+    "answer_2": "obowiązkowo ratujemy załogę, a sprzęt na życzenie ratowanego, o ile nie stanowi to zagrożenia",
+    "answer_3": "ograniczamy się tylko do wezwania pomocy specjalistycznej (np. WOPR-u)",
+    "correct_answer": 2
+  },
+  {
+    "id": "46",
+    "question": "Na śródlądziu sztuczne oddychanie i masaż serca prowadzimy:",
+    "category": "ratownictwo",
+    "answer_1": "przez 30 minut",
+    "answer_2": "przez 45 minut",
+    "answer_3": "do przybycia lekarza",
+    "correct_answer": 3
+  },
+  {
+    "id": "47",
+    "question": "Zmniejszenie utraty ciepła organizmu człowieka przebywającego w wodzie uzyskuje się",
+    "category": "ratownictwo",
+    "answer_1": "masowanie ud i ramion w określonych odstępach czasu",
+    "answer_2": "podciągnięcie kolan pod brodę i objęcie ich ramionami",
+    "answer_3": "intensywne ruszanie się",
+    "correct_answer": 2
+  },
+  {
+    "id": "48",
+    "question": "Szok termiczny to:",
+    "category": "ratownictwo",
+    "answer_1": "przechłodzenie organizmu",
+    "answer_2": "przegrzanie organizmu",
+    "answer_3": "gwałtowne zwężenie się naczyń krwionośnych",
+    "correct_answer": 3
+  },
+  {
+    "id": "49",
+    "question": "W przypadku zapalenia się silnika przyczepnego:",
+    "category": "ratownictwo",
+    "answer_1": "gasimy go wodą",
+    "answer_2": "gasimy go kocem gaśniczym lub zwykłym, mokrym kocem albo mokrą częścią odzieży",
+    "answer_3": "wzywamy straż i na dziobie oczekujemy na przybycie pomocy",
+    "correct_answer": 2
+  },
+  {
+    "id": "50",
+    "question": "Co to jest SAR?",
+    "category": "ratownictwo",
+    "answer_1": "morska i śródlądowa służba alarmowa i ratownicza",
+    "answer_2": "służba alarmowa i ratownictwa na akwenach śródlądowych",
+    "answer_3": "morska służba poszukiwania i ratownictwa",
+    "correct_answer": 3
+  },
+  {
+    "id": "51",
+    "question": "Luzując linę kotwiczną w czasie rzucania kotwicy:",
+    "category": "ratownictwo",
+    "answer_1": "trzymamy linę w dłoniach",
+    "answer_2": "trzymamy linę przeciągniętą przez kluzę i obłożoną na knadze",
+    "answer_3": "trzymamy linę przeciągniętą przez kluzę",
+    "correct_answer": 2
+  },
+  {
+    "id": "52",
+    "question": "Po wejściu na mieliznę, znajdującą się po naszej zawietrznej, przy silnym wietrze, pierwszą",
+    "category": "ratownictwo",
+    "answer_1": "zrzucenie żagli i rzucenie kotwicy",
+    "answer_2": "podniesienie miecza i przechylenie jachtu",
+    "answer_3": "wzywanie pomocy i ewakuacja załogi",
+    "correct_answer": 1
+  },
+  {
+    "id": "53",
+    "question": "W czasie sztormowania na jeziorze na jachcie kabinowym załoga powinna:",
+    "category": "ratownictwo",
+    "answer_1": "przebywać w kabinie z przygotowanymi do założenia kamizelkami ratunkowymi",
+    "answer_2": "przebywać w kokpicie z założonymi kamizelkami ratunkowymi",
+    "answer_3": "przebywać w kabinie z założonymi kamizelkami ratunkowymi",
+    "correct_answer": 2
+  },
+  {
+    "id": "54",
+    "question": "W czasie sztormowania na jeziorze jachtem kabinowym najbezpieczniejszym kursem jest:",
+    "category": "ratownictwo",
+    "answer_1": "bajdewind z zarefowanym grotem bez foka",
+    "answer_2": "fordewind z zarefowanym grotem bez foka",
+    "answer_3": "baksztag z zarefowanym fokiem bez grota",
+    "correct_answer": 2
+  },
+  {
+    "id": "55",
+    "question": "Gdzie w czasie sztormowania powinny być umieszczone suwklapa i sztorcklapa?",
+    "category": "ratownictwo",
+    "answer_1": "powinny być przygotowane w kokpicie do zamknięcia zejściówki",
+    "answer_2": "powinny zamykać szczelnie zejściówkę",
+    "answer_3": "na jachtach mieczowych nie ma to znaczenia",
+    "correct_answer": 2
+  },
+  {
+    "id": "56",
+    "question": "Używając pirotechnicznych środków wzywania pomocy:",
+    "category": "ratownictwo",
+    "answer_1": "odpalamy je po zawietrznej stronie jachtu",
+    "answer_2": "odpalamy je po nawietrznej stronie na dziobie",
+    "answer_3": "odpalamy je po nawietrznej stronie, na śródokręciu jachtu",
+    "correct_answer": 1
+  },
+  {
+    "id": "57",
+    "question": "W czasie sztormowania silnik pomocniczy:",
+    "category": "ratownictwo",
+    "answer_1": "powinien być wyłączony",
+    "answer_2": "może pracować razem z żaglami",
+    "answer_3": "powinien pracować, ale bez postawionych żagli",
+    "correct_answer": 2
+  },
+  {
+    "id": "58",
+    "question": "Morska Służba Poszukiwania i Ratownictwa to:",
+    "category": "ratownictwo",
+    "answer_1": "WOPR",
+    "answer_2": "SAR",
+    "answer_3": "MSPR",
+    "correct_answer": 2
+  },
+  {
+    "id": "59",
+    "question": "Rzucając koło ratunkowe osobie będącej za burtą, należy:",
+    "category": "ratownictwo",
+    "answer_1": "trafić tak, aby głowa tonącego znajdowała się wewnątrz koła",
+    "answer_2": "rzucić koło od strony nawietrznej tonącego",
+    "answer_3": "rzucić koło przynajmniej 5 metrów od tonącego, aby go nie uderzyć",
+    "correct_answer": 2
+  },
+  {
+    "id": "60",
+    "question": "W przypadku, gdy na jachcie wybuchnie pożar silnika przyczepnego, należy:",
+    "category": "ratownictwo",
+    "answer_1": "w miarę możliwości odciąć dopływ paliwa, wyłączyć silnik i próbować ugasić pożar przy",
+    "answer_2": "odrąbać silnik toporkiem",
+    "answer_3": "dać całą naprzód i czekać aż pęd wiatru ugasi pożar",
+    "correct_answer": 1
+  },
+  {
+    "id": "61",
+    "question": "Jeśli podczas smażenia na kuchence jachtowej zapali się olej na patelni, należy:",
+    "category": "ratownictwo",
+    "answer_1": "polać patelnię dużą ilością wody",
+    "answer_2": "jak najszybciej wyrzucić płonącą patelnię za burtę",
+    "answer_3": "przykryć płonącą patelnię pokrywką lub innym niepalnym przedmiotem, odcinając dopływ tlenu",
+    "correct_answer": 3
+  },
+  {
+    "id": "62",
+    "question": "W przypadku zauważenia tonącego, należy:",
+    "category": "ratownictwo",
+    "answer_1": "wysłać załoganta, który potrafi pływać, aby ratował tonącego, i krążyć wokół niego",
+    "answer_2": "rzucić koło ratunkowe tonącemu i wykonać manewr „człowiek za burtą”",
+    "answer_3": "zadzwonić po WOPR i czekać, aż przypłynie pomoc",
+    "correct_answer": 2
+  },
+  {
+    "id": "63",
+    "question": "Przy przechłodzeniu należy:",
+    "category": "ratownictwo",
+    "answer_1": "ogrzać poszkodowanego, owijając go w koce i podając ciepłą herbatę",
+    "answer_2": "rozebrać poszkodowanego i kazać mu skakać, aby przyspieszyć krążenie",
+    "answer_3": "rozgrzać poszkodowanego, podając mu koce i szklankę alkoholu, najlepiej rumu",
+    "correct_answer": 1
+  },
+  {
+    "id": "64",
+    "question": "Jeśli tonący po wyciągnięciu z wody nie oddycha, ale ma wyczuwalne tętno, należy:",
+    "category": "ratownictwo",
+    "answer_1": "natychmiast zadzwonić po pomoc i przystąpić do resuscytacji krążeniowo-oddechowej",
+    "answer_2": "sprawdzić drogi oddechowe, usunąć ciała obce, odchylić głowę do tyłu i przystąpić do wentylacji",
+    "answer_3": "ułożyć go w pozycji bocznej ustalonej, zadzwonić po pomoc i czekać na ratowników",
+    "correct_answer": 2
+  },
+  {
+    "id": "65",
+    "question": "Sztrandowanie jest to:",
+    "category": "ratownictwo",
+    "answer_1": "zwrot przez rufę w języku holenderskim",
+    "answer_2": "awaryjne, bezpieczne osadzenie jachtu na mieliźnie lub na brzegu",
+    "answer_3": "obracanie jachtu przy kei o 180⁰",
+    "correct_answer": 2
+  },
+  {
+    "id": "66",
+    "question": "W przypadku kolizji dwóch jachtów na wodach śródlądowych należy:",
+    "category": "ratownictwo",
+    "answer_1": "powiadomić WOPR, policję i straż pożarną i czekać na ich przybycie",
+    "answer_2": "sprawdzić, czy nikt z załogi nie odniósł obrażeń i jeśli nikt nie został ranny, sprawdzić",
+    "answer_3": "w przypadku, gdy kolizja powstała z naszej winy, przeprosić i popłynąć dalej",
+    "correct_answer": 2
+  },
+  {
+    "id": "67",
+    "question": "Gdy po wywrotce nie ma nadziei na nadejście pomocy, nie udało się postawić jachtu, a",
+    "category": "ratownictwo",
+    "answer_1": "każdy członek załogi płynie do brzegu na własną rękę",
+    "answer_2": "członkowie załogi płyną do brzegu, zachowując kontakt wzrokowy",
+    "answer_3": "załoga płynie do brzegu w jednej grupie zabierając pływające przedmioty jako prowizoryczną",
+    "correct_answer": 3
+  },
+  {
+    "id": "68",
+    "question": "Co to jest hipotermia:",
+    "category": "ratownictwo",
+    "answer_1": "wychłodzenie organizmu",
+    "answer_2": "przegrzanie organizmu",
+    "answer_3": "uodpornienie organizmu na niskie temperatury",
+    "correct_answer": 1
+  },
+  {
+    "id": "69",
+    "question": "W przypadku zerwania wanty nawietrznej:",
+    "category": "ratownictwo",
+    "answer_1": "odpadamy natychmiast do półwiatru",
+    "answer_2": "uruchamiamy silnik",
+    "answer_3": "wykonujemy natychmiast zwrot",
+    "correct_answer": 3
+  },
+  {
+    "id": "70",
+    "question": "Prowadząc sztuczne oddychanie i pośredni masaż serca, wykonujemy:",
+    "category": "ratownictwo",
+    "answer_1": "30 uciśnięć mostka i 2 wdmuchnięcia powietrza",
+    "answer_2": "5 uciśnięć mostka i 1 wdmuchnięcie powietrza",
+    "answer_3": "15 uciśnięć mostka i 2 wdmuchnięcia powietrza",
+    "correct_answer": 1
+  },
+  {
+    "id": "71",
+    "question": "Kamizelka asekuracyjna:",
+    "category": "ratownictwo",
+    "answer_1": "zabezpiecza przed utonięciem w każdych warunkach",
+    "answer_2": "utrzymuje człowieka na powierzchni i podtrzymuje nieprzytomnemu głowę na powierzchni",
+    "answer_3": "utrzymuje człowieka na powierzchni, nie zapewniając podtrzymania głowy na powierzchni",
+    "correct_answer": 3
+  },
+  {
+    "id": "72",
+    "question": "Zasadę jedna ręka dla jachtu, druga dla siebie, stosujemy:",
+    "category": "ratownictwo",
+    "answer_1": "podczas trudnych warunków meteorologicznych",
+    "answer_2": "na jachtach mieczowych bez sztormrelingów",
+    "answer_3": "podczas wszelkich prac na pokładzie jachtu",
+    "correct_answer": 3
+  },
+  {
+    "id": "73",
+    "question": "Przed rozpoczęciem rejsu należy:",
+    "category": "ratownictwo",
+    "answer_1": "pokazać załodze, gdzie leżą środki ratunkowe",
+    "answer_2": "nauczyć załogę posługiwania się środkami ratunkowymi",
+    "answer_3": "powiedzieć załodze, jak może rozmieścić własne rzeczy na jachcie",
+    "correct_answer": 2
+  },
+  {
+    "id": "74",
+    "question": "Podczas żeglugi załoganci powinni poruszać się:",
+    "category": "ratownictwo",
+    "answer_1": "po burcie nawietrznej",
+    "answer_2": "po burcie zawietrznej",
+    "answer_3": "bardzo powoli, trzymając się obiema rękami części stałych jachtu",
+    "correct_answer": 3
+  },
+  {
+    "id": "75",
+    "question": "Prędkość utraty ciepłoty ciała zależy od:",
+    "category": "ratownictwo",
+    "answer_1": "temperatury wody, rodzaju założonej odzieży, sposobu zachowania się w wodzie",
+    "answer_2": "temperatury powietrza, rodzaju założonej odzieży, sposobu zachowania się w wodzie",
+    "answer_3": "temperatury powietrza, temperatury ciała człowieka, sposobu zachowania się w wodzie",
+    "correct_answer": 1
+  },
+  {
+    "id": "76",
+    "question": "W jakiej temperaturze wody człowiek ma największe szanse przeżycia?",
+    "category": "ratownictwo",
+    "answer_1": "20ºC",
+    "answer_2": "10ºC",
+    "answer_3": "15ºC",
+    "correct_answer": 1
+  },
+  {
+    "id": "77",
+    "question": "Przy złamaniu kości należy:",
+    "category": "ratownictwo",
+    "answer_1": "unieruchomić dwa sąsiadujące stawy",
+    "answer_2": "unieruchomić dwie sąsiadujące kości",
+    "answer_3": "nałożyć opatrunek uciskowy na złamanie",
+    "correct_answer": 1
+  },
+  {
+    "id": "78",
+    "question": "Czerwona twarz, bóle i zawroty głowy, dreszcze, senność, to objawy występujące przy:",
+    "category": "ratownictwo",
+    "answer_1": "oparzeniu II stopnia",
+    "answer_2": "porażeniu słonecznym (udarze)",
+    "answer_3": "zatruciu pokarmowym",
+    "correct_answer": 2
+  },
+  {
+    "id": "79",
+    "question": "Gaśnicy należy używać od strony:",
+    "category": "ratownictwo",
+    "answer_1": "nawietrznej płomienia",
+    "answer_2": "zawietrznej płomienia",
+    "answer_3": "rufy jachtu",
+    "correct_answer": 2
+  },
+  {
+    "id": "80",
+    "question": "Jakich jachtów nie dotyczy wyposażenie przeciwpożarowe?",
+    "category": "ratownictwo",
+    "answer_1": "jachtów turystycznych",
+    "answer_2": "mniejszych niż 7,5 m",
+    "answer_3": "jachtów bez silnika i kuchenki gazowej",
+    "correct_answer": 3
+  },
+  {
+    "id": "81",
+    "question": "Polska Służba Ratownictwa Morskiego może ratować rozbitków przy pomocy:",
+    "category": "ratownictwo",
+    "answer_1": "tylko statków ratowniczych",
+    "answer_2": "statków ratowniczych, helikopterów i pojazdów lądowych",
+    "answer_3": "statków ratowniczych i helikopterów",
+    "correct_answer": 3
+  },
+  {
+    "id": "82",
+    "question": "Do środków ratunkowych używanych na morzu zaliczamy m.in.:",
+    "category": "ratownictwo",
+    "answer_1": "tratwę ratunkową, pas ratunkowy, rzutkę, koło ratunkowe z pławką świetlną",
+    "answer_2": "tratwę ratunkową, pas ratunkowy, ponton, koło ratunkowe z pławką świetlną",
+    "answer_3": "tratwę ratunkową, pas ratunkowy, bączek, koło ratunkowe z pławką świetlną",
+    "correct_answer": 1
+  },
+  {
+    "id": "83",
+    "question": "Sygnałem wzywania pomocy na morzu, nadawanym przez radiotelefon jest:",
+    "category": "ratownictwo",
+    "answer_1": "NA POMOC",
+    "answer_2": "RATUNKU",
+    "answer_3": "MAYDAY",
+    "correct_answer": 3
+  },
+  {
+    "id": "84",
+    "question": "Środki pirotechniczne stosowane są na morzu:",
+    "category": "ratownictwo",
+    "answer_1": "w warunkach sztormowych",
+    "answer_2": "w przypadku zagrożenia",
+    "answer_3": "podczas świętowania urodzin kapitana",
+    "correct_answer": 2
+  },
+  {
+    "id": "85",
+    "question": "Do pirotechnicznych środków sygnałowych należą:",
+    "category": "ratownictwo",
+    "answer_1": "rakieta spadochronowa czerwona, pławka dymna czerwona",
+    "answer_2": "rakieta spadochronowa czerwona, pochodnia ręczna czerwona, pławka dymna pomarańczowa",
+    "answer_3": "rakieta spadochronowa czerwona, pochodnia ręczna żółta",
+    "correct_answer": 2
+  },
+  {
+    "id": "86",
+    "question": "Służba SAR ma za zadanie:",
+    "category": "ratownictwo",
+    "answer_1": "ratować życie na morzu",
+    "answer_2": "ratować sprzęt i dobytek na morzu",
+    "answer_3": "ratować polskich żeglarzy na morzu",
+    "correct_answer": 1
+  },
+  {
+    "id": "87",
+    "question": "Jaki jest numer wzywania pomocy na wodzie, na śródlądziu?",
+    "category": "ratownictwo",
+    "answer_1": "600 101 010",
+    "answer_2": "601 100 100",
+    "answer_3": "601 200 200",
+    "correct_answer": 2
+  },
+  {
+    "id": "88",
+    "question": "Przed holowaniem przewróconego jachtu należy:",
+    "category": "ratownictwo",
+    "answer_1": "zrzucić żagle",
+    "answer_2": "wybrać wodę z jachtu",
+    "answer_3": "położyć maszt",
+    "correct_answer": 1
+  },
+  {
+    "id": "89",
+    "question": "Pierwszą czynnością po wyjęciu osoby nieprzytomnej z wody jest:",
+    "category": "ratownictwo",
+    "answer_1": "wezwanie pomocy medycznej oraz sprawdzenie tętna i oddechu poszkodowanego",
+    "answer_2": "okrycie poszkodowanego ciepłymi kocami i śpiworami i oklepywanie w celu szybkiego",
+    "answer_3": "ułożenie poszkodowanego w pozycji bocznej ustalonej oraz wezwanie pomocy medycznej",
+    "correct_answer": 1
+  },
+  {
+    "id": "90",
+    "question": "W przypadku krwotoku zewnętrznego:",
+    "category": "ratownictwo",
+    "answer_1": "należy założyć opatrunek uciskowy z dużą ilością gazy powyżej rany",
+    "answer_2": "należy założyć opatrunek uciskowy z dużą ilością gazy bezpośrednio na ranę",
+    "answer_3": "nie należy zakładać opatrunku uciskowego",
+    "correct_answer": 2
+  },
+  {
+    "id": "91",
+    "question": "Apteczka jachtowa powinna być wyposażona w:",
+    "category": "ratownictwo",
+    "answer_1": "igłę i nici chirurgiczne, nożyczki, leki na depresję",
+    "answer_2": "chustę trójkątną, maseczkę chirurgiczną, spirytus",
+    "answer_3": "folię NRC, ustnik do sztucznej wentylacji, węgiel leczniczy",
+    "correct_answer": 3
+  },
+  {
+    "id": "92",
+    "question": "Przy ratowaniu osoby z podejrzeniem urazu kręgosłupa należy:",
+    "category": "ratownictwo",
+    "answer_1": "położyć ją w pozycji bezpiecznej (bocznej ustalonej) i czekać na przybycie służb ratunkowych",
+    "answer_2": "sprawdzić funkcje życiowe i jeśli poszkodowany oddycha i ma wyczuwalne tętno, należy",
+    "answer_3": "sprawdzić funkcje życiowe i pomimo braku tętna, nie należy przystępować do resuscytacji, aby",
+    "correct_answer": 2
+  },
+  {
+    "id": "93",
+    "question": "W przypadku, gdy poszkodowany nie ma wyczuwalnego tętna, a jego twarz i usta są",
+    "category": "ratownictwo",
+    "answer_1": "zaniechać resuscytacji ze względu na niebezpieczeństwo zarażenia się chorobami przenoszonymi",
+    "answer_2": "podjąć resuscytację krążeniowo-oddechową, pomimo niebezpieczeństwa zarażenia się",
+    "answer_3": "w przypadku braku ustnika do sztucznej wentylacji, przystąpić do uciśnięć klatki piersiowej i",
+    "correct_answer": 3
+  },
+  {
+    "id": "94",
+    "question": "Gdy jacht morski zaczyna nabierać wody, opuszczenie jachtu może nastąpić:",
+    "category": "ratownictwo",
+    "answer_1": "w każdej chwili i każdy indywidualnie decyduje o opuszczeniu jednostki (kapitan traci swoją",
+    "answer_2": "tylko w wyniku głosowania, większość decyduje o opuszczeniu jachtu",
+    "answer_3": "jedynie na wyraźne polecenie kapitana albo osoby kierującej akcją ratowniczą",
+    "correct_answer": 3
+  },
+  {
+    "id": "95",
+    "question": "Gdy na śródlądziu radykalnie wzrasta prędkość wiatru i szybko zbliża się burza, należy:",
+    "category": "ratownictwo",
+    "answer_1": "jak najszybciej zrzucić żagle i na silniku płynąć do najbliższego bezpiecznego brzegu (port,",
+    "answer_2": "wszystkim członkom załogi nakazać zejście pod pokład, a za sterem zostaje tylko sternik",
+    "answer_3": "opuścić jacht",
+    "correct_answer": 1
+  },
+  {
+    "id": "96",
+    "question": "Sygnały wzywania pomocy na śródlądziu to między innymi:",
+    "category": "ratownictwo",
+    "answer_1": "flaga, którą zatacza się kręgi, powtarzane serie uderzeń w dzwon",
+    "answer_2": "machanie prawą ręką nad głową, podskakiwanie z jednoczesnym wymachem rąk (pajacyki),",
+    "answer_3": "wciągnięcie flagi H (jak help) na maszt",
+    "correct_answer": 1
+  },
+  {
+    "id": "97",
+    "question": "Sygnał SOS składa się z grupy sygnałów:",
+    "category": "ratownictwo",
+    "answer_1": "dwa krótkie, dwa długie i dwa krótkie dźwięki",
+    "answer_2": "trzy długie, trzy krótkie i trzy długie",
+    "answer_3": "trzy krótkie, trzy długie i trzy krótkie",
+    "correct_answer": 3
+  },
+  {
+    "id": "98",
+    "question": "Resuscytację zaczynamy od:",
+    "category": "ratownictwo",
+    "answer_1": "2 wdechów",
+    "answer_2": "5 wdechów",
+    "answer_3": "30 uciśnięć klatki piersiowej",
+    "correct_answer": 3
+  },
+  {
+    "id": "99",
+    "question": "Kiedy udzielamy komuś pomocy, należy:",
+    "category": "ratownictwo",
+    "answer_1": "ratować osoby potrzebujące pomocy niezależnie od sytuacji",
+    "answer_2": "zabezpieczyć najpierw siebie i swoją załogę i dopiero wtedy udzielać pomocy innym",
+    "answer_3": "mieć na sobie kamizelkę ratunkową",
+    "correct_answer": 2
+  },
+  {
+    "id": "100",
+    "question": "W jaki sposób sprawdzamy, czy poszkodowany oddycha?",
+    "category": "ratownictwo",
+    "answer_1": "pochylamy się tak, żeby uchem słyszeć, czy oddycha, obserwować, czy unosi się klatka",
+    "answer_2": "pochylamy się tak, żeby uchem słyszeć czy oddycha, policzkiem czuć oddech, a wzrokiem",
+    "answer_3": "pochylamy się tak, żeby uchem słyszeć oddech, kładziemy dwa palce na tętnicy udowej",
+    "correct_answer": 2
+  },
+  {
+    "id": "101",
+    "question": "Masaż serca wykonujemy z częstotliwością:",
+    "category": "ratownictwo",
+    "answer_1": "ok. 60 uciśnięć na minutę",
+    "answer_2": "ok. 100 uciśnięć na minutę",
+    "answer_3": "ok. 140 uciśnięć na minutę",
+    "correct_answer": 2
+  },
+  {
+    "id": "102",
+    "question": "Po wywrotce jachtu podłożenie koła ratunkowego pod top masztu:",
+    "category": "ratownictwo",
+    "answer_1": "przeciwdziała odwróceniu stępką do góry",
+    "answer_2": "zmniejsza dryf jednostki wywróconej",
+    "answer_3": "ułatwia pozostanie osób w kabinie jachtu",
+    "correct_answer": 1
+  },
+  {
+    "id": "103",
+    "question": "Przy gaszeniu płomienia kuchenki na jachcie należy najpierw:",
+    "category": "ratownictwo",
+    "answer_1": "zakręcić zawór na kuchence, a później na butli",
+    "answer_2": "zakręcić zawór na butli, a później na kuchence",
+    "answer_3": "kolejność nie ma znaczenia",
+    "correct_answer": 2
+  },
+  {
+    "id": "104",
+    "question": "W Polsce jest obowiązek udzielania pomocy osobie tego wymagającej:",
+    "category": "ratownictwo",
+    "answer_1": "bez względu na zagrożenia dla ratującego",
+    "answer_2": "po uprzednim zabezpieczeniu siebie przez ratującego",
+    "answer_3": "w Polsce nie ma obowiązku udzielania pierwszej pomocy",
+    "correct_answer": 2
+  },
+  {
+    "id": "105",
+    "question": "Na jachcie postępujemy zgodnie z zasadą:",
+    "category": "ratownictwo",
+    "answer_1": "poruszaj się zawsze po burcie zawietrznej",
+    "answer_2": "jedna ręka dla siebie, druga dla jachtu",
+    "answer_3": "miej zawsze 2 punkty podparcia",
+    "correct_answer": 2
+  },
+  {
+    "id": "106",
+    "question": "Przy zgłaszaniu wypadku najpierw należy podać:",
+    "category": "ratownictwo",
+    "answer_1": "miejsce zdarzenia i/lub punkty charakterystyczne",
+    "answer_2": "rodzaj obrażeń i liczbę osób",
+    "answer_3": "dane osobowe i nr telefonu osoby składającej meldunek",
+    "correct_answer": 1
+  },
+  {
+    "id": "107",
+    "question": "Kiedy ktoś ulegnie hipotermii, należy:",
+    "category": "ratownictwo",
+    "answer_1": "pocierać jego kończyny, aby go rozgrzać",
+    "answer_2": "podawać mu ciepłe, słodkie napoje",
+    "answer_3": "zachęcić go do wysiłku fizycznego, aby się rozgrzał",
+    "correct_answer": 2
+  },
+  {
+    "id": "108",
+    "question": "Jednym z sygnałów wzywania pomocy jest:",
+    "category": "ratownictwo",
+    "answer_1": "symetryczne podnoszenie i opuszczanie ramion, zataczanie kręgów flagą lub czymś podobnym",
+    "answer_2": "wciągnięcie czerwonej flagi na maszt, telefonowanie pod nr 112",
+    "answer_3": "założenie kamizelek ratunkowych",
+    "correct_answer": 1
+  },
+  {
+    "id": "109",
+    "question": "W przypadku złamania kości należy:",
+    "category": "ratownictwo",
+    "answer_1": "usztywnić tylko złamaną kość",
+    "answer_2": "usztywnić złamaną kość i przyległe stawy",
+    "answer_3": "zabandażować miejsce złamania",
+    "correct_answer": 2
+  },
+  {
+    "id": "110",
+    "question": "Kto jest uprawniony do wezwania pomocy, jeżeli na jachcie dojdzie do wypadku?",
+    "category": "ratownictwo",
+    "answer_1": "wyłącznie kapitan",
+    "answer_2": "wyłącznie członek załogi",
+    "answer_3": "każdy",
+    "correct_answer": 3
+  },
+  {
+    "id": "111",
+    "question": "Który z poniższych środków zapobiega wypadnięciu za burtę?",
+    "category": "ratownictwo",
+    "answer_1": "szelki bezpieczeństwa",
+    "answer_2": "kamizelka asekuracyjna",
+    "answer_3": "koło ratunkowe",
+    "correct_answer": 1
+  },
+  {
+    "id": "112",
+    "question": "Który z poniższych środków ratunkowych zapobiega utonięciu?",
+    "category": "ratownictwo",
+    "answer_1": "pas ratunkowy",
+    "answer_2": "rzutka ratunkowa",
+    "answer_3": "flara",
+    "correct_answer": 1
+  },
+  {
+    "id": "113",
+    "question": "Osoba, która zobaczy człowieka wypadającego za burtę, powinna po pierwsze:",
+    "category": "ratownictwo",
+    "answer_1": "założyć kapok",
+    "answer_2": "wezwać kapitana",
+    "answer_3": "ogłosić alarm",
+    "correct_answer": 3
+  },
+  {
+    "id": "114",
+    "question": "Co należy zrobić w przypadku omdlenia?",
+    "category": "ratownictwo",
+    "answer_1": "ułożyć poszkodowanego na płaskiej powierzchni z lekko uniesionymi nogami i zapewnić mu",
+    "answer_2": "podtrzymywać poszkodowanego w pionie i próbować z nim chodzić, żeby „nie spał”",
+    "answer_3": "energicznie klepać w policzki w celu ocucenia",
+    "correct_answer": 1
+  },
+  {
+    "id": "115",
+    "question": "Na jaki numer telefonu możemy dzwonić, aby wezwać pomoc?",
+    "category": "ratownictwo",
+    "answer_1": "666",
+    "answer_2": "123",
+    "answer_3": "112",
+    "correct_answer": 3
+  },
+  {
+    "id": "116",
+    "question": "Który z poniżej wymienionych jest indywidualnym środkiem ratunkowym?",
+    "category": "ratownictwo",
+    "answer_1": "kamizelka ratunkowa",
+    "answer_2": "flara",
+    "answer_3": "tratwa ratunkowa",
+    "correct_answer": 1
+  },
+  {
+    "id": "117",
+    "question": "Czy jacht śródlądowy musi być wyposażony w tratwę ratunkową?",
+    "category": "ratownictwo",
+    "answer_1": "nie",
+    "answer_2": "tak",
+    "answer_3": "tylko jacht mieczowy",
+    "correct_answer": 1
+  },
+  {
+    "id": "118",
+    "question": "Jednym ze sposobów wzywania pomocy jest:",
+    "category": "ratownictwo",
+    "answer_1": "czerwona flara",
+    "answer_2": "biała flara",
+    "answer_3": "zielona flara",
+    "correct_answer": 1
+  },
+  {
+    "id": "119",
+    "question": "Co należy zrobić w przypadku pogorszenia pogody?",
+    "category": "ratownictwo",
+    "answer_1": "pozostawić w kokpicie dwie najsilniejsze osoby, a resztę załogi schować przed deszczem w",
+    "answer_2": "całą załogę ubrać w kamizelki ratunkowe i zostawić w kabinie",
+    "answer_3": "całą załogę ubrać w kamizelki ratunkowe, nakazać im pozostanie w kokpicie i pozamykać",
+    "correct_answer": 3
+  },
+  {
+    "id": "120",
+    "question": "Co należy zrobić w przypadku krwawiącej rany?",
+    "category": "ratownictwo",
+    "answer_1": "zastosować opaskę uciskową",
+    "answer_2": "zastosować szynę unieruchamiającą kończynę",
+    "answer_3": "wykonać procedurę RKO",
+    "correct_answer": 1
+  },
+  {
+    "id": "121",
+    "question": "Którą z czynności należy przeprowadzić przed przystąpieniem do resuscytacji?",
+    "category": "ratownictwo",
+    "answer_1": "sprawdzić, czy poszkodowany reaguje oraz czy oddycha",
+    "answer_2": "sprawdzić w kieszeniach poszkodowanego, czy ma przy sobie lekarstwa",
+    "answer_3": "podać poszkodowanemu gorący, słodki napój",
+    "correct_answer": 1
+  },
+  {
+    "id": "122",
+    "question": "Aby uniknąć udaru słonecznego, należy:",
+    "category": "ratownictwo",
+    "answer_1": "nosić odzież chroniącą przed słońcem i pić dużo płynów",
+    "answer_2": "spożywać bardzo zimne napoje i potrawy",
+    "answer_3": "spożywać lekkie alkohole",
+    "correct_answer": 1
+  },
+  {
+    "id": "123",
+    "question": "Aby kąpać się w upalny dzień, należy:",
+    "category": "ratownictwo",
+    "answer_1": "spokojnie wchodzić do wody, powoli się schładzając",
+    "answer_2": "nasmarować się kremem do opalania",
+    "answer_3": "szybko wskoczyć do wody, żeby zminimalizować odczucie zimna",
+    "correct_answer": 1
+  },
+  {
+    "id": "124",
+    "question": "Jakie urządzenie jest pomocne w czasie sztormowania?",
+    "category": "ratownictwo",
+    "answer_1": "dryfkotwa",
+    "answer_2": "kotwica",
+    "answer_3": "spinaker",
+    "correct_answer": 1
+  },
+  {
+    "id": "125",
+    "question": "Zasady postępowania przy udarze słonecznym to:",
+    "category": "ratownictwo",
+    "answer_1": "ułożyć chorego w ciepłym i nasłonecznionym miejscu z głową uniesioną do góry, na głowę",
+    "answer_2": "ułożyć chorego w chłodnym i zacienionym miejscu z głową uniesioną do góry, na głowę położyć",
+    "answer_3": "posadzić chorego z głową uniesioną do góry, na głowę położyć ciepłe okłady z wody, podać",
+    "correct_answer": 2
+  },
+  {
+    "id": "126",
+    "question": "Pas ratunkowy jest środkiem ratunkowym zapewniającym:",
+    "category": "ratownictwo",
+    "answer_1": "utrzymanie człowieka na powierzchni wody przez około 1 godzinę",
+    "answer_2": "ratowanie człowieka z wszelkich trudnych sytuacji w czasie żeglugi",
+    "answer_3": "utrzymanie człowieka na powierzchni wody w pozycji umożliwiającej swobodne oddychanie",
+    "correct_answer": 3
+  },
+  {
+    "id": "127",
+    "question": "Przy rozpoczynaniu korzystania z jachtowej instalacji gazowej obowiązuje zasada:",
+    "category": "ratownictwo",
+    "answer_1": "najpierw odkręcamy zawór na butli",
+    "answer_2": "najpierw odkręcamy zawór przy kuchence",
+    "answer_3": "kolejność odkręcania zaworów jest dowolna",
+    "correct_answer": 1
+  },
+  {
+    "id": "128",
+    "question": "W trakcie żeglugi bezpieczniej jest poruszać się po pokładzie po burcie:",
+    "category": "ratownictwo",
+    "answer_1": "nawietrznej",
+    "answer_2": "zawietrznej",
+    "answer_3": "nie ma to znaczenia",
+    "correct_answer": 1
+  },
+  {
+    "id": "129",
+    "question": "Za niesienie pomocy w przypadku wypadnięcia członka załogi za burtę, odpowiada:",
+    "category": "ratownictwo",
+    "answer_1": "najbliższa placówka WOPR",
+    "answer_2": "prowadzący jacht",
+    "answer_3": "każdy załogant, który ukończył 18 rok życia",
+    "correct_answer": 2
+  },
+  {
+    "id": "130",
+    "question": "W miarę obniżenia temperatury wody, czas przeżycia człowieka w wodzie:",
+    "category": "ratownictwo",
+    "answer_1": "pozostaje bez zmian",
+    "answer_2": "skraca się",
+    "answer_3": "wydłuża się",
+    "correct_answer": 2
+  },
+  {
+    "id": "131",
+    "question": "Przed rozpoczęciem reanimacji poszkodowanego należy ułożyć:",
+    "category": "ratownictwo",
+    "answer_1": "na plecach, na miękkim, sprężystym podłożu",
+    "answer_2": "w pozycji bocznej ustalonej",
+    "answer_3": "na plecach, na twardym i równym podłożu",
+    "correct_answer": 3
+  },
+  {
+    "id": "132",
+    "question": "Przy złamaniu przedramienia unieruchamiamy:",
+    "category": "ratownictwo",
+    "answer_1": "miejsce złamania",
+    "answer_2": "miejsce złamania i nadgarstek",
+    "answer_3": "miejsce złamania, nadgarstek i staw łokciowy",
+    "correct_answer": 3
+  },
+  {
+    "id": "133",
+    "question": "Do gaszenia palącej się benzyny, użyjesz:",
+    "category": "ratownictwo",
+    "answer_1": "gaśnicy proszkowej",
+    "answer_2": "gaśnicy pianowej",
+    "answer_3": "wody",
+    "correct_answer": 1
+  },
+  {
+    "id": "134",
+    "question": "Podczas pracy na pokładzie:",
+    "category": "ratownictwo",
+    "answer_1": "przyjmujemy pozycję najniższą, aby utrzymać równowagę",
+    "answer_2": "przyjmujemy pozycję wyprostowaną, aby uzyskać maksymalną widoczność",
+    "answer_3": "pozycja przy pracy nie ma znaczenia",
+    "correct_answer": 1
+  }
+]
