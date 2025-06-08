@@ -1,0 +1,803 @@
+[
+  {
+    "id": 1,
+    "question": "Jaki żagiel należy zwiększyć na jachcie zawietrznym, aby go zrównoważyć? ",
+    "category": "teoria_zeglowania",
+    "answer_1": "tylny ",
+    "answer_2": "przedni ",
+    "answer_3": "środkowy ",
+    "correct_answer": 1
+  },
+  {
+    "id": 2,
+    "question": "Jak zwiększyć na jachcie nawietrznym zawietrzność, aby go zrównoważyć? ",
+    "category": "teoria_zeglowania",
+    "answer_1": "zmniejszyć przedni żagiel, obciążyć dziób, przesunąć miecz do przodu ",
+    "answer_2": "zwiększyć tylny żagiel, usunąć balast, wyciągnąć miecz ",
+    "answer_3": "zwiększyć przedni żagiel, obciążyć rufę, przesunąć miecz do tyłu ",
+    "correct_answer": 3
+  },
+  {
+    "id": 3,
+    "question": "Co to jest wiatr pozorny? ",
+    "category": "teoria_zeglowania",
+    "answer_1": "wypadkowa wiatru własnego i rzeczywistego ",
+    "answer_2": "wypadkowa wiatru własnego i ciągu wiatru ",
+    "answer_3": "suma ciągu wiatru i wiatru rzeczywistego ",
+    "correct_answer": 1
+  },
+  {
+    "id": 4,
+    "question": "Jak można zmienić położenie środka bocznego oporu? ",
+    "category": "teoria_zeglowania",
+    "answer_1": "dobalastować jacht ",
+    "answer_2": "przesunąć miecz w skrzynce mieczowej: przód-tył, przenieść balast na dziób bądź rufę – przegłębić dziób  bądź rufę ",
+    "answer_3": "usunąć balast z jachtu ",
+    "correct_answer": 2
+  },
+  {
+    "id": 5,
+    "question": "Co to jest kąt krytyczny? ",
+    "category": "teoria_zeglowania",
+    "answer_1": "jest to kąt wychylenia rumpla steru, po przekroczeniu którego może nastąpić jego złamanie ",
+    "answer_2": "jest to kąt wychylenia masztu pod naporem wiatru, po przekroczeniu którego może nastąpić jego  złamanie ",
+    "answer_3": "jest to kąt przechyłu jachtu mieczowego, po przekroczeniu którego nastąpi nieuchronne wywrócenie  jachtu ",
+    "correct_answer": 3
+  },
+  {
+    "id": 6,
+    "question": "Wyjaśnij pojęcie zawietrzności jachtu ? ",
+    "category": "teoria_zeglowania",
+    "answer_1": "jest to tendencja jachtu do samoistnego ostrzenia ",
+    "answer_2": "jest to tendencja jachtu do samoistnego odpadania ",
+    "answer_3": "jest to tendencja jachtu do samoistnego pływania z wiatrem  ",
+    "correct_answer": 2
+  },
+  {
+    "id": 7,
+    "question": "Jaką funkcję pełni miecz? ",
+    "category": "teoria_zeglowania",
+    "answer_1": "przeciwdziała dryfowi ",
+    "answer_2": "pomaga dryfowi, podwyższa środek ciężkości jachtu ",
+    "answer_3": "przecina wodę, zwiększając prędkość jachtu ",
+    "correct_answer": 1
+  },
+  {
+    "id": 8,
+    "question": "Co to jest odpadanie jachtu? ",
+    "category": "teoria_zeglowania",
+    "answer_1": "zmiana kursu jachtu z pełniejszego na ostrzejszy ",
+    "answer_2": "zmiana kursu jachtu z ostrzejszego na pełniejszy ",
+    "answer_3": "przechylanie jachtu pod wpływem prądów podwodnych ",
+    "correct_answer": 2
+  },
+  {
+    "id": 9,
+    "question": "Co zazwyczaj jest wyżej położone na jachcie mieczowym? ",
+    "category": "teoria_zeglowania",
+    "answer_1": "środek wyporu ",
+    "answer_2": "środek ciężkości ",
+    "answer_3": "środek oporu kadłuba ",
+    "correct_answer": 2
+  },
+  {
+    "id": 10,
+    "question": "Co to jest siła aerodynamiczna? ",
+    "category": "teoria_zeglowania",
+    "answer_1": "suma siły przechylającej i siły oporu bocznego ",
+    "answer_2": "wypadkowa siły prostującej i siły przechylającej ",
+    "answer_3": "wypadkowa siły ciągu i siły przechylającej ",
+    "correct_answer": 3
+  },
+  {
+    "id": 11,
+    "question": "Jak zwiększyć siłę skręcającą działającą na ster? ",
+    "category": "teoria_zeglowania",
+    "answer_1": "poprzez silne wychylenie płetwy sterowej ",
+    "answer_2": "poprzez minimalne wychylenie płetwy sterowej ",
+    "answer_3": "poprzez zatrzymanie jachtu ",
+    "correct_answer": 1
+  },
+  {
+    "id": 12,
+    "question": "Jak najłatwiej zwiększyć prędkość jachtu podczas płynięcia pod wiatr na żaglach? ",
+    "category": "teoria_zeglowania",
+    "answer_1": "poprzez odpadnięcie od wiatru bez luzowania żagli ",
+    "answer_2": "poprzez ostrzenie do wiatru i wyluzowanie żagli ",
+    "answer_3": "poprzez płynięcie na „granicy łopotu” i ostrzenie w szkwałach ",
+    "correct_answer": 3
+  },
+  {
+    "id": 13,
+    "question": "W jaki sposób można zwiększyć zawietrzność jachtu? ",
+    "category": "teoria_zeglowania",
+    "answer_1": "zwiększyć powierzchnię żagli przednich ",
+    "answer_2": "zmniejszyć powierzchnię żagli przednich ",
+    "answer_3": "ustawić jacht przodem do wiatru   13a W jaki sposób można zwiększyć zawietrzność jachtu? ",
+    "correct_answer": 1
+  },
+  {
+    "id": 14,
+    "question": "W jaki sposób można zwiększyć nawietrzność jachtu? ",
+    "category": "teoria_zeglowania",
+    "answer_1": "zwiększyć powierzchnię żagli przednich ",
+    "answer_2": "zmniejszyć powierzchnię żagli przednich ",
+    "answer_3": "można ustawić jacht tyłem do wiatru  14a W jaki sposób można zwiększyć nawietrzność jachtu? ",
+    "correct_answer": 2
+  },
+  {
+    "id": 15,
+    "question": "Co trzeba zrobić, gdy jacht nadmiernie się przechyla? ",
+    "category": "teoria_zeglowania",
+    "answer_1": "przenieść balast na burtę zawietrzną, wybrać maksymalnie żagle, odpaść od wiatru ",
+    "answer_2": "przenieść balast na burtę nawietrzną, luzować żagle, ostrzyć, refować żagle ",
+    "answer_3": "przenieść balast do tyłu, ustawić się bokiem do wiatru ",
+    "correct_answer": 1
+  },
+  {
+    "id": 16,
+    "question": "Co to jest ostrzenie jachtu? ",
+    "category": "teoria_zeglowania",
+    "answer_1": "zmiana kursu jachtu z pełniejszego na ostrzejszy ",
+    "answer_2": "zmiana kursu jachtu z ostrzejszego na pełniejszy ",
+    "answer_3": "przechylanie jachtu pod wpływem prądów podwodnych ",
+    "correct_answer": 3
+  },
+  {
+    "id": 17,
+    "question": "Nawietrzność jachtu to: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "tendencja jachtu do samoistnego ostrzenia ",
+    "answer_2": "tendencja jachtu do samoistnego odpadania ",
+    "answer_3": "tendencja jachtu do samoistnego pływania z wiatrem ",
+    "correct_answer": 2
+  },
+  {
+    "id": 18,
+    "question": "Czy woda w zęzie poprawia czy pogarsza stateczność jachtu? ",
+    "category": "teoria_zeglowania",
+    "answer_1": "nie wpływa na stateczność jachtu ",
+    "answer_2": "pogarsza stateczność jachtu ",
+    "answer_3": "poprawia stateczność jachtu  ",
+    "correct_answer": 2
+  },
+  {
+    "id": 19,
+    "question": "Jakim kursem powinien płynąć jacht na ostatnim etapie podejścia do boi? ",
+    "category": "teoria_zeglowania",
+    "answer_1": "baksztagiem ",
+    "answer_2": "półwiatrem ",
+    "answer_3": "być w kącie martwym lub w bardzo ostrym bajdewindzie ",
+    "correct_answer": 3
+  },
+  {
+    "id": 20,
+    "question": "Jakim kursem powinien płynąć jacht na ostatnim etapie podejścia do człowieka za burtą? ",
+    "category": "teoria_zeglowania",
+    "answer_1": "ostrym bajdewindem ",
+    "answer_2": "pod wiatr ",
+    "answer_3": "być w kącie martwym ",
+    "correct_answer": 1
+  },
+  {
+    "id": 21,
+    "question": "Wiatr wskazywany przez wimpel na jachcie podczas żeglugi to wiatr: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "pozorny ",
+    "answer_2": "własny ",
+    "answer_3": "rzeczywisty ",
+    "correct_answer": 1
+  },
+  {
+    "id": 22,
+    "question": "Wiatr wskazywany przez wimpel, icki, czy flagę na jachcie stojącym w porcie to wiatr: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "pozorny ",
+    "answer_2": "własny ",
+    "answer_3": "rzeczywisty ",
+    "correct_answer": 3
+  },
+  {
+    "id": 23,
+    "question": "W bezwietrzną pogodę jacht płynie na silniku. Na jego osprzęt działa wiatr: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "prawdziwy ",
+    "answer_2": "własny ",
+    "answer_3": "rzeczywisty ",
+    "correct_answer": 2
+  },
+  {
+    "id": 24,
+    "question": "W czasie szkwału (chwilowego wzrostu prędkości wiatru) wiatr pozorny: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "zmieni kierunek na bardziej ostry ",
+    "answer_2": "zmieni kierunek na bardziej pełny ",
+    "answer_3": "nie zmieni kierunku, tylko zwiększy się jego siła ",
+    "correct_answer": 1
+  },
+  {
+    "id": 25,
+    "question": "Po przejściu szkwału (zmniejszeniu prędkości wiatru) wiatr pozorny: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "zmieni kierunek na bardziej ostry ",
+    "answer_2": "zmieni kierunek na bardziej pełny ",
+    "answer_3": "nie zmieni kierunku, tylko zmniejszy się jego siła  ",
+    "correct_answer": 2
+  },
+  {
+    "id": 26,
+    "question": "Jeżeli płyniemy półwiatrem na żaglach i uruchomimy silnik (pędnik), to wiatr pozorny: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "zmieni kierunek na bardziej ostry ",
+    "answer_2": "zmieni kierunek na bardziej pełny ",
+    "answer_3": "nie zmieni kierunku, tylko zwiększy się jego siła ",
+    "correct_answer": 1
+  },
+  {
+    "id": 27,
+    "question": "O halsie jachtu płynącego na motyla ze spinakerem decyduje: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "położenie grotżagla ",
+    "answer_2": "położenie spinakera – spinakerbomu ",
+    "answer_3": "burta, na której siedzi sternik ",
+    "correct_answer": 1
+  },
+  {
+    "id": 28,
+    "question": "Określenie nazwy halsu (prawy – lewy) odpowiada określeniu: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "burty, na której znajduje się żagiel trójkątny położony najbliżej rufy ",
+    "answer_2": "burty, na której znajduje się główny żagiel (zazwyczaj grotżagiel) ",
+    "answer_3": "burty, na którą wieje wiatr (nawietrznej) ",
+    "correct_answer": 3
+  },
+  {
+    "id": 29,
+    "question": "Jacht płynący bez grotżagla, z fokiem na prawej burcie, płynie halsem: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "nie można określić halsu ",
+    "answer_2": "prawym ",
+    "answer_3": "lewym ",
+    "correct_answer": 3
+  },
+  {
+    "id": 30,
+    "question": "Aby zmniejszyć dryf w kursie półwiatr, należy: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "lekko przebrać grotżagiel ",
+    "answer_2": "podnieść miecz do połowy ",
+    "answer_3": "opuścić maksymalnie miecz i płetwę sterową ",
+    "correct_answer": 3
+  },
+  {
+    "id": 31,
+    "question": "Siła ciągu powstająca na żaglu zwiększa się w przypadku: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "zwiększenia przechyłu jachtu ",
+    "answer_2": "zmniejszenia przechyłu przez balastowanie jachtu ",
+    "answer_3": "wyluzowania żagli do łopotu ",
+    "correct_answer": 2
+  },
+  {
+    "id": 32,
+    "question": "Podniesienie płetwy sterowej o 45o spowoduje: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "polepszenie sterowności ",
+    "answer_2": "pogorszenie sterowności ",
+    "answer_3": "zmniejszenie dryfu  ",
+    "correct_answer": 2
+  },
+  {
+    "id": 33,
+    "question": "Podniesienie lekkiego miecza obrotowego do połowy spowoduje: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "nawietrzność jachtu ",
+    "answer_2": "zawietrzność jachtu ",
+    "answer_3": "zwiększenie przechyłu ",
+    "correct_answer": 2
+  },
+  {
+    "id": 34,
+    "question": "Przesunięcie załogi na dziób spowoduje: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "ostrzenie jachtu ",
+    "answer_2": "odpadanie jachtu ",
+    "answer_3": "zwiększenie przechyłu ",
+    "correct_answer": 1
+  },
+  {
+    "id": 35,
+    "question": "Optymalny kąt natarcia wiatru na żagiel przy kursach ostrych to: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "10–20o ",
+    "answer_2": "45 o ",
+    "answer_3": "60o ",
+    "correct_answer": 1
+  },
+  {
+    "id": 36,
+    "question": "Przebranie żagli powoduje: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "zmniejszenie dryfu jachtu ",
+    "answer_2": "zmniejszenie przechyłu jachtu ",
+    "answer_3": "zmniejszenie prędkości jachtu ",
+    "correct_answer": 2
+  },
+  {
+    "id": 37,
+    "question": "Przechył jachtu mieczowego płynącego bajdewindem zmniejszy się po: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "wyciągnięciu miecza ",
+    "answer_2": "wybraniu żagli ",
+    "answer_3": "odpadnięciu do półwiatru bez zmiany położenia żagli ",
+    "correct_answer": 3
+  },
+  {
+    "id": 38,
+    "question": "Jak nazywa się kurs jachtu względem wiatru, gdy ten wieje od rufy? ",
+    "category": "teoria_zeglowania",
+    "answer_1": "bejdewind ",
+    "answer_2": "fordewind ",
+    "answer_3": "achterwind ",
+    "correct_answer": 2
+  },
+  {
+    "id": 39,
+    "question": "Siła aerodynamiczna to siła działająca na jacht: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "pod wodą ",
+    "answer_2": "nad wodą ",
+    "answer_3": "wypadkowa sił działających nad i pod wodą  ",
+    "correct_answer": 2
+  },
+  {
+    "id": 40,
+    "question": "Gdy na jachcie mieczowym podniesiemy miecz to: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "siła oporów hydrodynamicznych wzrośnie ",
+    "answer_2": "siła aerodynamiczna zmaleje ",
+    "answer_3": "siła oporów hydrodynamicznych zmaleje ",
+    "correct_answer": 3
+  },
+  {
+    "id": 41,
+    "question": "Wiatr rzeczywisty to: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "wiatr odczuwany przez człowieka na poruszającym się jachcie ",
+    "answer_2": "wypadkowa wiatru pozornego i własnego ",
+    "answer_3": "wiatr wywołany warunkami meteorologicznymi i ukształtowaniem terenu ",
+    "correct_answer": 3
+  },
+  {
+    "id": 42,
+    "question": "Największą siłę skręcającą uzyskujemy przy wychyleniu płetwy sterowej o: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "10o–15o ",
+    "answer_2": "30o–50o ",
+    "answer_3": "80o–85o ",
+    "correct_answer": 2
+  },
+  {
+    "id": 43,
+    "question": "Jacht balastowy cechuje stateczność ciężaru, ponieważ: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "posiada nisko położony środek ciężkości ",
+    "answer_2": "posiada wysoko położony środek ciężkości ",
+    "answer_3": "nie posiada środka ciężkości ",
+    "correct_answer": 1
+  },
+  {
+    "id": 44,
+    "question": "Żagle pracują najlepiej, gdy: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "są wybrane do granicy łopotu ",
+    "answer_2": "są wybrane do osi jachtu ",
+    "answer_3": "są ustawione pod kątem 90o do wiatru własnego ",
+    "correct_answer": 1
+  },
+  {
+    "id": 45,
+    "question": "Nawietrzność jachtu można spowodować poprzez: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "luzowanie żagli przednich ",
+    "answer_2": "luzowanie żagli tylnych ",
+    "answer_3": "schowanie płetwy mieczowej ",
+    "correct_answer": 1
+  },
+  {
+    "id": 46,
+    "question": "Prędkość wiatru pozornego jest największa, gdy płyniemy: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "półwiatrem ",
+    "answer_2": "baksztagiem ",
+    "answer_3": "bajdewindem  ",
+    "correct_answer": 3
+  },
+  {
+    "id": 47,
+    "question": "W jachcie balastowym największy moment prostujący jest przy kącie przechyłu jachtu równym: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "25o ",
+    "answer_2": "90o ",
+    "answer_3": "180o ",
+    "correct_answer": 1
+  },
+  {
+    "id": 48,
+    "question": "W przypadku sztormowej pogody: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "zwiększamy powierzchnię ożaglowania, aby poprawić nawietrzność jachtu ",
+    "answer_2": "ustawiamy jacht burtą do wiatru ",
+    "answer_3": "zmniejszamy powierzchnię ożaglowania ",
+    "correct_answer": 3
+  },
+  {
+    "id": 49,
+    "question": "Na której burcie będzie leżał grotżagiel jachtu płynącego lewym halsem? ",
+    "category": "teoria_zeglowania",
+    "answer_1": "na prawej ",
+    "answer_2": "na lewej ",
+    "answer_3": "na nawietrznej ",
+    "correct_answer": 1
+  },
+  {
+    "id": 50,
+    "question": "Zwrot przez sztag polega na przejściu linii wiatru: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "dziobem od baksztagu jednego halsu do baksztagu przeciwnego ",
+    "answer_2": "rufą od bajdewindu jednego halsu do bajdewindu halsu przeciwnego ",
+    "answer_3": "dziobem od bajdewindu jednego halsu do bajdewindu halsu przeciwnego ",
+    "correct_answer": 3
+  },
+  {
+    "id": 51,
+    "question": "Wiatr własny to: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "wiatr wynikający z dyszowego działania foka ",
+    "answer_2": "wiatr pokazywany przez wimpel na jachcie podczas żeglugi ",
+    "answer_3": "wiatr wynikający z ruchu jachtu ",
+    "correct_answer": 3
+  },
+  {
+    "id": 52,
+    "question": "Jacht płynący prawym halsem, główny żagiel ma na burcie: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "nawietrznej ",
+    "answer_2": "lewej ",
+    "answer_3": "prawej ",
+    "correct_answer": 2
+  },
+  {
+    "id": 53,
+    "question": "Zwrot przez rufę polega na przejściu linii wiatru: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "dziobem od baksztagu jednego halsu do baksztagu przeciwnego ",
+    "answer_2": "rufą od bajdewindu jednego halsu do bajdewindu halsu przeciwnego ",
+    "answer_3": "rufą od baksztagu jednego halsu do baksztagu przeciwnego halsu  ",
+    "correct_answer": 3
+  },
+  {
+    "id": 54,
+    "question": "Który żagiel należy zwiększyć na jachcie zawietrznym, aby go zrównoważyć? ",
+    "category": "teoria_zeglowania",
+    "answer_1": "przedni ",
+    "answer_2": "tylny ",
+    "answer_3": "żaden z nich ",
+    "correct_answer": 2
+  },
+  {
+    "id": 55,
+    "question": "Przesunięcie załogi na rufę spowoduje: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "wzrost zawietrzności jachtu ",
+    "answer_2": "wzrost nawietrzności jachtu ",
+    "answer_3": "nie wpłynie na właściwości nautyczne jachtu ",
+    "correct_answer": 1
+  },
+  {
+    "id": 56,
+    "question": "Kierunek tego wiatru jest przeciwny do kierunku ruchu obiektu, np. jachtu. Jaki to wiatr? ",
+    "category": "teoria_zeglowania",
+    "answer_1": "wiatr rzeczywisty ",
+    "answer_2": "wiatr pozorny ",
+    "answer_3": "wiatr własny ",
+    "correct_answer": 3
+  },
+  {
+    "id": 57,
+    "question": "Względem którego z wiatrów ustawiamy żagle na jachcie: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "wiatr rzeczywisty ",
+    "answer_2": "wiatr pozorny ",
+    "answer_3": "wiatr własny ",
+    "correct_answer": 2
+  },
+  {
+    "id": 58,
+    "question": "Siła i kierunek wiatru pozornego: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "zmieniają się w zależności od prędkości jachtu oraz kursu jachtu względem wiatru ",
+    "answer_2": "są zależne tylko od siły wiatru ",
+    "answer_3": "są takie same w każdym kursie jachtu ",
+    "correct_answer": 1
+  },
+  {
+    "id": 59,
+    "question": "Kąt martwy ogranicza kurs jachtu zwany: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "baksztagiem ",
+    "answer_2": "fordewindem ",
+    "answer_3": "bajdewindem ",
+    "correct_answer": 3
+  },
+  {
+    "id": 60,
+    "question": "Położenie żagla głównego (grota) decyduje o: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "halsie jachtu ",
+    "answer_2": "kursie jachtu względem wiatru ",
+    "answer_3": "określa rodzaj jachtu  ",
+    "correct_answer": 1
+  },
+  {
+    "id": 61,
+    "question": "Boja widziana z prawej strony jachtu pod kątem prostym do diametralnej leży: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "na trawersie lewej burty ",
+    "answer_2": "na trawersie prawej burty ",
+    "answer_3": "na farwaterze ",
+    "correct_answer": 2
+  },
+  {
+    "id": 62,
+    "question": "W fordewindzie jacht może żeglować: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "tylko prawym halsem ",
+    "answer_2": "prawym lub lewym halsem ",
+    "answer_3": "na motyla, bez możliwości określenia halsu ",
+    "correct_answer": 2
+  },
+  {
+    "id": 63,
+    "question": "W związku z tym, że podczas ruchu jacht jest w środowisku powietrznym i wodnym, działają na  niego siły: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "aerodynamiczna i opór hydrodynamiczny wzdłużny ",
+    "answer_2": "przechylająca i tarcia ",
+    "answer_3": "aerodynamiczna i hydrodynamiczna ",
+    "correct_answer": 3
+  },
+  {
+    "id": 64,
+    "question": "Żagiel przedni, współpracując z grotem: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "powoduje niebezpieczny przechył jachtu i utrudnia żeglowanie w każdych warunkach ",
+    "answer_2": "powoduje wzrost siły ciągu ",
+    "answer_3": "powoduje zmniejszenie siły ciągu ",
+    "correct_answer": 2
+  },
+  {
+    "id": 65,
+    "question": "Siła, której zawdzięczamy ruch jachtu do przodu, to: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "siła ciągu ",
+    "answer_2": "siła przechylająca ",
+    "answer_3": "siła hydrodynamiczna ",
+    "correct_answer": 1
+  },
+  {
+    "id": 66,
+    "question": "W jakim kursie jachtu nie wystąpi siła przechylająca? ",
+    "category": "teoria_zeglowania",
+    "answer_1": "w bajdewindzie ",
+    "answer_2": "w baksztagu ",
+    "answer_3": "w fordewindzie ",
+    "correct_answer": 3
+  },
+  {
+    "id": 67,
+    "question": "W miarę ostrzenia przez jacht siła przechylająca: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "rośnie ",
+    "answer_2": "maleje ",
+    "answer_3": "pozostaje taka sama  ",
+    "correct_answer": 1
+  },
+  {
+    "id": 68,
+    "question": "W miarę odpadania przez jacht, przy prawidłowej pracy żaglami siła przechylająca: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "rośnie ",
+    "answer_2": "maleje ",
+    "answer_3": "pozostaje bez zmian ",
+    "correct_answer": 2
+  },
+  {
+    "id": 69,
+    "question": "Gdy chcemy zmniejszyć niekorzystny kąt przechyłu, należy: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "balastować jacht przez załogę lub zmniejszyć powierzchnię żagli ",
+    "answer_2": "balastować jacht przez załogę lub zwiększyć powierzchnię żagli ",
+    "answer_3": "wybrać żagle lub zmienić kurs jachtu na bardziej ostry ",
+    "correct_answer": 1
+  },
+  {
+    "id": 70,
+    "question": "Jest większe prawdopodobieństwo, że przy silnym wietrze wywróci się jacht: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "balastowy niż mieczowy ",
+    "answer_2": "jacht mieczowy z opuszczonym mieczem ",
+    "answer_3": "jacht mieczowy z podniesionym mieczem ",
+    "correct_answer": 2
+  },
+  {
+    "id": 71,
+    "question": "Wykonując jachtem pełną cyrkulację w prawo (360°) z kursu bajdewind prawego halsu, robimy  kolejno: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "dwa zwroty przez sztag ",
+    "answer_2": "zwrot przez rufę, zwrot przez sztag ",
+    "answer_3": "zwrot przez sztag, zwrot przez rufę ",
+    "correct_answer": 2
+  },
+  {
+    "id": 72,
+    "question": "Wykonując jachtem pełną cyrkulację w prawo (360°) z kursu bajdewind lewego halsu, robimy  kolejno: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "dwa zwroty przez sztag ",
+    "answer_2": "zwrot przez rufę, zwrot przez sztag ",
+    "answer_3": "zwrot przez sztag, zwrot przez rufę ",
+    "correct_answer": 2
+  },
+  {
+    "id": 73,
+    "question": "Żeby zwiększyć prędkość jachtu w kursie baksztag, możemy: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "podnieść płetwę mieczową ",
+    "answer_2": "podnieść płetwę sterową ",
+    "answer_3": "przegłębić dziób jachtu, obciążając go ",
+    "correct_answer": 1
+  },
+  {
+    "id": 74,
+    "question": "Zdolność powrotu jachtu do pozycji początkowej i zachowania równowagi to: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "wytrzymałość jachtu ",
+    "answer_2": "dzielność jachtu ",
+    "answer_3": "stateczność jachtu  ",
+    "correct_answer": 3
+  },
+  {
+    "id": 75,
+    "question": "Jachty zachowujące stateczność kształtu mają: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "środek ciężkości poniżej środka wyporu ",
+    "answer_2": "środek ciężkości nad środkiem wyporu ",
+    "answer_3": "znacznie obniżony środek ciężkości ",
+    "correct_answer": 2
+  },
+  {
+    "id": 76,
+    "question": "Przesunięcie środka ożaglowania do tyłu, a środka bocznego oporu do przodu spowoduje: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "zawietrzność jachtu ",
+    "answer_2": "nawietrzność jachtu ",
+    "answer_3": "przechył jachtu ",
+    "correct_answer": 2
+  },
+  {
+    "id": 77,
+    "question": "Przesunięcie środka ożaglowania do przodu, a środka bocznego oporu do tyłu spowoduje: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "zawietrzność jachtu ",
+    "answer_2": "nawietrzność jachtu ",
+    "answer_3": "dryf ",
+    "correct_answer": 1
+  },
+  {
+    "id": 78,
+    "question": "Jachty, które mają skłonność do ostrzenia bez udziału steru, są: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "nawietrzne ",
+    "answer_2": "zawietrzne ",
+    "answer_3": "zrównoważone ",
+    "correct_answer": 1
+  },
+  {
+    "id": 79,
+    "question": "Jachty, które mają skłonność do odpadania bez udziału steru, są: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "nawietrzne ",
+    "answer_2": "zawietrzne ",
+    "answer_3": "zrównoważone ",
+    "correct_answer": 2
+  },
+  {
+    "id": 80,
+    "question": "Przy biegu do przodu dziób jachtu skręca w prawo, gdy: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "płetwa sterowa wychyla się do lewej burty ",
+    "answer_2": "płetwa sterowa wychyla się do prawej burty ",
+    "answer_3": "płetwa sterowa jest w pozycji „zero” ",
+    "correct_answer": 2
+  },
+  {
+    "id": 81,
+    "question": "Przy biegu do tyłu dziób jachtu skręca w prawo, gdy: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "płetwa sterowa wychyla się do lewej burty ",
+    "answer_2": "płetwa sterowa wychyla się do prawej burty ",
+    "answer_3": "płetwa sterowa jest w pozycji „zero”  ",
+    "correct_answer": 1
+  },
+  {
+    "id": 82,
+    "question": "Zdolność jachtu do wykonywania skrętu o jak najmniejszym promieniu nazywamy: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "statecznością ",
+    "answer_2": "nawietrznością ",
+    "answer_3": "zwrotnością ",
+    "correct_answer": 3
+  },
+  {
+    "id": 83,
+    "question": "Komendy wydawane na ster dotyczą: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "strony, w którą ma być wychylona płetwa sterowa ",
+    "answer_2": "strony, w którą ma być wychylony rumpel steru ",
+    "answer_3": "strony, w którą ma skręcić dziób jachtu (przy poruszaniu się jachtu w przód lub w tył) ",
+    "correct_answer": 3
+  },
+  {
+    "id": 84,
+    "question": "Boja widziana z lewej strony jachtu pod kątem prostym do diametralnej leży: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "na trawersie lewej burty ",
+    "answer_2": "na trawersie prawej burty ",
+    "answer_3": "na farwaterze ",
+    "correct_answer": 1
+  },
+  {
+    "id": 85,
+    "question": "Gdy wiatr wieje pomiędzy trawersem a kątem martwym jachtu, to jacht płynie: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "baksztagiem ",
+    "answer_2": "półwiatrem ",
+    "answer_3": "bajdewindem ",
+    "correct_answer": 3
+  },
+  {
+    "id": 86,
+    "question": "Jacht zrównoważony to taki, który po odpowiednim ustawieniu żagli podczas płynięcia i  ustawieniu steru w osi jachtu: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "skręca w prawo ",
+    "answer_2": "ostrzy ",
+    "answer_3": "nie wykazuje tendencji do skrętu ",
+    "correct_answer": 3
+  },
+  {
+    "id": 87,
+    "question": "Sprawność steru (precyzja i szybkość reakcji) wzrasta wraz z: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "wzrostem prędkości jachtu ",
+    "answer_2": "wzrostem przechyłu jachtu ",
+    "answer_3": "spadkiem prędkości jachtu ",
+    "correct_answer": 1
+  },
+  {
+    "id": 88,
+    "question": "Wraz ze wzrostem wychylenia steru: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "maleje składowa skręcająca ",
+    "answer_2": "maleje składowa hamująca ",
+    "answer_3": "wzrastają obie składowe siły naporu mas wody  ",
+    "correct_answer": 3
+  },
+  {
+    "id": 89,
+    "question": "Na jachcie można zwiększyć moment prostujący poprzez: ",
+    "category": "teoria_zeglowania",
+    "answer_1": "wybranie wszystkich żagli ",
+    "answer_2": "obniżenie środka ciężkości poprzez wysłanie załogi pod pokład ",
+    "answer_3": "przesunięcie środka ciężkości na burtę nawietrzną ",
+    "correct_answer": 3
+  }
+]
