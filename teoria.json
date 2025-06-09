@@ -113,7 +113,7 @@
     "category": "teoria_zeglowania",
     "answer_1": "zwiększyć powierzchnię żagli przednich ",
     "answer_2": "zmniejszyć powierzchnię żagli przednich ",
-    "answer_3": "ustawić jacht przodem do wiatru   13a W jaki sposób można zwiększyć zawietrzność jachtu? ",
+    "answer_3": "ustawić jacht przodem do wiatru",
     "correct_answer": 1
   },
   {
@@ -122,7 +122,7 @@
     "category": "teoria_zeglowania",
     "answer_1": "zwiększyć powierzchnię żagli przednich ",
     "answer_2": "zmniejszyć powierzchnię żagli przednich ",
-    "answer_3": "można ustawić jacht tyłem do wiatru  14a W jaki sposób można zwiększyć nawietrzność jachtu? ",
+    "answer_3": "można ustawić jacht tyłem do wiatru",
     "correct_answer": 2
   },
   {
@@ -627,7 +627,7 @@
     "answer_1": "balastowy niż mieczowy ",
     "answer_2": "jacht mieczowy z opuszczonym mieczem ",
     "answer_3": "jacht mieczowy z podniesionym mieczem ",
-    "correct_answer": 2
+    "correct_answer": 3
   },
   {
     "id": 71,
