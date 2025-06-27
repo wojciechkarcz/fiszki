@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8" />
+  <title>Fiszki – Jak to działa?</title>
+
+  <!-- the stylesheet you already have -->
+  <link rel="stylesheet" href="style.css" />
+
+  <style>
+    /* (1) let the prose fill the card neatly */
+    .card p, .card li { line-height: 1.5; }
+
+    /* (2) table that matches your card aesthetic */
+    .card table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1rem 0;
+      font-size: .95rem;
+    }
+    .card th, .card td {
+      border: 1px solid #ccc;
+      padding: .5rem .75rem;
+      text-align: left;
+    }
+    .card th { background: #f3f9ff; font-weight: 600; }
+  </style>
+</head>
+
+<body>
+  <!-- top-right “Reset” (shares rule .reset-link) -->
+  <a id="resetLink" class="reset-link" href="index.html">⟲ Powrót</a>
+
+  <!-- top-left category bar (same markup/style as in review pages) -->
+  <nav class="top-menu">
+    <a href="budowa.html">Budowa</a>
+    <a href="meteo.html">Meteorologia</a>
+    <a href="teoria.html">Teoria żeglowania</a>
+    <a href="przepisy.html">Przepisy i etykieta</a>
+    <a href="ratownictwo.html">Ratownictwo</a>
+    <a href="locja.html">Locja</a>
+  </nav>
+
+  <!-- main content in the familiar “card” -->
+  <main class="card">
+
+    <h2>Wstęp</h2>
+    <p>Jest to prosta aplikacja o roboczej nazwie „Fiszki”…</p>
+    <p><a href="https://egzamin.tojest.dev">egzamin.tojest.dev</a></p>
+
+    <h2>Zakres materiału</h2>
+    <p>Aplikacja służy do…</p>
+    <ul>
+      <li>Budowa jachtu</li>
+      <li>Teoria żeglowania</li>
+      <li>Locja</li>
+      <li>Przepisy i etykieta</li>
+      <li>Ratownictwo</li>
+      <li>Meteorologia</li>
+    </ul>
+    <p>Łącznie w bazie znajduje się 771 pytań.</p>
+
+    <h2>Jak to działa?</h2>
+    <p>W górnym menu znajdują się kategorie pytań…</p>
+
+    <h3>O co chodzi z koszykami?</h3>
+    <p>Na początku…</p>
+
+    <h3>Jak losowane są kolejne pytania?</h3>
+    <p>Następne pytanie…</p>
+
+    <table>
+      <thead>
+        <tr><th>Koszyk</th><th>Udział&nbsp;(%)</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Koszyk 1</td><td>50 %</td></tr>
+        <tr><td>Koszyk 2</td><td>25 %</td></tr>
+        <tr><td>Koszyk 3</td><td>15 %</td></tr>
+        <tr><td>Koszyk 4</td><td>7 %</td></tr>
+        <tr><td>Koszyk 5</td><td>3 %</td></tr>
+      </tbody>
+    </table>
+
+    <p>Dodatkowo są stosowane wagi…</p>
+
+    <h3>Status postępów nauki</h3>
+    <p>Aplikacja przechowuje informacje…</p>
+
+    <h2>Technikalia</h2>
+    <p>Aplikacja została w 100 % wygenerowana przez AI (model o3)…</p>
+
+    <p>Pełny kod aplikacji:  
+      <a href="https://github.com/wojciechkarcz/fiszki" target="_blank">
+        github.com/wojciechkarcz/fiszki
+      </a>
+    </p>
+
+    <p><strong>Twórca aplikacji:</strong><br>
+       Wojciech Karcz<br>
+       <a href="https://wojciechkarcz.pl">wojciechkarcz.pl</a></p>
+
+  </main>
+</body>
+</html>
