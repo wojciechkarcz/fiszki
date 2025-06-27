@@ -16,6 +16,14 @@ body {
   padding:2rem;
 }
 
+.card_about {
+  background:#fff;
+  border-radius:12px;
+  box-shadow:0 4px 12px rgba(0,0,0,.1);
+  width:min(90%,650px);
+  padding:2rem;
+}
+
 /* Question */
 h2 {
   margin-top:0;
@@ -104,7 +112,7 @@ button:hover { opacity:.9; }
 
 /* top-left horizontal menu */
 .top-menu {
-  position: fixed;     /* pins the whole bar */
+  position: fixed;    /*  pins the whole bar */
   top: 1rem;
   left: 1rem;
   display: flex;       /* one line */
