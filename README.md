@@ -44,6 +44,7 @@ Następne pytanie jest losowane wg następującej proporcji:
 | Koszyk 3 | 15 %       |
 | Koszyk 4 | 7 %        |
 | Koszyk 5 | 3 %        |
+
 Dodatkowo są stosowane wagi do tych współczynników; w tym wypadku jest to liczba pytań w każdym koszyku. Dzięki temu w pierwszej kolejności otrzymamy pytania z niższych koszyków a nie wyższych. Również za każdym razem kolejność wyświetlania odpowiedzi jest inna, więc trzeba uważać, którą się zaznacza ;) 
 
 
