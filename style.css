@@ -79,7 +79,8 @@ button:hover { opacity:.9; }
 
 .bucket { font-size: 0.9rem; color: #555; margin: 0 0 .5rem 0; }
 
-/* reset link – top-right corner */
+
+/* reset link – top-right corner 
 #resetLink {
   position: fixed;
   top: 1rem;
@@ -92,7 +93,7 @@ button:hover { opacity:.9; }
   text-decoration: none;
 }
 .reset-link:hover { text-decoration: underline; }
-
+*/
 
 /* stats line */
 .stats {
@@ -119,3 +120,23 @@ button:hover { opacity:.9; }
 }
 
 .top-menu a:hover { text-decoration: underline; }
+
+
+/* top-right link bar */
+.top-right {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  display: flex;
+  gap: .8rem;
+  z-index: 999;           /* above everything */
+}
+
+.top-right a {
+  font-size: .9rem;
+  font-weight: 600;
+  color: #2367ff;
+  text-decoration: none;
+}
+
+.top-right a:hover { text-decoration: underline; }
