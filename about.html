@@ -9,21 +9,21 @@
 
   <style>
     /* (1) let the prose fill the card neatly */
-    .card p, .card li { line-height: 1.5; }
+    .card_about p, .card_about li { line-height: 1.5; }
 
     /* (2) table that matches your card aesthetic */
-    .card table {
-      width: 100%;
+    .card_about table {
+      width: 60%;
       border-collapse: collapse;
       margin: 1rem 0;
       font-size: .95rem;
     }
-    .card th, .card td {
+    .card_about th, .card_about td {
       border: 1px solid #ccc;
       padding: .5rem .75rem;
       text-align: left;
     }
-    .card th { background: #f3f9ff; font-weight: 600; }
+    .card_about th { background: #f3f9ff; font-weight: 600; }
   </style>
 </head>
 
@@ -42,14 +42,14 @@
   </nav>
 
   <!-- main content in the familiar “card” -->
-  <main class="card">
+  <main class="card_about">
 
     <h2>Wstęp</h2>
-    <p>Jest to prosta aplikacja o roboczej nazwie „Fiszki”…</p>
+    <p>Jest to prosta aplikacja o roboczej nazwie "Fiszki". Jak sama nazwa wskazuje służy do powtarzania materiału tzw. metodą fiszek.</p>
     <p><a href="https://egzamin.tojest.dev">egzamin.tojest.dev</a></p>
-
+    <br>
     <h2>Zakres materiału</h2>
-    <p>Aplikacja służy do…</p>
+    <p>W tym konkretnym wypadku aplikacja służy do powtarzania wiedzy do egzaminu teoretycznego na patent Żeglarza Jachtowego z następujących zagadnień:</p>
     <ul>
       <li>Budowa jachtu</li>
       <li>Teoria żeglowania</li>
@@ -59,15 +59,22 @@
       <li>Meteorologia</li>
     </ul>
     <p>Łącznie w bazie znajduje się 771 pytań.</p>
-
+    <br>
     <h2>Jak to działa?</h2>
-    <p>W górnym menu znajdują się kategorie pytań…</p>
+    <p>W górnym menu znajdują się kategorie pytań. Po kliknięciu pojawia się karta z losowym pytaniem. Po zaznaczeniu odpowiedzi trzeba nacisnąć przycisk "CHECK", a następnie "NEXT", aby przejść do następnego pytania.</p>
+    <br>
 
-    <h3>O co chodzi z koszykami?</h3>
-    <p>Na początku…</p>
-
-    <h3>Jak losowane są kolejne pytania?</h3>
-    <p>Następne pytanie…</p>
+    <img src="img/fiszki_instrukcja.png" width="100%">
+    <br><br><br>
+    <b>O co chodzi z koszykami?</b>
+    <p>Na początku wszystkie pytania w ramach każdej kategorii znajdują się w tzw. 1-szym koszyku ("bucket 1"). Kiedy odpowiemy poprawnie, to wtedy przenoszą się do kolejnego koszyka. Jeśli odpowiemy źle, to pytanie wraca do poprzedniego koszyka. Naszym celem jest przeniesienie wszystkich pytań do ostatniego 5-tego koszyka, co oznacza 5 poprawnych odpowiedzi na każde pytanie.</p>
+    <img src="img/fiszki_system.svg" width="70%">
+    
+    <p>Ta metoda nauki nazywa się <a href="https://en.wikipedia.org/wiki/Spaced_repetition">"spaced repetition"</a> i jak sam nazwa wskazuje polega na powtarzaniu materiału kilka razy w oddzielonych od siebie sesjach. Dzięki temu lepiej i trwalej zapamiętamy informację, niż odpowiadając poprawnie na pytanie tylko jeden raz.</p>
+    <p>Na dole karty z pytanim znajduje się stan koszyków, czyli ile obecnie pytań znajduje się w każdym z koszyków i jaki to jest procentowo udział w stosunku do wszystkich pytań w ramach konkretnej kategorii.</p>
+    <br>
+    <b>Jak losowane są kolejne pytania?</b>
+    <p>Następne pytanie jest losowane wg następującej proporcji:</p>
 
     <table>
       <thead>
@@ -82,24 +89,30 @@
       </tbody>
     </table>
 
-    <p>Dodatkowo są stosowane wagi…</p>
-
-    <h3>Status postępów nauki</h3>
-    <p>Aplikacja przechowuje informacje…</p>
-
+    <p>Dodatkowo są stosowane wagi do tych współczynników; w tym wypadku jest to liczba pytań w każdym koszyku. Dzięki temu w pierwszej kolejności otrzymamy pytania z niższych koszyków a nie wyższych. Również za każdym razem kolejność wyświetlania odpowiedzi jest inna, więc trzeba uważać, którą się zaznacza ;)</p>
+<br>
+    <b>Status postępów nauki</b>
+    <p>Aplikacja przechowuje informacje o naszych postępach lokalnie w pamięci przeglądarki. Dzięki temu nawet, jeśli zamkniemy zakładkę, wyłączymy przeglądarkę, odetnie nas od internetu, czy wyłączymy komputer, to po wejściu ponownie na stronę aplikacji (uwaga: z tej samej przeglądarki), to zobaczymy zapisany status naszych postępów.
+W prawym górnym rogu znajduje się przycisk "Reset", który czyści wszystkie zapisane dane i powoduje powrót do sytuacji startowej, gdzie wszystkie pytania znajdują się w koszyku nr 1.</p>
+       <br> 
     <h2>Technikalia</h2>
-    <p>Aplikacja została w 100 % wygenerowana przez AI (model o3)…</p>
+    <p>Aplikacja została w 100% wygenerowana przez AI (model o3) jako narzędzie pomagające w nauce na egzamin żeglarski.
+<br><br>
+Każda zakładka z pytaniami w ramach danej kategorii to tak naprawdę osobny plik .html zawierający całą logikę aplikacji. Jest to tzw. "single page app". Pliki ze strony można ściągnąć na swój komputer i uruchomić lokalnie w dowolnej przeglądarce (będzie działać bez dostępu do internetu).</p>
 
     <p>Pełny kod aplikacji:  
+        <br>
       <a href="https://github.com/wojciechkarcz/fiszki" target="_blank">
         github.com/wojciechkarcz/fiszki
       </a>
     </p>
 
-    <p><strong>Twórca aplikacji:</strong><br>
-       Wojciech Karcz<br>
-       <a href="https://wojciechkarcz.pl">wojciechkarcz.pl</a></p>
+    <p>Twórca aplikacji:
+      <br>
+        Wojciech Karcz - 
 
+       <a href="https://wojciechkarcz.pl">wojciechkarcz.pl</a></p>
+        </p>
   </main>
 </body>
 </html>
