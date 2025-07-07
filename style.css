@@ -117,7 +117,7 @@ button:hover { opacity:.9; }
   left: 1rem;
   display: flex;       /* one line */
   gap: .8rem;          /* spacing between links */
-  z-index: 998;        /* keeps it above the card */
+       /* keeps it above the card */
 }
 
 .top-menu a {
@@ -148,3 +148,13 @@ button:hover { opacity:.9; }
 }
 
 .top-right a:hover { text-decoration: underline; }
+
+.about .top-menu {
+  position: static;      /* falls back into normal flow */
+  margin: 1rem 0;        /* a bit of breathing room below */
+}
+
+.about .top-right {
+  position: static;      /* falls back into normal flow */
+  margin: 1rem 0;        /* a bit of breathing room below */
+}
